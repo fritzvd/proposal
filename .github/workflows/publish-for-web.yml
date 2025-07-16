@@ -1,0 +1,20 @@
+on: push
+name: Publish for Web
+jobs:
+  materialenpubliceren:
+    if: github.ref == 'refs/heads/main'
+    name: Deploy to GH Pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Render Quarto Project
+        uses: quarto-dev/quarto-actions/render@v2
+        env:
+          QUARTO_PROFILE: preview
+        with:
+          to: html
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Build output to publish to the `gh-pages` branch:
+          publish_dir: ./_manuscript
