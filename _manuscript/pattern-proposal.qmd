@@ -10,20 +10,16 @@ bibliography: references.bib
 With the rise of digitization and the data is produces, the question of ownership of data becomes a contested issue for agents such as Indigenous people, consumers and countries[@hummel2021data]. If the ownership is not clear and personal data cannot always be obtained [@herrmannObtainingPersonalData2016] it should be clear we should not only look to data governance but also to privacy literacy [@koltay2016data]. According to @rotmanAreYouLooking for users to consciously decide what happens with their information they should go from _understanding, recognizing, realizing, evaluating_ to _deciding_.
 Much of privacy literacy literature has used ethnocentric Western-based ideas of governance and regulation that do not take into account the multi-varied ways privacy can be perceived in the Majority World[@arora2019general].
 
-Some Big Tech parties have decided to bring to the Majority World in the last decade [@]
+Some Big Tech parties have decided to bring a limited version of the internet to the Majority World in the last decade [@MetaConnectivity, @IntroducingProjectLoon2013].
 
 ## Problem
 
-Understanding what happens with your data is difficult and ambigiuous in a context where internet is free. What is the cost of that internet being free?
+Understanding what happens with your data is difficult and ambigiuous in any context [@bartschControlYourFacebook2016], intuitively this would be even more so where internet is free. Companies like Meta profit from tracking users online [@wernerfeltEstimatingValueOffsite2025]. Where the quality or the inner workings are being assessed [@senFreeBridgeDigital2016, @senWalledGardenDeconstructing2017] results are mixed. On the other hand zero-rated services have significantly contributed to access to information and appointments for Maternal Health or free messaging for HIV/AIDS medical appointments [@layton2016free]. Other critiques of "zero-rating" are issues of net-neutrality and gatekeeping [@galpayaZeroratingEmergingEconomies].
 
-### Forces
+## Research questions
 
-Initiatives as the free internet programme by meta Free Basics [@MetaConnectivity] have a very different driving force. It is expanding the Facebook empire.
 
-## Solution
 
-Using a non-eurocentric privacy model, in places where privacy is more collective to understand how to 
-
-## Consequences
+## Research methodology
 
 If people are aware of their predicament

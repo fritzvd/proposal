@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
+and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title>PhD Proposal</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Frederik J</given-names>
+          </name>
+          <string-name>Frederik J van Deventer</string-name>
+          <role vocab="https://credit.niso.org" vocab-term="writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+          <xref ref-type="aff" rid="aff-1">a</xref>
+          <xref ref-type="corresp" rid="cor-1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff-1">
+        <institution-wrap>
+          <institution>HAN University of Applied Sciences</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor-1"/>
+      </author-notes>
+      <history/>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="introduction">
+      <title>Introduction</title>
+      <p>For most people exchanging data, even personal data has become
+  essential to their day to day life. We exchange messages, store data
+  about our health, and use apps where the exchange of our coordinates
+  on this earth are accurate up to about 1-2 meters. As we do not pay
+  for these services and these companies thrive on the use of our data
+  and tracking our every move, serious concerns are being raised about
+  the risks on an individual and societal level
+  (<xref alt="Rathenau Instituut 2025" rid="ref-rathenauinstituutPrijsVanGratis2025" ref-type="bibr">Rathenau
+  Instituut 2025</xref>). From a government perspective biometric data
+  is collected for refugees registering to seek asylum
+  (<xref alt="Farraj 2010" rid="ref-farraj2010refugees" ref-type="bibr">Farraj
+  2010</xref>) and we have seen a surge in digital health passes during
+  and after COVID-19
+  (<xref alt="Mithani et al. 2022" rid="ref-mithani2022scoping" ref-type="bibr">Mithani
+  et al. 2022</xref>). Haiti saw one of the most effective participation
+  in crowdsourced mapping through Ushahidi
+  (<xref alt="Norheim-Hagtun and Meier 2010" rid="ref-norheim2010crowdsourcing" ref-type="bibr">Norheim-Hagtun
+  and Meier 2010</xref>). Some of these efforts are well intended and do
+  a lot of good Organisation
+  (<xref alt="n.d." rid="ref-worldhealthorganisationGlobalDigitalHealth" ref-type="bibr">n.d.</xref>),
+  but this tracking of biometric and social data is also used for the
+  creation of economic value and has lead to something more than just a
+  phenomenon of capitalism; it’s a manifestation of colonialism
+  (<xref alt="Couldry and Mejias 2019" rid="ref-couldry2019data" ref-type="bibr">Couldry
+  and Mejias 2019</xref>). With new developments in AI this becomes more
+  prevalent as data and AI “entrench power assymetries and engender new
+  forms of structural violence and new inequities between the global
+  South and North”
+  (<xref alt="Madianou 2024" rid="ref-madianou2024technocolonialism" ref-type="bibr">Madianou
+  2024</xref>). The quest for more users and ever larger expansion has
+  led Big Tech (e.g. Google, Meta) to look for areas where internet
+  usage is not as widely spread as it is in “the West” and offer
+  programs providing a limited set of Internet services (e.g. Project
+  Loon
+  (<xref alt="“Introducing Project Loon: Balloon-powered Internet Access” 2013" rid="ref-IntroducingProjectLoon2013" ref-type="bibr">“Introducing
+  Project Loon: <named-content content-type="nocase">Balloon-powered
+  Internet</named-content> Access” 2013</xref>) and Free Basics
+  (<xref alt="“Meta Connectivity” n.d." rid="ref-MetaConnectivity" ref-type="bibr">“Meta
+  Connectivity” n.d.</xref>)). There is little to no protection or
+  privacy for private consumers unless government regulation explicitly
+  makes it so, like the GDPR program
+  (<xref alt="Arora 2019" rid="ref-arora2019general" ref-type="bibr">Arora
+  2019</xref>).</p>
+    </sec>
+    <sec id="research-questions">
+      <title>Research Questions</title>
+      <p>In what way can power assymetries between the majority world and
+  the minority world be limited by effective legislation towards
+  protecting personal data of citizens?</p>
+      <p>How can privacy literacy be increased that respects a cultural
+  tradition without using a Eurocentric view of individual privacy but
+  including a collective privacy?</p>
+    </sec>
+    <sec id="methodology">
+      <title>Methodology</title>
+      <list list-type="bullet">
+        <list-item>
+          <p>Qualitative investigation of policy, laws in different
+      countries</p>
+        </list-item>
+        <list-item>
+          <p>Questionnaire on usage of internet and awareness of privacy
+      concerns..</p>
+        </list-item>
+      </list>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <title>References</title>
+      <ref id="ref-arora2019general">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arora</surname>
+              <given-names>Payal</given-names>
+            </name>
+          </person-group>
+          <article-title>General data protection regulation—A global standard? Privacy futures, digital activism, and surveillance cultures in the Global South</article-title>
+          <source>Surveillance &amp; Society</source>
+          <year iso-8601-date="2019">2019</year>
+          <volume>17</volume>
+          <issue>5</issue>
+          <fpage>717</fpage>
+          <lpage>725</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-couldry2019data">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Couldry</surname>
+              <given-names>Nick</given-names>
+            </name>
+            <name>
+              <surname>Mejias</surname>
+              <given-names>Ulises A</given-names>
+            </name>
+          </person-group>
+          <article-title>Data colonialism: Rethinking big data’s relation to the contemporary subject</article-title>
+          <source>Television &amp; New Media</source>
+          <publisher-name>Sage Publications Sage CA: Los Angeles, CA</publisher-name>
+          <year iso-8601-date="2019">2019</year>
+          <volume>20</volume>
+          <issue>4</issue>
+          <fpage>336</fpage>
+          <lpage>349</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-farraj2010refugees">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Farraj</surname>
+              <given-names>Achraf</given-names>
+            </name>
+          </person-group>
+          <article-title>Refugees and the biometric future: The impact of biometrics on refugees and asylum seekers</article-title>
+          <publisher-name>HeinOnline</publisher-name>
+          <year iso-8601-date="2010">2010</year>
+          <volume>42</volume>
+          <fpage>891</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-IntroducingProjectLoon2013">
+        <element-citation>
+          <article-title>Introducing Project Loon: Balloon-powered Internet access</article-title>
+          <source>Google</source>
+          <publisher-name>https://blog.google/alphabet/introducing-project-loon/</publisher-name>
+          <year iso-8601-date="2013-06">2013</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-07-10">2025</year>
+            <month>07</month>
+            <day>10</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-madianou2024technocolonialism">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Madianou</surname>
+              <given-names>Mirca</given-names>
+            </name>
+          </person-group>
+          <source>Technocolonialism: When technology for good is harmful</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <year iso-8601-date="2024">2024</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-MetaConnectivity">
+        <element-citation>
+          <article-title>Meta Connectivity</article-title>
+          <publisher-name>https://www.facebook.com/connectivity/solutions/free-basics/</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-07-10">2025</year>
+            <month>07</month>
+            <day>10</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-mithani2022scoping">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mithani</surname>
+              <given-names>Salima S</given-names>
+            </name>
+            <name>
+              <surname>Bota</surname>
+              <given-names>A Brianne</given-names>
+            </name>
+            <name>
+              <surname>Zhu</surname>
+              <given-names>David T</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>Kumanan</given-names>
+            </name>
+          </person-group>
+          <article-title>A scoping review of global vaccine certificate solutions for COVID-19</article-title>
+          <source>Human vaccines &amp; immunotherapeutics</source>
+          <publisher-name>Taylor &amp; Francis</publisher-name>
+          <year iso-8601-date="2022">2022</year>
+          <volume>18</volume>
+          <issue>1</issue>
+          <fpage>1</fpage>
+          <lpage>12</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-norheim2010crowdsourcing">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Norheim-Hagtun</surname>
+              <given-names>Ida</given-names>
+            </name>
+            <name>
+              <surname>Meier</surname>
+              <given-names>Patrick</given-names>
+            </name>
+          </person-group>
+          <article-title>Crowdsourcing for crisis mapping in Haiti</article-title>
+          <source>Innovations: Technology Governance Globalization</source>
+          <year iso-8601-date="2010">2010</year>
+          <volume>5</volume>
+          <issue>4</issue>
+          <fpage>81</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-rathenauinstituutPrijsVanGratis2025">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <string-name>Rathenau Instituut</string-name>
+          </person-group>
+          <article-title>De prijs van gratis internet</article-title>
+          <year iso-8601-date="2025">2025</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-soden2014crowdsourced">
+        <element-citation publication-type="paper-conference">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soden</surname>
+              <given-names>Robert</given-names>
+            </name>
+            <name>
+              <surname>Palen</surname>
+              <given-names>Leysia</given-names>
+            </name>
+          </person-group>
+          <article-title>From crowdsourced mapping to community mapping: The post-earthquake work of OpenStreetMap Haiti</article-title>
+          <source>COOP 2014-proceedings of the 11th international conference on the design of cooperative systems, 27-30 may 2014, nice (france)</source>
+          <publisher-name>Springer</publisher-name>
+          <year iso-8601-date="2014">2014</year>
+          <fpage>311</fpage>
+          <lpage>326</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-worldhealthorganisationGlobalDigitalHealth">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Organisation</surname>
+              <given-names>World Health</given-names>
+            </name>
+          </person-group>
+          <article-title>Global Digital Health Certification Network</article-title>
+          <source>www.who.int</source>
+          <publisher-name>https://www.who.int/initiatives/global-digital-health-certification-network</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-06-26">2025</year>
+            <month>06</month>
+            <day>26</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+    </ref-list>
+  </back>
+  <sub-article article-type="notebook" id="nb-3-nb-1">
+    <front-stub>
+      <title-group>
+        <article-title>Discovering a pattern of privacy literacy in rural
+Botswana</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Frederik J. Van</given-names>
+          </name>
+          <string-name>Frederik J. Van Deventer</string-name>
+        </contrib>
+      </contrib-group>
+    </front-stub>
+    <body>
+      <sec id="context-nb-1">
+        <title>Context</title>
+        <p>With the rise of digitization and the data is produces, the
+  question of ownership of data becomes a contested issue for agents
+  such as Indigenous people, consumers and
+  countries(<xref alt="Hummel et al. 2021" rid="ref-hummel2021data-nb-1" ref-type="bibr">Hummel
+  et al. 2021</xref>). If the ownership is not clear and personal data
+  cannot always be obtained
+  (<xref alt="Herrmann and Lindemann 2016" rid="ref-herrmannObtainingPersonalData2016-nb-1" ref-type="bibr">Herrmann
+  and Lindemann 2016</xref>) it should be clear we should not only look
+  to data governance but also to privacy literacy
+  (<xref alt="Koltay 2016" rid="ref-koltay2016data-nb-1" ref-type="bibr">Koltay
+  2016</xref>). According to Rotman
+  (<xref alt="n.d." rid="ref-rotmanAreYouLooking-nb-1" ref-type="bibr">n.d.</xref>)
+  for users to consciously decide what happens with their information
+  they should go from <italic>understanding, recognizing, realizing,
+  evaluating</italic> to <italic>deciding</italic>. Much of privacy
+  literacy literature has used ethnocentric Western-based ideas of
+  governance and regulation that do not take into account the
+  multi-varied ways privacy can be perceived in the Majority
+  World(<xref alt="Arora 2019" rid="ref-arora2019general-nb-1" ref-type="bibr">Arora
+  2019</xref>).</p>
+        <p>Some Big Tech parties have decided to bring a limited version of
+  the internet to the Majority World in the last decade “Introducing
+  Project Loon: <named-content content-type="nocase">Balloon-powered
+  Internet</named-content> Access”
+  (<xref alt="2013" rid="ref-IntroducingProjectLoon2013-nb-1" ref-type="bibr">2013</xref>).</p>
+      </sec>
+      <sec id="problem-nb-1">
+        <title>Problem</title>
+        <p>Understanding what happens with your data is difficult and
+  ambigiuous in any context
+  (<xref alt="Bartsch and Dienlin 2016" rid="ref-bartschControlYourFacebook2016-nb-1" ref-type="bibr">Bartsch
+  and Dienlin 2016</xref>), intuitively this would be even more so where
+  internet is free. Companies like Meta profit from tracking users
+  online
+  (<xref alt="Wernerfelt et al. 2025" rid="ref-wernerfeltEstimatingValueOffsite2025-nb-1" ref-type="bibr">Wernerfelt
+  et al. 2025</xref>). Where the quality or the inner workings are being
+  assessed Sen et al.
+  (<xref alt="2017" rid="ref-senWalledGardenDeconstructing2017-nb-1" ref-type="bibr">2017</xref>)
+  results are mixed. On the other hand zero-rated services have
+  significantly contributed to access to information and appointments
+  for Maternal Health or free messaging for HIV/AIDS medical
+  appointments
+  (<xref alt="Layton and Elaluf-Calderwood 2016" rid="ref-layton2016free-nb-1" ref-type="bibr">Layton
+  and Elaluf-Calderwood 2016</xref>). Other critiques of “zero-rating”
+  are issues of net-neutrality and gatekeeping
+  (<xref alt="Galpaya, n.d." rid="ref-galpayaZeroratingEmergingEconomies-nb-1" ref-type="bibr">Galpaya,
+  n.d.</xref>).</p>
+      </sec>
+      <sec id="research-questions-nb-1">
+        <title>Research questions</title>
+      </sec>
+      <sec id="research-methodology-nb-1">
+        <title>Research methodology</title>
+        <p>If people are aware of their predicament</p>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title/>
+        <ref id="ref-arora2019general-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Arora</surname>
+                <given-names>Payal</given-names>
+              </name>
+            </person-group>
+            <article-title>General data protection regulation—A global standard? Privacy futures, digital activism, and surveillance cultures in the Global South</article-title>
+            <source>Surveillance &amp; Society</source>
+            <year iso-8601-date="2019">2019</year>
+            <volume>17</volume>
+            <issue>5</issue>
+            <fpage>717</fpage>
+            <lpage>725</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-bartschControlYourFacebook2016-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Bartsch</surname>
+                <given-names>Miriam</given-names>
+              </name>
+              <name>
+                <surname>Dienlin</surname>
+                <given-names>Tobias</given-names>
+              </name>
+            </person-group>
+            <article-title>Control your Facebook: An analysis of online privacy literacy</article-title>
+            <source>Computers in Human Behavior</source>
+            <year iso-8601-date="2016-03">2016</year>
+            <month>03</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-16">2025</year>
+              <month>07</month>
+              <day>16</day>
+            </date-in-citation>
+            <volume>56</volume>
+            <issn>0747-5632</issn>
+            <pub-id pub-id-type="doi">10.1016/j.chb.2015.11.022</pub-id>
+            <fpage>147</fpage>
+            <lpage>154</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-galpayaZeroratingEmergingEconomies-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Galpaya</surname>
+                <given-names>Helani</given-names>
+              </name>
+            </person-group>
+            <article-title>Zero-rating in Emerging Economies</article-title>
+          </element-citation>
+        </ref>
+        <ref id="ref-herrmannObtainingPersonalData2016-nb-1">
+          <element-citation>
+            <person-group person-group-type="author">
+              <name>
+                <surname>Herrmann</surname>
+                <given-names>Dominik</given-names>
+              </name>
+              <name>
+                <surname>Lindemann</surname>
+                <given-names>Jens</given-names>
+              </name>
+            </person-group>
+            <article-title>Obtaining personal data and asking for erasure: Do app vendors and website owners honour your privacy rights?</article-title>
+            <publisher-name>arXiv</publisher-name>
+            <year iso-8601-date="2016-04">2016</year>
+            <month>04</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-11">2025</year>
+              <month>07</month>
+              <day>11</day>
+            </date-in-citation>
+            <uri>https://arxiv.org/abs/1602.01804</uri>
+            <pub-id pub-id-type="doi">10.48550/arXiv.1602.01804</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-hummel2021data-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hummel</surname>
+                <given-names>Patrik</given-names>
+              </name>
+              <name>
+                <surname>Braun</surname>
+                <given-names>Matthias</given-names>
+              </name>
+              <name>
+                <surname>Tretter</surname>
+                <given-names>Max</given-names>
+              </name>
+              <name>
+                <surname>Dabrock</surname>
+                <given-names>Peter</given-names>
+              </name>
+            </person-group>
+            <article-title>Data sovereignty: A review</article-title>
+            <source>Big Data &amp; Society</source>
+            <publisher-name>SAGE Publications Sage UK: London, England</publisher-name>
+            <year iso-8601-date="2021">2021</year>
+            <volume>8</volume>
+            <issue>1</issue>
+            <fpage>2053951720982012</fpage>
+            <lpage/>
+          </element-citation>
+        </ref>
+        <ref id="ref-IntroducingProjectLoon2013-nb-1">
+          <element-citation>
+            <article-title>Introducing Project Loon: Balloon-powered Internet access</article-title>
+            <source>Google</source>
+            <publisher-name>https://blog.google/alphabet/introducing-project-loon/</publisher-name>
+            <year iso-8601-date="2013-06">2013</year>
+            <month>06</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-10">2025</year>
+              <month>07</month>
+              <day>10</day>
+            </date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="ref-koltay2016data-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Koltay</surname>
+                <given-names>Tibor</given-names>
+              </name>
+            </person-group>
+            <article-title>Data governance, data literacy and the management of data quality</article-title>
+            <source>IFLA journal</source>
+            <publisher-name>Sage Publications Sage UK: London, England</publisher-name>
+            <year iso-8601-date="2016">2016</year>
+            <volume>42</volume>
+            <issue>4</issue>
+            <fpage>303</fpage>
+            <lpage>312</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-layton2016free-nb-1">
+          <element-citation publication-type="paper-conference">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Layton</surname>
+                <given-names>Roslyn</given-names>
+              </name>
+              <name>
+                <surname>Elaluf-Calderwood</surname>
+                <given-names>Silvia</given-names>
+              </name>
+            </person-group>
+            <article-title>Free basics research paper: Zero rating, free data, and use cases in mhealth, local content and service development, and ICT4D policymaking</article-title>
+            <publisher-name>TPRC</publisher-name>
+            <year iso-8601-date="2016">2016</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-MetaConnectivity-nb-1">
+          <element-citation>
+            <article-title>Meta Connectivity</article-title>
+            <publisher-name>https://www.facebook.com/connectivity/solutions/free-basics/</publisher-name>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-10">2025</year>
+              <month>07</month>
+              <day>10</day>
+            </date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="ref-rotmanAreYouLooking-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Rotman</surname>
+                <given-names>Dana</given-names>
+              </name>
+            </person-group>
+            <article-title>Are You Looking At Me? - Social Media and Privacy Literacy</article-title>
+          </element-citation>
+        </ref>
+        <ref id="ref-senFreeBridgeDigital2016-nb-1">
+          <element-citation publication-type="paper-conference">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sen</surname>
+                <given-names>Rijurekha</given-names>
+              </name>
+              <name>
+                <surname>Pirzada</surname>
+                <given-names>Hasnain Ali</given-names>
+              </name>
+              <name>
+                <surname>Phokeer</surname>
+                <given-names>Amreesh</given-names>
+              </name>
+              <name>
+                <surname>Farooq</surname>
+                <given-names>Zaid Ahmed</given-names>
+              </name>
+              <name>
+                <surname>Sengupta</surname>
+                <given-names>Satadal</given-names>
+              </name>
+              <name>
+                <surname>Choffnes</surname>
+                <given-names>David</given-names>
+              </name>
+              <name>
+                <surname>Gummadi</surname>
+                <given-names>Krishna P.</given-names>
+              </name>
+            </person-group>
+            <article-title>On the Free Bridge Across the Digital Divide: Assessing the Quality of Facebook’s Free Basics Service</article-title>
+            <source>Proceedings of the 2016 Internet Measurement Conference</source>
+            <publisher-name>ACM</publisher-name>
+            <publisher-loc>Santa Monica California USA</publisher-loc>
+            <year iso-8601-date="2016-11">2016</year>
+            <month>11</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-16">2025</year>
+              <month>07</month>
+              <day>16</day>
+            </date-in-citation>
+            <pub-id pub-id-type="doi">10.1145/2987443.2987485</pub-id>
+            <fpage>127</fpage>
+            <lpage>133</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-senWalledGardenDeconstructing2017-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sen</surname>
+                <given-names>Rijurekha</given-names>
+              </name>
+              <name>
+                <surname>Ahmad</surname>
+                <given-names>Sohaib</given-names>
+              </name>
+              <name>
+                <surname>Phokeer</surname>
+                <given-names>Amreesh</given-names>
+              </name>
+              <name>
+                <surname>Farooq</surname>
+                <given-names>Zaid Ahmed</given-names>
+              </name>
+              <name>
+                <surname>Qazi</surname>
+                <given-names>Ihsan Ayyub</given-names>
+              </name>
+              <name>
+                <surname>Choffnes</surname>
+                <given-names>David</given-names>
+              </name>
+              <name>
+                <surname>Gummadi</surname>
+                <given-names>Krishna P.</given-names>
+              </name>
+            </person-group>
+            <article-title>Inside the Walled Garden: Deconstructing Facebook’s Free Basics Program</article-title>
+            <source>ACM SIGCOMM Computer Communication Review</source>
+            <publisher-name>Association for Computing Machinery (ACM)</publisher-name>
+            <year iso-8601-date="2017-10">2017</year>
+            <month>10</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-16">2025</year>
+              <month>07</month>
+              <day>16</day>
+            </date-in-citation>
+            <volume>47</volume>
+            <issue>5</issue>
+            <issn>0146-4833</issn>
+            <pub-id pub-id-type="doi">10.1145/3155055.3155058</pub-id>
+            <fpage>12</fpage>
+            <lpage>24</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-wernerfeltEstimatingValueOffsite2025-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Wernerfelt</surname>
+                <given-names>Nils</given-names>
+              </name>
+              <name>
+                <surname>Tuchman</surname>
+                <given-names>Anna</given-names>
+              </name>
+              <name>
+                <surname>Shapiro</surname>
+                <given-names>Bradley T.</given-names>
+              </name>
+              <name>
+                <surname>Moakler</surname>
+                <given-names>Robert</given-names>
+              </name>
+            </person-group>
+            <article-title>Estimating the Value of Offsite Tracking Data to Advertisers: Evidence from Meta</article-title>
+            <source>Marketing Science</source>
+            <publisher-name>INFORMS</publisher-name>
+            <year iso-8601-date="2025-03">2025</year>
+            <month>03</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-16">2025</year>
+              <month>07</month>
+              <day>16</day>
+            </date-in-citation>
+            <volume>44</volume>
+            <issue>2</issue>
+            <issn>0732-2399</issn>
+            <pub-id pub-id-type="doi">10.1287/mksc.2023.0274</pub-id>
+            <fpage>268</fpage>
+            <lpage>286</lpage>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </sub-article>
+</article>
