@@ -16,7 +16,9 @@ Some Big Tech parties have decided to bring a limited version of the internet to
 
 Understanding what happens with your data is difficult and ambigiuous in any context [@bartschControlYourFacebook2016], intuitively this would be even more so where internet is free. Companies like Meta profit from tracking users online [@wernerfeltEstimatingValueOffsite2025]. Where the quality or the inner workings are being assessed [@senFreeBridgeDigital2016, @senWalledGardenDeconstructing2017] results are mixed. On the other hand zero-rated services have significantly contributed to access to information and appointments for Maternal Health or free messaging for HIV/AIDS medical appointments [@layton2016free]. Other critiques of "zero-rating" are issues of net-neutrality and gatekeeping [@galpayaZeroratingEmergingEconomies].
 
-## Reserarch questions
+## Research questions
+
+
 
 ## Research methodology
 
