@@ -85,6 +85,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
       <p>How can privacy literacy be increased that respects a cultural
   tradition without using a Eurocentric view of individual privacy but
   including a collective privacy?</p>
+      <p>What does privacy mean in rural areas</p>
     </sec>
     <sec id="methodology">
       <title>Methodology</title>
@@ -296,11 +297,11 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
       </ref>
     </ref-list>
   </back>
-  <sub-article article-type="notebook" id="nb-3-nb-1">
+  <sub-article article-type="notebook" id="nb-4-nb-1">
     <front-stub>
       <title-group>
-        <article-title>Discovering a pattern of privacy literacy in rural
-Botswana</article-title>
+        <article-title>Discovering a pattern of privacy literacy in rural Sub
+Saharan Africa</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
@@ -315,29 +316,27 @@ Botswana</article-title>
     <body>
       <sec id="context-nb-1">
         <title>Context</title>
-        <p>With the rise of digitization and the data is produces, the
+        <p>With the rise of digitization and the data it produces, the
   question of ownership of data becomes a contested issue for agents
-  such as Indigenous people, consumers and
-  countries(<xref alt="Hummel et al. 2021" rid="ref-hummel2021data-nb-1" ref-type="bibr">Hummel
+  such as Indigenous people, consumers and countries
+  (<xref alt="Hummel et al. 2021" rid="ref-hummel2021data-nb-1" ref-type="bibr">Hummel
   et al. 2021</xref>). If the ownership is not clear and personal data
   cannot always be obtained
   (<xref alt="Herrmann and Lindemann 2016" rid="ref-herrmannObtainingPersonalData2016-nb-1" ref-type="bibr">Herrmann
   and Lindemann 2016</xref>) it should be clear we should not only look
   to data governance but also to privacy literacy
   (<xref alt="Koltay 2016" rid="ref-koltay2016data-nb-1" ref-type="bibr">Koltay
-  2016</xref>). According to Rotman
-  (<xref alt="n.d." rid="ref-rotmanAreYouLooking-nb-1" ref-type="bibr">n.d.</xref>)
-  for users to consciously decide what happens with their information
-  they should go from <italic>understanding, recognizing, realizing,
-  evaluating</italic> to <italic>deciding</italic>. Much of privacy
-  literacy literature has used ethnocentric Western-based ideas of
-  governance and regulation that do not take into account the
-  multi-varied ways privacy can be perceived in the Majority
-  World(<xref alt="Arora 2019" rid="ref-arora2019general-nb-1" ref-type="bibr">Arora
-  2019</xref>).</p>
-        <p>Some Big Tech parties have decided to bring a limited version of
-  the internet to the Majority World in the last decade “Introducing
-  Project Loon: <named-content content-type="nocase">Balloon-powered
+  2016</xref>). However, much of privacy literacy literature has used
+  ethnocentric Western-based ideas of governance and regulation that do
+  not take into account the multi-varied ways privacy can be perceived
+  in the Global South
+  (<xref alt="Arora 2019a" rid="ref-arora2019general-nb-1" ref-type="bibr">Arora
+  2019a</xref>,
+  <xref alt="2019b" rid="ref-aroraDecolonizingPrivacyStudies2019-nb-1" ref-type="bibr">2019b</xref>).
+  Digital privacy today faces a lot of threats. Some Big Tech parties
+  have decided to bring a limited version of the internet to the Global
+  South in the last decade “Introducing Project Loon:
+  <named-content content-type="nocase">Balloon-powered
   Internet</named-content> Access”
   (<xref alt="2013" rid="ref-IntroducingProjectLoon2013-nb-1" ref-type="bibr">2013</xref>).</p>
       </sec>
@@ -347,11 +346,12 @@ Botswana</article-title>
   ambigiuous in any context
   (<xref alt="Bartsch and Dienlin 2016" rid="ref-bartschControlYourFacebook2016-nb-1" ref-type="bibr">Bartsch
   and Dienlin 2016</xref>), intuitively this would be even more so where
-  internet is free. Companies like Meta profit from tracking users
-  online
+  internet is free and provided by commercial companies who have an
+  interest in obtaining your personal data. Companies like Meta profit
+  from tracking users online
   (<xref alt="Wernerfelt et al. 2025" rid="ref-wernerfeltEstimatingValueOffsite2025-nb-1" ref-type="bibr">Wernerfelt
-  et al. 2025</xref>). Where the quality or the inner workings are being
-  assessed Sen et al.
+  et al. 2025</xref>). Where the quality or the inner workings of
+  zero-rated services are being assessed Sen et al.
   (<xref alt="2017" rid="ref-senWalledGardenDeconstructing2017-nb-1" ref-type="bibr">2017</xref>)
   results are mixed. On the other hand zero-rated services have
   significantly contributed to access to information and appointments
@@ -360,20 +360,141 @@ Botswana</article-title>
   (<xref alt="Layton and Elaluf-Calderwood 2016" rid="ref-layton2016free-nb-1" ref-type="bibr">Layton
   and Elaluf-Calderwood 2016</xref>). Other critiques of “zero-rating”
   are issues of net-neutrality and gatekeeping
-  (<xref alt="Galpaya, n.d." rid="ref-galpayaZeroratingEmergingEconomies-nb-1" ref-type="bibr">Galpaya,
-  n.d.</xref>).</p>
+  (<xref alt="Galpaya 2017" rid="ref-galpayaZeroratingEmergingEconomies2017-nb-1" ref-type="bibr">Galpaya
+  2017</xref>).</p>
       </sec>
       <sec id="research-questions-nb-1">
         <title>Research questions</title>
+        <sec id="main-question-nb-1">
+          <title>Main question</title>
+          <p>How can people in Sub Saharan Africa benefit from being
+    “connected” without sacrificing their privacy?</p>
+          <p>
+            <bold>(Possible this can be more specified towards a Case Study
+    in rural South Africa, or Botswana?)</bold>
+          </p>
+        </sec>
+        <sec id="sub-questions-nb-1">
+          <title>Sub-questions</title>
+          <list list-type="bullet">
+            <list-item>
+              <p>What initiatives stand out in amlerioating the digital
+        divide?</p>
+            </list-item>
+            <list-item>
+              <p>In what way are people aware of the predicament of sharing
+        personal information?</p>
+            </list-item>
+            <list-item>
+              <p>What is the benefit of participating in the digital “online
+        world”?</p>
+            </list-item>
+            <list-item>
+              <p>What legislation is in place to ensure digital privacy at a
+        national and regional level?</p>
+            </list-item>
+            <list-item>
+              <p>What conflicts between legislation and ethics arise
+        concerning privacy?</p>
+            </list-item>
+            <list-item>
+              <p>What are main differences when dealing with privacy in Europe
+        and SSA?</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+      <sec id="conceptual-framework-nb-1">
+        <title>Conceptual Framework</title>
+        <p>To make sense of this topic I will first set out to place privacy
+  and privacy literacy in conceptual framework.</p>
+        <p>The model <italic>6 Private I’s</italic> is proposed by
+  Hartman-Caverly and Chisholm
+  (<xref alt="2023" rid="ref-hartman2023privacy-nb-1" ref-type="bibr">2023</xref>)
+  as a way to perceive teach privacy and to recognize that privacy
+  firstly concerns people and not just technology.</p>
+        <p>According to Rotman
+  (<xref alt="2009" rid="ref-rotman2009you-nb-1" ref-type="bibr">2009</xref>)
+  for users to consciously decide what happens with their information
+  they should go from <italic>understanding, recognizing, realizing,
+  evaluating</italic> to <italic>deciding</italic>. But this sounds very
+  generic about anything you can teach..</p>
+        <p>…</p>
       </sec>
       <sec id="research-methodology-nb-1">
         <title>Research methodology</title>
-        <p>If people are aware of their predicament</p>
+        <p>At the moment I’m reading Hancké
+  (<xref alt="2023" rid="ref-hanckeIntelligentResearchDesign2023-nb-1" ref-type="bibr">2023</xref>)
+  and sorting through the vast bibliography of Sovacool, Axsen, and
+  Sorrell
+  (<xref alt="2018" rid="ref-sovacoolPromotingNoveltyRigor2018-nb-1" ref-type="bibr">2018</xref>)
+  to help sort out the methodology part.</p>
+        <p>My initial instinct is to do a survey, but I would like to do
+  something a bit different. But not sure how to go about this.</p>
+        <p>Some other ideas:</p>
+        <p>Ideas on how to accomplish this:</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>A/B Testing – do survey’s on 2 groups</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>one group has received a seminar or dissemination of the
+          information about privacy the other has not</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Do a deeper but not necessarily wider analysis. So perhaps look
+      for a few groups of participants in rural Botswana and a few
+      groups in urban Botswana. Or try to localize it further by looking
+      at interactions wihtin townships.</p>
+          </list-item>
+          <list-item>
+            <p>Data acquisition might be a problem..</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="significance-nb-1">
+        <title>Significance</title>
+        <p>A study by Prinsloo and Kaliisa
+  (<xref alt="2022" rid="ref-prinslooDataPrivacyAfrican2022-nb-1" ref-type="bibr">2022</xref>)
+  has been held to asses specific sub-topics such as student data
+  privacy researching regulatory frameworks on the African content. The
+  angle here to assess Higher Education Institutes (HEI’s) is helpful as
+  it is a very concrete example and produces very clear results. However
+  HEI’s are also quite an exclusive segment of society that cannot be
+  used to draw broader conclusions. Another study uses a survey in an
+  impressive array of countries but has quite a low sample size,
+  primarily in the generation we call millenials, which might be the
+  most digital and privacy
+  literate(<xref alt="“Personal Data and Privacy Barriers to E-Government Adoption, Implementation and Development in Sub-Saharan Africa” 2019" rid="ref-agbozoPersonalDataPrivacy2019-nb-1" ref-type="bibr">“Personal
+  Data and Privacy Barriers to E-Government Adoption, Implementation and
+  Development in Sub-Saharan Africa” 2019</xref>).</p>
+        <p>This study should be different from both previous efforts.</p>
       </sec>
     </body>
     <back>
       <ref-list>
-        <title/>
+        <title>Bibliography</title>
+        <ref id="ref-agbozoPersonalDataPrivacy2019-nb-1">
+          <element-citation publication-type="chapter">
+            <article-title>Personal Data and Privacy Barriers to E-Government Adoption, Implementation and Development in Sub-Saharan Africa</article-title>
+            <source>Communications in Computer and Information Science</source>
+            <publisher-name>Springer International Publishing</publisher-name>
+            <publisher-loc>Cham</publisher-loc>
+            <year iso-8601-date="2019">2019</year>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-17">2025</year>
+              <month>07</month>
+              <day>17</day>
+            </date-in-citation>
+            <isbn>978-3-030-13282-8 978-3-030-13283-5</isbn>
+            <issn>1865-0929, 1865-0937</issn>
+            <pub-id pub-id-type="doi">10.1007/978-3-030-13283-5_7</pub-id>
+            <fpage>82</fpage>
+            <lpage>91</lpage>
+          </element-citation>
+        </ref>
         <ref id="ref-arora2019general-nb-1">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
@@ -389,6 +510,32 @@ Botswana</article-title>
             <issue>5</issue>
             <fpage>717</fpage>
             <lpage>725</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-aroraDecolonizingPrivacyStudies2019-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Arora</surname>
+                <given-names>Payal</given-names>
+              </name>
+            </person-group>
+            <article-title>Decolonizing Privacy Studies</article-title>
+            <source>Television &amp; New Media</source>
+            <publisher-name>SAGE Publications</publisher-name>
+            <year iso-8601-date="2019-05">2019</year>
+            <month>05</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-17">2025</year>
+              <month>07</month>
+              <day>17</day>
+            </date-in-citation>
+            <volume>20</volume>
+            <issue>4</issue>
+            <issn>1527-4764, 1552-8316</issn>
+            <pub-id pub-id-type="doi">10.1177/1527476418806092</pub-id>
+            <fpage>366</fpage>
+            <lpage>378</lpage>
           </element-citation>
         </ref>
         <ref id="ref-bartschControlYourFacebook2016-nb-1">
@@ -419,7 +566,7 @@ Botswana</article-title>
             <lpage>154</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-galpayaZeroratingEmergingEconomies-nb-1">
+        <ref id="ref-galpayaZeroratingEmergingEconomies2017-nb-1">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -428,6 +575,39 @@ Botswana</article-title>
               </name>
             </person-group>
             <article-title>Zero-rating in Emerging Economies</article-title>
+            <year iso-8601-date="2017">2017</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-hanckeIntelligentResearchDesign2023-nb-1">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hancké</surname>
+                <given-names>Bob</given-names>
+              </name>
+            </person-group>
+            <source>Intelligent research design: A guide for beginning researchers in the social sciences</source>
+            <publisher-name>Oxford University Press</publisher-name>
+            <publisher-loc>Oxford</publisher-loc>
+            <year iso-8601-date="2023">2023</year>
+            <isbn>978-0-19-957078-2 978-1-383-04654-0</isbn>
+            <pub-id pub-id-type="doi">10.1093/oso/9780199570782.001.0001</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-hartman2023privacy-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Hartman-Caverly</surname>
+                <given-names>Sarah</given-names>
+              </name>
+              <name>
+                <surname>Chisholm</surname>
+                <given-names>Alexandria Edyn</given-names>
+              </name>
+            </person-group>
+            <article-title>Privacy as respect for persons: Reimagining privacy literacy with the six private I’s privacy conceptual framework</article-title>
+            <year iso-8601-date="2023">2023</year>
           </element-citation>
         </ref>
         <ref id="ref-herrmannObtainingPersonalData2016-nb-1">
@@ -545,7 +725,35 @@ Botswana</article-title>
             </date-in-citation>
           </element-citation>
         </ref>
-        <ref id="ref-rotmanAreYouLooking-nb-1">
+        <ref id="ref-prinslooDataPrivacyAfrican2022-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Prinsloo</surname>
+                <given-names>Paul</given-names>
+              </name>
+              <name>
+                <surname>Kaliisa</surname>
+                <given-names>Rogers</given-names>
+              </name>
+            </person-group>
+            <article-title>Data privacy on the African continent: Opportunities, challenges and implications for learning analytics</article-title>
+            <source>British Journal of Educational Technology</source>
+            <year iso-8601-date="2022">2022</year>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-17">2025</year>
+              <month>07</month>
+              <day>17</day>
+            </date-in-citation>
+            <volume>53</volume>
+            <issue>4</issue>
+            <issn>1467-8535</issn>
+            <pub-id pub-id-type="doi">10.1111/bjet.13226</pub-id>
+            <fpage>894</fpage>
+            <lpage>913</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-rotman2009you-nb-1">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -553,7 +761,8 @@ Botswana</article-title>
                 <given-names>Dana</given-names>
               </name>
             </person-group>
-            <article-title>Are You Looking At Me? - Social Media and Privacy Literacy</article-title>
+            <article-title>Are you looking at me?-Social media and privacy literacy</article-title>
+            <year iso-8601-date="2009">2009</year>
           </element-citation>
         </ref>
         <ref id="ref-senFreeBridgeDigital2016-nb-1">
@@ -652,6 +861,38 @@ Botswana</article-title>
             <pub-id pub-id-type="doi">10.1145/3155055.3155058</pub-id>
             <fpage>12</fpage>
             <lpage>24</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-sovacoolPromotingNoveltyRigor2018-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sovacool</surname>
+                <given-names>Benjamin K.</given-names>
+              </name>
+              <name>
+                <surname>Axsen</surname>
+                <given-names>Jonn</given-names>
+              </name>
+              <name>
+                <surname>Sorrell</surname>
+                <given-names>Steve</given-names>
+              </name>
+            </person-group>
+            <article-title>Promoting novelty, rigor, and style in energy social science: Towards codes of practice for appropriate methods and research design</article-title>
+            <source>Energy Research &amp; Social Science</source>
+            <year iso-8601-date="2018-11">2018</year>
+            <month>11</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-15">2025</year>
+              <month>07</month>
+              <day>15</day>
+            </date-in-citation>
+            <volume>45</volume>
+            <issn>2214-6296</issn>
+            <pub-id pub-id-type="doi">10.1016/j.erss.2018.07.007</pub-id>
+            <fpage>12</fpage>
+            <lpage>42</lpage>
           </element-citation>
         </ref>
         <ref id="ref-wernerfeltEstimatingValueOffsite2025-nb-1">
