@@ -21,7 +21,7 @@ Understanding what happens with your data is difficult and ambigiuous in any con
 
 How can people in Sub Saharan Africa benefit from being "connected" without sacrificing their privacy?
 
-__(Possible this can be more specified towards a Case Study in rural South Africa, or Botswana?)__
+__(Possibly this can be more specified towards a Case Study in rural South Africa, or Botswana?)__
 
 ### Sub-questions
 
@@ -61,8 +61,8 @@ Ideas on how to accomplish this:
 ## Significance
 
 A study by @prinslooDataPrivacyAfrican2022 has been held to asses specific sub-topics such as student data privacy researching regulatory frameworks on the African content. The angle here to assess Higher Education Institutes (HEI's) is helpful as it is a very concrete example and produces very clear results. However HEI's are also quite an exclusive segment of society that cannot be used to draw broader conclusions.
-Another study uses a survey in an impressive array of countries but has quite a low sample size, primarily in the generation we call millenials, which might be the most digital and privacy literate[@agbozoPersonalDataPrivacy2019].
+Another study uses a survey in an impressive array of countries but has quite a low sample size, primarily in the generation we call millenials, which might be the most digital and privacy literate [@agbozo2018personal].
 
-This study should be different from both previous efforts.
+This study should be different from both previous efforts by both its scope and localization.
 
 ## Bibliography

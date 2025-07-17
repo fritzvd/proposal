@@ -370,7 +370,7 @@ Saharan Africa</article-title>
           <p>How can people in Sub Saharan Africa benefit from being
     “connected” without sacrificing their privacy?</p>
           <p>
-            <bold>(Possible this can be more specified towards a Case Study
+            <bold>(Possibly this can be more specified towards a Case Study
     in rural South Africa, or Botswana?)</bold>
           </p>
         </sec>
@@ -466,31 +466,36 @@ Saharan Africa</article-title>
   used to draw broader conclusions. Another study uses a survey in an
   impressive array of countries but has quite a low sample size,
   primarily in the generation we call millenials, which might be the
-  most digital and privacy
-  literate(<xref alt="“Personal Data and Privacy Barriers to E-Government Adoption, Implementation and Development in Sub-Saharan Africa” 2019" rid="ref-agbozoPersonalDataPrivacy2019-nb-1" ref-type="bibr">“Personal
-  Data and Privacy Barriers to E-Government Adoption, Implementation and
-  Development in Sub-Saharan Africa” 2019</xref>).</p>
-        <p>This study should be different from both previous efforts.</p>
+  most digital and privacy literate
+  (<xref alt="Agbozo, Alhassan, and Spassov 2018" rid="ref-agbozo2018personal-nb-1" ref-type="bibr">Agbozo,
+  Alhassan, and Spassov 2018</xref>).</p>
+        <p>This study should be different from both previous efforts by both
+  its scope and localization.</p>
       </sec>
     </body>
     <back>
       <ref-list>
         <title>Bibliography</title>
-        <ref id="ref-agbozoPersonalDataPrivacy2019-nb-1">
-          <element-citation publication-type="chapter">
-            <article-title>Personal Data and Privacy Barriers to E-Government Adoption, Implementation and Development in Sub-Saharan Africa</article-title>
-            <source>Communications in Computer and Information Science</source>
-            <publisher-name>Springer International Publishing</publisher-name>
-            <publisher-loc>Cham</publisher-loc>
-            <year iso-8601-date="2019">2019</year>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-17">2025</year>
-              <month>07</month>
-              <day>17</day>
-            </date-in-citation>
-            <isbn>978-3-030-13282-8 978-3-030-13283-5</isbn>
-            <issn>1865-0929, 1865-0937</issn>
-            <pub-id pub-id-type="doi">10.1007/978-3-030-13283-5_7</pub-id>
+        <ref id="ref-agbozo2018personal-nb-1">
+          <element-citation publication-type="paper-conference">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Agbozo</surname>
+                <given-names>Ebenezer</given-names>
+              </name>
+              <name>
+                <surname>Alhassan</surname>
+                <given-names>Daniel</given-names>
+              </name>
+              <name>
+                <surname>Spassov</surname>
+                <given-names>Kamen</given-names>
+              </name>
+            </person-group>
+            <article-title>Personal data and privacy barriers to e-Government adoption, implementation and development in Sub-Saharan Africa</article-title>
+            <source>International conference on electronic governance and open society: Challenges in eurasia</source>
+            <publisher-name>Springer</publisher-name>
+            <year iso-8601-date="2018">2018</year>
             <fpage>82</fpage>
             <lpage>91</lpage>
           </element-citation>
