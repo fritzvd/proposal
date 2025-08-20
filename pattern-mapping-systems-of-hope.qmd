@@ -1,0 +1,14 @@
+---
+title: Towards solutions with impact &colon; rebridging the digital gap in areas
+author: Frederik J. Van Deventer
+bibliography: references.bib
+
+---
+
+## Context
+
+The digital divide is not a new phenomenon. It is usually described as the gap existing between those whore are able to make use of Internet and Communication Technologies (ICTs) and those who can not [@van2017digital]. This has a number of levels of inequality [@lythreatisDigitalDivideReview2022]
+
+## Solution
+
+Mobile stations that serve as a gateway for simple phones.

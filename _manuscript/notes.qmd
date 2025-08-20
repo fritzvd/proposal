@@ -1,0 +1,8 @@
+---
+title: Notes
+author: Frederik J. Van Deventer
+bibliography: references.bib
+
+---
+
+- "While privacy is recognised as a right by some African states, this is only rarely translated into justiciable rights and is almost never a constraint on the behaviour of governments and their secret police. This can be seen in the areas of data protection, surveillance and cybersecurity." - @sutherlandDigitalPrivacyAfrica2018
