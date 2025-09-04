@@ -7,25 +7,30 @@ bibliography: references.bib
 
 ## Context
 
-With the rise of digitization and the data it produces, the question of ownership of data becomes a contested issue for agents such as Indigenous people, consumers and countries [@hummel2021data]. If the ownership is not clear and personal data cannot always be obtained [@herrmannObtainingPersonalData2016] it should be clear we should not only look to data governance but also to privacy literacy [@koltay2016data].
-However, much of privacy literacy literature has used ethnocentric Western-based ideas of governance and regulation that do not take into account the multi-varied ways privacy can be perceived in the Global South [@arora2019general; @aroraDecolonizingPrivacyStudies2019].
-Digital privacy today faces a lot of threats. Some Big Tech parties have decided to bring a limited version of the internet to the Global South in the last decade [@MetaConnectivity, @IntroducingProjectLoon2013]. 
+With the rise of digitization and the data it produces, the question of ownership of data becomes a contested issue for agents such as Indigenous people, consumers and countries [@hummel2021data]. If the ownership is not clear and personal data cannot always be obtained [@herrmannObtainingPersonalData2016] it should be clear we should not only look to data governance or ownership but also to defending this data in the light of privacy norms. However, digital privacy in much of Africa is subject to local and regional legislation [@prinslooDataPrivacyAfrican2022], but its main challenge lies in enforcement of this legislation [@Abdulrauf04052021]. We should therefore not only rely on legislation, but also work towards higher privacy literacy [@koltay2016data].
+
+Digital privacy is not a binary or singular thing. The privacy we demand when it comes to sharing our thoughts on personal photos with family, is very different to the privacy we expect when we are at work and working on a document together with colleagues. 
+
+<!-- Not only the level of privacy but also the ease with which people could gain access, should be handled differently. -->
+<!-- 
+Much of privacy literacy literature has used ethnocentric Western-based ideas of governance and regulation that do not take into account the multi-varied ways privacy can be perceived in the Global South [@arora2019general; @aroraDecolonizingPrivacyStudies2019]. -->
+
 
 ## Problem
 
-Understanding what happens with your data is difficult and ambigiuous in any context [@bartschControlYourFacebook2016], intuitively this would be even more so where internet is free and provided by commercial companies who have an interest in obtaining your personal data. Companies like Meta profit from tracking users online [@wernerfeltEstimatingValueOffsite2025]. Where the quality or the inner workings of zero-rated services are being assessed [@senFreeBridgeDigital2016, @senWalledGardenDeconstructing2017] results are mixed. On the other hand zero-rated services have significantly contributed to access to information and appointments for Maternal Health or free messaging for HIV/AIDS medical appointments [@layton2016free]. Other critiques of "zero-rating" are issues of net-neutrality and gatekeeping [@galpayaZeroratingEmergingEconomies2017].
+Understanding what happens with your data is difficult and ambigiuous in any context [@bartschControlYourFacebook2016]. Regulation and enforcement often falls behind. And some regulation interventions simply fail, like the "cookie wall"-solution [@leenes2015taming]. When companies like Meta profit from tracking users online [@wernerfeltEstimatingValueOffsite2025] and  
 
 ## Research questions
 
 ### Main question
 
-How can people in Sub Saharan Africa benefit from being "connected" without sacrificing their privacy?
+How can people in the Majority World benefit from being "connected" without sacrificing their privacy?
 
 __(Possibly this can be more specified towards a Case Study in rural South Africa, or Botswana?)__
 
 ### Sub-questions
 
-- What initiatives stand out in amlerioating the digital divide?
+- What initiatives stand out in amelirioating the digital divide?
 - In what way are people aware of the predicament of sharing personal information?
 - What is the benefit of participating in the digital "online world"?
 - What legislation is in place to ensure digital privacy at a national and regional level?
@@ -34,13 +39,7 @@ __(Possibly this can be more specified towards a Case Study in rural South Afric
 
 ## Conceptual Framework
 
-To make sense of this topic I will first set out to place privacy and privacy literacy in conceptual framework.
-
-The model _6 Private I's_ is proposed by @hartman2023privacy as a way to perceive teach privacy and to recognize that privacy firstly concerns people and not just technology.
-
- According to @rotman2009you for users to consciously decide what happens with their information they should go from _understanding, recognizing, realizing, evaluating_ to _deciding_. But this sounds very generic about anything you can teach..
-
-...
+@nissenbaum2004privacy proposes the idea of "Contextual Integrity" for privacy. Which makes a lot of sense as a way of approaching digital privacy. The main takeaway is that gathering information in and of itself is not wrong per se, but it largely depends on the context and how that information can tie into other information that makes it not conform to our norms, whilst still being in accordance with the law.
 
 ## Research methodology
 

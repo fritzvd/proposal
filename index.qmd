@@ -11,15 +11,34 @@ mainfont: Palatino
 sansfont: Palatino
 ---
 
+## Why don't we care about privacy?
+
+- similar to not caring about the environment
+- vegetarianism
+- dopanmine, addiction to social media
+- necessity. gmail is just so cheap
+  
+### solution
+
+Prevalence, front of mind consequence meditation
+
 ## Introduction
 
-For most people exchanging data, even personal data has become essential to their day to day life. We exchange messages, store data about our health, and use apps where the exchange of our coordinates on this earth are accurate up to about 1-2 meters. As we do not pay for these services and these companies thrive on the use of our data and tracking our every move, serious concerns are being raised about the risks on an individual and societal level [@rathenauinstituutPrijsVanGratis2025]. From a government perspective biometric data is collected for refugees registering to seek asylum [@farraj2010refugees] and we have seen a surge in digital health passes during and after COVID-19 [@mithani2022scoping]. Haiti saw one of the most effective participation in crowdsourced mapping through Ushahidi [@norheim2010crowdsourcing]. Some of these efforts are well intended and do a lot of good [@soden2014crowdsourced @worldhealthorganisationGlobalDigitalHealth], but this tracking of biometric and social data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data]. With new developments in AI this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the global South and North" [@madianou2024technocolonialism]. The quest for more users and ever larger expansion has led Big Tech (e.g. Google, Meta) to look for areas where internet usage is not as widely spread as it is in "the West" and offer programs providing a limited set of Internet services (e.g. Project Loon [@IntroducingProjectLoon2013] and Free Basics [@MetaConnectivity]). There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general].
+As humans in a digital society we are living lives that are entwined with technology that exchanges data. We need to exchange data to track our businesses, for our communications with friends and family, to come ahead in our educational system, to pay our taxes etcetera, etcetera. We sacrifice our privacy to get access to free applications or to benefit our security [@mckinnon2014sacrificing], or move along faster in a health system [], or even to register for asylum [@lodinovaApplicationBiometricsMeans2016]. These applications typically track our internet behaviour [@makhortykhTrackNotTrack2022;@razaghpanahAppsTrackersPrivacy2018]. This tracking of biometric, location and social data is not without danger, this data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data].
+
+With new developments in AI this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism]. There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general]. Much of Global South legislation is lagging behind or has met with challenges in enforcing the laws set in place [@prinslooDataPrivacyAfrican2022]. 
+
+In light of this
+
+_Directions this could take. Validating all these promises AI seems to make. And vouching for privacy or security of the data disclosed with these agents._
 
 <!-- Third parties are becoming an integral part of government policy to deal with the process of data collection and analysis [@johnson2023owns]. -->
 <!-- 
 > Most countries outside the West have lax or no privacy laws (Taylor, Floridi, and van der Sloot 2016). Brazil passed its first privacy laws in 2014, while India passed some in 2017. - [@arora2019general]
 
 __governance__ __legislation__ -->
+
+
 
 ## Research Questions
 
