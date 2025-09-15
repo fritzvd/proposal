@@ -26,3 +26,5 @@ How then do people in low digital literacy environments educate themselves to gu
 1. What constitutes low digital literacy and how does privacy and AI have their own blind spots?
 2. What are ways to increase digital literacy concerning privacy?
 3. How can people be instructed recognize "AI smells"?
+
+## References

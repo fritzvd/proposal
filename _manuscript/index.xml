@@ -31,51 +31,68 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
     </article-meta>
   </front>
   <body>
+    <sec id="why-dont-we-care-about-privacy">
+      <title>Why don’t we care about privacy?</title>
+      <list list-type="bullet">
+        <list-item>
+          <p>similar to not caring about the environment</p>
+        </list-item>
+        <list-item>
+          <p>vegetarianism</p>
+        </list-item>
+        <list-item>
+          <p>dopanmine, addiction to social media</p>
+        </list-item>
+        <list-item>
+          <p>necessity. gmail is just so cheap</p>
+        </list-item>
+      </list>
+      <sec id="solution">
+        <title>solution</title>
+        <p>Prevalence, front of mind consequence meditation</p>
+      </sec>
+    </sec>
     <sec id="introduction">
       <title>Introduction</title>
-      <p>For most people exchanging data, even personal data has become
-  essential to their day to day life. We exchange messages, store data
-  about our health, and use apps where the exchange of our coordinates
-  on this earth are accurate up to about 1-2 meters. As we do not pay
-  for these services and these companies thrive on the use of our data
-  and tracking our every move, serious concerns are being raised about
-  the risks on an individual and societal level
-  (<xref alt="Rathenau Instituut 2025" rid="ref-rathenauinstituutPrijsVanGratis2025" ref-type="bibr">Rathenau
-  Instituut 2025</xref>). From a government perspective biometric data
-  is collected for refugees registering to seek asylum
-  (<xref alt="Farraj 2010" rid="ref-farraj2010refugees" ref-type="bibr">Farraj
-  2010</xref>) and we have seen a surge in digital health passes during
-  and after COVID-19
-  (<xref alt="Mithani et al. 2022" rid="ref-mithani2022scoping" ref-type="bibr">Mithani
-  et al. 2022</xref>). Haiti saw one of the most effective participation
-  in crowdsourced mapping through Ushahidi
-  (<xref alt="Norheim-Hagtun and Meier 2010" rid="ref-norheim2010crowdsourcing" ref-type="bibr">Norheim-Hagtun
-  and Meier 2010</xref>). Some of these efforts are well intended and do
-  a lot of good Organisation
-  (<xref alt="n.d." rid="ref-worldhealthorganisationGlobalDigitalHealth" ref-type="bibr">n.d.</xref>),
-  but this tracking of biometric and social data is also used for the
-  creation of economic value and has lead to something more than just a
-  phenomenon of capitalism; it’s a manifestation of colonialism
+      <p>As humans in a digital society we are living lives that are
+  entwined with technology that exchanges data. We need to exchange data
+  to track our businesses, for our communications with friends and
+  family, to come ahead in our educational system, to pay our taxes
+  etcetera, etcetera. We sacrifice our privacy to get access to free
+  applications or to benefit our security
+  (<xref alt="McKinnon 2014" rid="ref-mckinnon2014sacrificing" ref-type="bibr">McKinnon
+  2014</xref>), or move along faster in a health system [], or even to
+  register for asylum
+  (<xref alt="Lodinová 2016" rid="ref-lodinovaApplicationBiometricsMeans2016" ref-type="bibr">Lodinová
+  2016</xref>). These applications typically track our internet
+  behaviour
+  (<xref alt="Makhortykh et al. 2022" rid="ref-makhortykhTrackNotTrack2022" ref-type="bibr">Makhortykh
+  et al. 2022</xref>;
+  <xref alt="Razaghpanah et al. 2018" rid="ref-razaghpanahAppsTrackersPrivacy2018" ref-type="bibr">Razaghpanah
+  et al. 2018</xref>). This tracking of biometric, location and social
+  data is not without danger, this data is also used for the creation of
+  economic value and has lead to something more than just a phenomenon
+  of capitalism; it’s a manifestation of colonialism
   (<xref alt="Couldry and Mejias 2019" rid="ref-couldry2019data" ref-type="bibr">Couldry
-  and Mejias 2019</xref>). With new developments in AI this becomes more
-  prevalent as data and AI “entrench power assymetries and engender new
-  forms of structural violence and new inequities between the global
-  South and North”
+  and Mejias 2019</xref>).</p>
+      <p>With new developments in AI this becomes more prevalent as data and
+  AI “entrench power assymetries and engender new forms of structural
+  violence and new inequities between the Global South and North”
   (<xref alt="Madianou 2024" rid="ref-madianou2024technocolonialism" ref-type="bibr">Madianou
-  2024</xref>). The quest for more users and ever larger expansion has
-  led Big Tech (e.g. Google, Meta) to look for areas where internet
-  usage is not as widely spread as it is in “the West” and offer
-  programs providing a limited set of Internet services (e.g. Project
-  Loon
-  (<xref alt="“Introducing Project Loon: Balloon-powered Internet Access” 2013" rid="ref-IntroducingProjectLoon2013" ref-type="bibr">“Introducing
-  Project Loon: <named-content content-type="nocase">Balloon-powered
-  Internet</named-content> Access” 2013</xref>) and Free Basics
-  (<xref alt="“Meta Connectivity” n.d." rid="ref-MetaConnectivity" ref-type="bibr">“Meta
-  Connectivity” n.d.</xref>)). There is little to no protection or
-  privacy for private consumers unless government regulation explicitly
-  makes it so, like the GDPR program
+  2024</xref>). There is little to no protection or privacy for private
+  consumers unless government regulation explicitly makes it so, like
+  the GDPR program
   (<xref alt="Arora 2019" rid="ref-arora2019general" ref-type="bibr">Arora
-  2019</xref>).</p>
+  2019</xref>). Much of Global South legislation is lagging behind or
+  has met with challenges in enforcing the laws set in place
+  (<xref alt="Prinsloo and Kaliisa 2022" rid="ref-prinslooDataPrivacyAfrican2022" ref-type="bibr">Prinsloo
+  and Kaliisa 2022</xref>).</p>
+      <p>In light of this</p>
+      <p>
+        <italic>Directions this could take. Validating all these promises
+  AI seems to make. And vouching for privacy or security of the data
+  disclosed with these agents.</italic>
+      </p>
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
@@ -143,34 +160,18 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
           <lpage>349</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-farraj2010refugees">
+      <ref id="ref-lodinovaApplicationBiometricsMeans2016">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Farraj</surname>
-              <given-names>Achraf</given-names>
+              <surname>Lodinová</surname>
+              <given-names>Anna</given-names>
             </name>
           </person-group>
-          <article-title>Refugees and the biometric future: The impact of biometrics on refugees and asylum seekers</article-title>
-          <publisher-name>HeinOnline</publisher-name>
-          <year iso-8601-date="2010">2010</year>
-          <volume>42</volume>
-          <fpage>891</fpage>
-          <lpage/>
-        </element-citation>
-      </ref>
-      <ref id="ref-IntroducingProjectLoon2013">
-        <element-citation>
-          <article-title>Introducing Project Loon: Balloon-powered Internet access</article-title>
-          <source>Google</source>
-          <publisher-name>https://blog.google/alphabet/introducing-project-loon/</publisher-name>
-          <year iso-8601-date="2013-06">2013</year>
-          <month>06</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-07-10">2025</year>
-            <month>07</month>
-            <day>10</day>
-          </date-in-citation>
+          <article-title>Application of biometrics as a means of refugee registration: Focusing on UNHCR’s strategy</article-title>
+          <year iso-8601-date="2016">2016</year>
+          <volume>2</volume>
+          <issue>2</issue>
         </element-citation>
       </ref>
       <ref id="ref-madianou2024technocolonialism">
@@ -186,118 +187,499 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
           <year iso-8601-date="2024">2024</year>
         </element-citation>
       </ref>
-      <ref id="ref-MetaConnectivity">
-        <element-citation>
-          <article-title>Meta Connectivity</article-title>
-          <publisher-name>https://www.facebook.com/connectivity/solutions/free-basics/</publisher-name>
+      <ref id="ref-makhortykhTrackNotTrack2022">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Makhortykh</surname>
+              <given-names>Mykola</given-names>
+            </name>
+            <name>
+              <surname>Urman</surname>
+              <given-names>Aleksandra</given-names>
+            </name>
+            <name>
+              <surname>Gil-Lopez</surname>
+              <given-names>Teresa</given-names>
+            </name>
+            <name>
+              <surname>Ulloa</surname>
+              <given-names>Roberto</given-names>
+            </name>
+          </person-group>
+          <article-title>To track or not to track: Examining perceptions of online tracking for information behavior research</article-title>
+          <source>Internet Research</source>
+          <year iso-8601-date="2022-12">2022</year>
+          <month>12</month>
           <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-07-10">2025</year>
-            <month>07</month>
-            <day>10</day>
+            <year iso-8601-date="2025-08-20">2025</year>
+            <month>08</month>
+            <day>20</day>
           </date-in-citation>
+          <volume>32</volume>
+          <issue>7</issue>
+          <issn>1066-2243</issn>
+          <pub-id pub-id-type="doi">10.1108/INTR-01-2021-0074</pub-id>
+          <fpage>260</fpage>
+          <lpage>279</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-mithani2022scoping">
+      <ref id="ref-mckinnon2014sacrificing">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Mithani</surname>
-              <given-names>Salima S</given-names>
-            </name>
-            <name>
-              <surname>Bota</surname>
-              <given-names>A Brianne</given-names>
-            </name>
-            <name>
-              <surname>Zhu</surname>
-              <given-names>David T</given-names>
-            </name>
-            <name>
-              <surname>Wilson</surname>
-              <given-names>Kumanan</given-names>
+              <surname>McKinnon</surname>
+              <given-names>Ashton</given-names>
             </name>
           </person-group>
-          <article-title>A scoping review of global vaccine certificate solutions for COVID-19</article-title>
-          <source>Human vaccines &amp; immunotherapeutics</source>
-          <publisher-name>Taylor &amp; Francis</publisher-name>
-          <year iso-8601-date="2022">2022</year>
-          <volume>18</volume>
-          <issue>1</issue>
-          <fpage>1</fpage>
-          <lpage>12</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-norheim2010crowdsourcing">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Norheim-Hagtun</surname>
-              <given-names>Ida</given-names>
-            </name>
-            <name>
-              <surname>Meier</surname>
-              <given-names>Patrick</given-names>
-            </name>
-          </person-group>
-          <article-title>Crowdsourcing for crisis mapping in Haiti</article-title>
-          <source>Innovations: Technology Governance Globalization</source>
-          <year iso-8601-date="2010">2010</year>
-          <volume>5</volume>
-          <issue>4</issue>
-          <fpage>81</fpage>
+          <article-title>Sacrificing privacy for convenience: The need for stricter FTC regulations in an age of smartphone surveillance</article-title>
+          <source>J. Nat’l Ass’n Admin. L. Judiciary</source>
+          <publisher-name>HeinOnline</publisher-name>
+          <year iso-8601-date="2014">2014</year>
+          <volume>34</volume>
+          <fpage>484</fpage>
           <lpage/>
         </element-citation>
       </ref>
-      <ref id="ref-rathenauinstituutPrijsVanGratis2025">
+      <ref id="ref-prinslooDataPrivacyAfrican2022">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
-            <string-name>Rathenau Instituut</string-name>
+            <name>
+              <surname>Prinsloo</surname>
+              <given-names>Paul</given-names>
+            </name>
+            <name>
+              <surname>Kaliisa</surname>
+              <given-names>Rogers</given-names>
+            </name>
           </person-group>
-          <article-title>De prijs van gratis internet</article-title>
-          <year iso-8601-date="2025">2025</year>
+          <article-title>Data privacy on the African continent: Opportunities, challenges and implications for learning analytics</article-title>
+          <source>British Journal of Educational Technology</source>
+          <year iso-8601-date="2022">2022</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-07-17">2025</year>
+            <month>07</month>
+            <day>17</day>
+          </date-in-citation>
+          <volume>53</volume>
+          <issue>4</issue>
+          <issn>1467-8535</issn>
+          <pub-id pub-id-type="doi">10.1111/bjet.13226</pub-id>
+          <fpage>894</fpage>
+          <lpage>913</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-soden2014crowdsourced">
+      <ref id="ref-razaghpanahAppsTrackersPrivacy2018">
         <element-citation publication-type="paper-conference">
           <person-group person-group-type="author">
             <name>
-              <surname>Soden</surname>
-              <given-names>Robert</given-names>
+              <surname>Razaghpanah</surname>
+              <given-names>Abbas</given-names>
             </name>
             <name>
-              <surname>Palen</surname>
-              <given-names>Leysia</given-names>
+              <surname>Nithyanand</surname>
+              <given-names>Rishab</given-names>
             </name>
-          </person-group>
-          <article-title>From crowdsourced mapping to community mapping: The post-earthquake work of OpenStreetMap Haiti</article-title>
-          <source>COOP 2014-proceedings of the 11th international conference on the design of cooperative systems, 27-30 may 2014, nice (france)</source>
-          <publisher-name>Springer</publisher-name>
-          <year iso-8601-date="2014">2014</year>
-          <fpage>311</fpage>
-          <lpage>326</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-worldhealthorganisationGlobalDigitalHealth">
-        <element-citation>
-          <person-group person-group-type="author">
             <name>
-              <surname>Organisation</surname>
-              <given-names>World Health</given-names>
+              <surname>Vallina-Rodriguez</surname>
+              <given-names>Narseo</given-names>
+            </name>
+            <name>
+              <surname>Sundaresan</surname>
+              <given-names>Srikanth</given-names>
+            </name>
+            <name>
+              <surname>Allman</surname>
+              <given-names>Mark</given-names>
+            </name>
+            <name>
+              <surname>Kreibich</surname>
+              <given-names>Christian</given-names>
+            </name>
+            <name>
+              <surname>Gill</surname>
+              <given-names>Phillipa</given-names>
             </name>
           </person-group>
-          <article-title>Global Digital Health Certification Network</article-title>
-          <source>www.who.int</source>
-          <publisher-name>https://www.who.int/initiatives/global-digital-health-certification-network</publisher-name>
+          <article-title>Apps, Trackers, Privacy, and Regulators: A Global Study of the Mobile Tracking Ecosystem</article-title>
+          <source>Proceedings 2018 Network and Distributed System Security Symposium</source>
+          <publisher-name>Internet Society</publisher-name>
+          <publisher-loc>San Diego, CA</publisher-loc>
+          <year iso-8601-date="2018">2018</year>
           <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-06-26">2025</year>
-            <month>06</month>
-            <day>26</day>
+            <year iso-8601-date="2025-08-20">2025</year>
+            <month>08</month>
+            <day>20</day>
           </date-in-citation>
+          <isbn>978-1-891562-49-5</isbn>
+          <pub-id pub-id-type="doi">10.14722/ndss.2018.23353</pub-id>
         </element-citation>
       </ref>
     </ref-list>
   </back>
   <sub-article article-type="notebook" id="nb-4-nb-1">
+    <front-stub>
+      <title-group>
+        <article-title>Notes</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Frederik J. Van</given-names>
+          </name>
+          <string-name>Frederik J. Van Deventer</string-name>
+        </contrib>
+      </contrib-group>
+    </front-stub>
+    <body>
+      <list list-type="bullet">
+        <list-item>
+          <p>“While privacy is recognised as a right by some African states,
+    this is only rarely translated into justiciable rights and is almost
+    never a constraint on the behaviour of governments and their secret
+    police. This can be seen in the areas of data protection,
+    surveillance and cybersecurity.” - Sutherland
+    (<xref alt="2018" rid="ref-sutherlandDigitalPrivacyAfrica2018-nb-1" ref-type="bibr">2018</xref>)</p>
+        </list-item>
+      </list>
+      <sec id="hypotheses-to-work-with-or-maxims-and-possible-case-studies-nb-1">
+        <title>Hypotheses to work with or maxims and possible case
+  studies</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>Digital divide discourse is not advancing the closing of the
+      divide</p>
+          </list-item>
+          <list-item>
+            <p>Closing the digital divide is not alleviating poverty</p>
+          </list-item>
+          <list-item>
+            <p>Big tech’s push for the next billion users is unethically
+      preying on the new and inexperienced users</p>
+          </list-item>
+          <list-item>
+            <p>Improving privacy literacy will improve a users engagement with
+      platforms</p>
+          </list-item>
+          <list-item>
+            <p>Privacy and security are low priority</p>
+          </list-item>
+          <list-item>
+            <p>The global south is likely to fall prey to exposurism or
+      pilotism, the idea that companies use interventions and
+      experiments to test a theory and increase their PR by showing that
+      they are involved in “community efforts”</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>Why is it likely to fall prey? Or are they able to rise
+          above.</p>
+              </list-item>
+              <list-item>
+                <p>shown by humanitarianism in Technocolonialism</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>AI hype and positivity nudges people to put their trust in
+      platforms, but support will lack in the future</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>who will benefit
+          (<xref alt="Houston and Erdelez 2002" rid="ref-houstonDigitalDivideWho2002-nb-1" ref-type="bibr">Houston
+          and Erdelez 2002</xref>)</p>
+              </list-item>
+            </list>
+          </list-item>
+          <list-item>
+            <p>Technosolutionism puts too much trust in AI and will ask from
+      new users to engage with these tools. These tools are not free and
+      cost a lot to maintain</p>
+          </list-item>
+          <list-item>
+            <p>Offline-first education tools.</p>
+          </list-item>
+          <list-item>
+            <p>Data protection regulation is not being enforced and falls
+      short.</p>
+          </list-item>
+          <list-item>
+            <p>Machine learning’s biases are implicit but not without
+      consequence</p>
+            <list list-type="bullet">
+              <list-item>
+                <p>example DRC refugees: Madianou
+          (<xref alt="2024" rid="ref-madianou2024technocolonialism-nb-1" ref-type="bibr">2024</xref>)
+          p.140. When the decision is made by the machine without any
+          clear explanation about the criteria used, then it is harder
+          to challenge [.. exclusion].</p>
+              </list-item>
+              <list-item>
+                <p>Example Australia robodebt.</p>
+              </list-item>
+            </list>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="gesprek-eelco-nb-1">
+        <title>gesprek Eelco</title>
+        <p>_ Bart Jacobs - Digital security. _ Jaap Henk Hoepman -
+  Fundamentalist privacy, data minimalisation. Digital security _ -
+  Misgaan met data _</p>
+        <p>Theoretical Framework</p>
+        <list list-type="bullet">
+          <list-item>
+            <p>Privacy</p>
+          </list-item>
+          <list-item>
+            <p>Helen Nissenbaum Contextual Integrity (up and own the data food
+      chain)</p>
+          </list-item>
+          <list-item>
+            <p>Mireille Hildebrandt ()</p>
+          </list-item>
+          <list-item>
+            <p>Timothy Garton Ash: Free Speech</p>
+          </list-item>
+        </list>
+        <p>Big Tech en hun algoritmen vs. perceptie privacy in Botswana en wat
+  aanvaarden mensen.</p>
+        <p>Association Computer and Machinery - Chapter India, China - Chapter
+  Africa - Technology policy council</p>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title/>
+        <ref id="ref-houstonDigitalDivideWho2002-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Houston</surname>
+                <given-names>Roland D.</given-names>
+              </name>
+              <name>
+                <surname>Erdelez</surname>
+                <given-names>Sanda</given-names>
+              </name>
+            </person-group>
+            <article-title>The digital divide: Who really benefits from the proposed solutions for closing the gap</article-title>
+            <source>Proceedings of the American Society for Information Science and Technology</source>
+            <year iso-8601-date="2002">2002</year>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-08-18">2025</year>
+              <month>08</month>
+              <day>18</day>
+            </date-in-citation>
+            <volume>39</volume>
+            <issue>1</issue>
+            <issn>1550-8390</issn>
+            <pub-id pub-id-type="doi">10.1002/meet.1450390111</pub-id>
+            <fpage>99</fpage>
+            <lpage>106</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-madianou2024technocolonialism-nb-1">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Madianou</surname>
+                <given-names>Mirca</given-names>
+              </name>
+            </person-group>
+            <source>Technocolonialism: When technology for good is harmful</source>
+            <publisher-name>John Wiley &amp; Sons</publisher-name>
+            <year iso-8601-date="2024">2024</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-sutherlandDigitalPrivacyAfrica2018-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Sutherland</surname>
+                <given-names>Ewan</given-names>
+              </name>
+            </person-group>
+            <article-title>Digital Privacy in Africa: Cybersecurity, Data Protection &amp; Surveillance</article-title>
+            <source>SSRN Electronic Journal</source>
+            <year iso-8601-date="2018">2018</year>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-08-17">2025</year>
+              <month>08</month>
+              <day>17</day>
+            </date-in-citation>
+            <issn>1556-5068</issn>
+            <pub-id pub-id-type="doi">10.2139/ssrn.3201310</pub-id>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </sub-article>
+  <sub-article article-type="notebook" id="nb-7-nb-2">
+    <front-stub>
+      <title-group>
+        <article-title>Understanding privacy AI in the context of digital
+literacy</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Fritz Van</given-names>
+          </name>
+          <string-name>Fritz Van Deventer</string-name>
+        </contrib>
+      </contrib-group>
+    </front-stub>
+    <body>
+      <sec id="introduction-nb-2">
+        <title>Introduction</title>
+        <p>Digital connectivity is a must for advancing economic growth and
+  personal development, whether we like it or not. Digital privacy
+  however is something we often neglect, or is a luxury to consider
+  (<xref alt="Papacharissi 2010" rid="ref-papacharissiPrivacyLuxuryCommodity2010-nb-2" ref-type="bibr">Papacharissi
+  2010</xref>), when most communication platforms require a privacy
+  sacrifice to partake in its benefits for free. Low digital literacy in
+  combination with high connectivity can be dangerous. Multiple studies
+  have seen a combination of reasons why some people are more prone to
+  be a victim of fraud, one of which is low digital literacy
+  (<xref alt="Li, Li, and Du 2024" rid="ref-liDoesDigitalLiteracy2024-nb-2" ref-type="bibr">Li,
+  Li, and Du 2024</xref>). Most people are not aware that all the small
+  bits and pieces we offer to social platforms can be used by big tech
+  companies to put together a “Gestalt” of a user
+  (<xref alt="Puaschunder 2018" rid="ref-puaschunder2018dignity-nb-2" ref-type="bibr">Puaschunder
+  2018</xref>). Or put more simply, to understand what constitutes and
+  drives an individual online.</p>
+        <p>In the quest to increase profits and acquire the “next billion
+  users”, big tech companies are trying to get more people online and
+  part of their platforms by offering zero-rated services
+  (<xref alt="“Meta Connectivity” n.d." rid="ref-MetaConnectivity-nb-2" ref-type="bibr">“Meta
+  Connectivity” n.d.</xref>), [more sources]. The benefits of LLM’s and
+  GenAI are largely available for free where users offer a lot of
+  details about private matters, work-related documents without clearly
+  stating what is being done with their data.</p>
+        <p>Besides that GenAI makes it a lot easier to cause harm by creating
+  misinformation at the speed of light, and enhance digital images and
+  videos that some people cannot descern from real.</p>
+        <p>How then do people in low digital literacy environments educate
+  themselves to guard themselves against these forces?</p>
+      </sec>
+      <sec id="research-question-nb-2">
+        <title>Research Question</title>
+        <list list-type="order">
+          <list-item>
+            <p>How do people in low digital literacy environments, overcome
+      vectors that seek to do harm?</p>
+          </list-item>
+        </list>
+        <sec id="sub-questions-nb-2">
+          <title>Sub-questions</title>
+          <list list-type="order">
+            <list-item>
+              <p>What constitutes low digital literacy and how does privacy
+        and AI have their own blind spots?</p>
+            </list-item>
+            <list-item>
+              <p>What are ways to increase digital literacy concerning
+        privacy?</p>
+            </list-item>
+            <list-item>
+              <p>How can people be instructed recognize “AI smells”?</p>
+            </list-item>
+          </list>
+        </sec>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title>References</title>
+        <ref id="ref-liDoesDigitalLiteracy2024-nb-2">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Li</surname>
+                <given-names>Peng</given-names>
+              </name>
+              <name>
+                <surname>Li</surname>
+                <given-names>Qinghai</given-names>
+              </name>
+              <name>
+                <surname>Du</surname>
+                <given-names>Shanxing</given-names>
+              </name>
+            </person-group>
+            <article-title>Does digital literacy help residents avoid becoming victims of frauds? Empirical evidence based on a survey of residents in six provinces of east China</article-title>
+            <source>International Review of Economics &amp; Finance</source>
+            <year iso-8601-date="2024-03">2024</year>
+            <month>03</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-09-11">2025</year>
+              <month>09</month>
+              <day>11</day>
+            </date-in-citation>
+            <volume>91</volume>
+            <issn>10590560</issn>
+            <pub-id pub-id-type="doi">10.1016/j.iref.2024.01.056</pub-id>
+            <fpage>364</fpage>
+            <lpage>377</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-MetaConnectivity-nb-2">
+          <element-citation>
+            <article-title>Meta Connectivity</article-title>
+            <publisher-name>https://www.facebook.com/connectivity/solutions/free-basics/</publisher-name>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-10">2025</year>
+              <month>07</month>
+              <day>10</day>
+            </date-in-citation>
+          </element-citation>
+        </ref>
+        <ref id="ref-papacharissiPrivacyLuxuryCommodity2010-nb-2">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Papacharissi</surname>
+                <given-names>Zizi</given-names>
+              </name>
+            </person-group>
+            <article-title>Privacy as a luxury commodity</article-title>
+            <source>First Monday</source>
+            <year iso-8601-date="2010-07">2010</year>
+            <month>07</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-09-11">2025</year>
+              <month>09</month>
+              <day>11</day>
+            </date-in-citation>
+            <volume>15</volume>
+            <issue>8</issue>
+            <issn>13960466</issn>
+            <pub-id pub-id-type="doi">10.5210/fm.v15i8.3075</pub-id>
+          </element-citation>
+        </ref>
+        <ref id="ref-puaschunder2018dignity-nb-2">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Puaschunder</surname>
+                <given-names>Julia M</given-names>
+              </name>
+            </person-group>
+            <article-title>Dignity and utility of privacy and information sharing in the digital big data age</article-title>
+            <source>International Journal of Commerce and Management Research</source>
+            <year iso-8601-date="2018">2018</year>
+            <volume>5</volume>
+            <issue>4</issue>
+            <fpage>62</fpage>
+            <lpage>70</lpage>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </sub-article>
+  <sub-article article-type="notebook" id="nb-11-nb-3">
     <front-stub>
       <title-group>
         <article-title>Discovering a pattern of privacy literacy in rural Sub
@@ -314,71 +696,67 @@ Saharan Africa</article-title>
       </contrib-group>
     </front-stub>
     <body>
-      <sec id="context-nb-1">
+      <sec id="context-nb-3">
         <title>Context</title>
         <p>With the rise of digitization and the data it produces, the
   question of ownership of data becomes a contested issue for agents
   such as Indigenous people, consumers and countries
-  (<xref alt="Hummel et al. 2021" rid="ref-hummel2021data-nb-1" ref-type="bibr">Hummel
+  (<xref alt="Hummel et al. 2021" rid="ref-hummel2021data-nb-3" ref-type="bibr">Hummel
   et al. 2021</xref>). If the ownership is not clear and personal data
   cannot always be obtained
-  (<xref alt="Herrmann and Lindemann 2016" rid="ref-herrmannObtainingPersonalData2016-nb-1" ref-type="bibr">Herrmann
+  (<xref alt="Herrmann and Lindemann 2016" rid="ref-herrmannObtainingPersonalData2016-nb-3" ref-type="bibr">Herrmann
   and Lindemann 2016</xref>) it should be clear we should not only look
-  to data governance but also to privacy literacy
-  (<xref alt="Koltay 2016" rid="ref-koltay2016data-nb-1" ref-type="bibr">Koltay
-  2016</xref>). However, much of privacy literacy literature has used
-  ethnocentric Western-based ideas of governance and regulation that do
-  not take into account the multi-varied ways privacy can be perceived
-  in the Global South
-  (<xref alt="Arora 2019a" rid="ref-arora2019general-nb-1" ref-type="bibr">Arora
-  2019a</xref>,
-  <xref alt="2019b" rid="ref-aroraDecolonizingPrivacyStudies2019-nb-1" ref-type="bibr">2019b</xref>).
-  Digital privacy today faces a lot of threats. Some Big Tech parties
-  have decided to bring a limited version of the internet to the Global
-  South in the last decade “Introducing Project Loon:
-  <named-content content-type="nocase">Balloon-powered
-  Internet</named-content> Access”
-  (<xref alt="2013" rid="ref-IntroducingProjectLoon2013-nb-1" ref-type="bibr">2013</xref>).</p>
+  to data governance or ownership but also to defending this data in the
+  light of privacy norms. However, digital privacy in much of Africa is
+  subject to local and regional legislation
+  (<xref alt="Prinsloo and Kaliisa 2022" rid="ref-prinslooDataPrivacyAfrican2022-nb-3" ref-type="bibr">Prinsloo
+  and Kaliisa 2022</xref>), but its main challenge lies in enforcement
+  of this legislation
+  (<xref alt="Abdulrauf 2021" rid="ref-Abdulrauf04052021-nb-3" ref-type="bibr">Abdulrauf
+  2021</xref>). We should therefore not only rely on legislation, but
+  also work towards higher privacy literacy
+  (<xref alt="Koltay 2016" rid="ref-koltay2016data-nb-3" ref-type="bibr">Koltay
+  2016</xref>).</p>
+        <p>Digital privacy is not a binary or singular thing, and giving our
+  personal information to gain access to a platform or a service can be
+  useful. However people largely underestimate the small bits of
+  information we give to big tech and how the sum of that can still
+  offer a persona or Gestalt
+  (<xref alt="Puaschunder 2018" rid="ref-puaschunder2018dignity-nb-3" ref-type="bibr">Puaschunder
+  2018</xref>) with useful insights.</p>
       </sec>
-      <sec id="problem-nb-1">
+      <sec id="problem-nb-3">
         <title>Problem</title>
         <p>Understanding what happens with your data is difficult and
   ambigiuous in any context
-  (<xref alt="Bartsch and Dienlin 2016" rid="ref-bartschControlYourFacebook2016-nb-1" ref-type="bibr">Bartsch
-  and Dienlin 2016</xref>), intuitively this would be even more so where
-  internet is free and provided by commercial companies who have an
-  interest in obtaining your personal data. Companies like Meta profit
-  from tracking users online
-  (<xref alt="Wernerfelt et al. 2025" rid="ref-wernerfeltEstimatingValueOffsite2025-nb-1" ref-type="bibr">Wernerfelt
-  et al. 2025</xref>). Where the quality or the inner workings of
-  zero-rated services are being assessed Sen et al.
-  (<xref alt="2017" rid="ref-senWalledGardenDeconstructing2017-nb-1" ref-type="bibr">2017</xref>)
-  results are mixed. On the other hand zero-rated services have
-  significantly contributed to access to information and appointments
-  for Maternal Health or free messaging for HIV/AIDS medical
-  appointments
-  (<xref alt="Layton and Elaluf-Calderwood 2016" rid="ref-layton2016free-nb-1" ref-type="bibr">Layton
-  and Elaluf-Calderwood 2016</xref>). Other critiques of “zero-rating”
-  are issues of net-neutrality and gatekeeping
-  (<xref alt="Galpaya 2017" rid="ref-galpayaZeroratingEmergingEconomies2017-nb-1" ref-type="bibr">Galpaya
-  2017</xref>).</p>
+  (<xref alt="Bartsch and Dienlin 2016" rid="ref-bartschControlYourFacebook2016-nb-3" ref-type="bibr">Bartsch
+  and Dienlin 2016</xref>). Regulation and enforcement often falls
+  behind. And some regulation interventions simply fail, like the
+  “cookie wall”-solution
+  (<xref alt="Leenes and Kosta 2015" rid="ref-leenes2015taming-nb-3" ref-type="bibr">Leenes
+  and Kosta 2015</xref>). When companies like Meta profit from tracking
+  users online
+  (<xref alt="Wernerfelt et al. 2025" rid="ref-wernerfeltEstimatingValueOffsite2025-nb-3" ref-type="bibr">Wernerfelt
+  et al. 2025</xref>) and</p>
       </sec>
-      <sec id="research-questions-nb-1">
+      <sec id="research-questions-nb-3">
         <title>Research questions</title>
-        <sec id="main-question-nb-1">
+        <sec id="main-question-nb-3">
           <title>Main question</title>
-          <p>How can people in Sub Saharan Africa benefit from being
+          <p>How can people in the Majority World benefit from being
     “connected” without sacrificing their privacy?</p>
+          <p>What is permissable in bridging the digital divide? To what
+    extent is big tech allowed to</p>
           <p>
             <bold>(Possibly this can be more specified towards a Case Study
     in rural South Africa, or Botswana?)</bold>
           </p>
         </sec>
-        <sec id="sub-questions-nb-1">
+        <sec id="sub-questions-nb-3">
           <title>Sub-questions</title>
           <list list-type="bullet">
             <list-item>
-              <p>What initiatives stand out in amlerioating the digital
+              <p>What initiatives stand out in ameliorating the digital
         divide?</p>
             </list-item>
             <list-item>
@@ -404,30 +782,29 @@ Saharan Africa</article-title>
           </list>
         </sec>
       </sec>
-      <sec id="conceptual-framework-nb-1">
+      <sec id="conceptual-framework-nb-3">
         <title>Conceptual Framework</title>
-        <p>To make sense of this topic I will first set out to place privacy
-  and privacy literacy in conceptual framework.</p>
-        <p>The model <italic>6 Private I’s</italic> is proposed by
-  Hartman-Caverly and Chisholm
-  (<xref alt="2023" rid="ref-hartman2023privacy-nb-1" ref-type="bibr">2023</xref>)
-  as a way to perceive teach privacy and to recognize that privacy
-  firstly concerns people and not just technology.</p>
-        <p>According to Rotman
-  (<xref alt="2009" rid="ref-rotman2009you-nb-1" ref-type="bibr">2009</xref>)
-  for users to consciously decide what happens with their information
-  they should go from <italic>understanding, recognizing, realizing,
-  evaluating</italic> to <italic>deciding</italic>. But this sounds very
-  generic about anything you can teach..</p>
-        <p>…</p>
+        <p>Nissenbaum
+  (<xref alt="2004" rid="ref-nissenbaum2004privacy-nb-3" ref-type="bibr">2004</xref>)
+  proposes the idea of “Contextual Integrity” for privacy. Which instead
+  of focusing on specifics of data outlines “information flows”, of
+  which the norms are subject to the context in which that data flows.
+  With this notion of Contextual Integrity, we can easily establish the
+  divulging of the same type of personal information can be completely
+  permissable in one context and inappropriate in the other. For example
+  sharing my postal address to purchase a product is permissable,
+  whereas sharing my postal address with my students so they can hand in
+  their papers personally, feels like crossing a boundary.</p>
+        <p>The concept of “Contextual Integrity” has been used in a number of
+  studies to deal with personal information flows.</p>
       </sec>
-      <sec id="research-methodology-nb-1">
+      <sec id="research-methodology-nb-3">
         <title>Research methodology</title>
         <p>At the moment I’m reading Hancké
-  (<xref alt="2023" rid="ref-hanckeIntelligentResearchDesign2023-nb-1" ref-type="bibr">2023</xref>)
+  (<xref alt="2023" rid="ref-hanckeIntelligentResearchDesign2023-nb-3" ref-type="bibr">2023</xref>)
   and sorting through the vast bibliography of Sovacool, Axsen, and
   Sorrell
-  (<xref alt="2018" rid="ref-sovacoolPromotingNoveltyRigor2018-nb-1" ref-type="bibr">2018</xref>)
+  (<xref alt="2018" rid="ref-sovacoolPromotingNoveltyRigor2018-nb-3" ref-type="bibr">2018</xref>)
   to help sort out the methodology part.</p>
         <p>My initial instinct is to do a survey, but I would like to do
   something a bit different. But not sure how to go about this.</p>
@@ -454,10 +831,10 @@ Saharan Africa</article-title>
           </list-item>
         </list>
       </sec>
-      <sec id="significance-nb-1">
+      <sec id="significance-nb-3">
         <title>Significance</title>
         <p>A study by Prinsloo and Kaliisa
-  (<xref alt="2022" rid="ref-prinslooDataPrivacyAfrican2022-nb-1" ref-type="bibr">2022</xref>)
+  (<xref alt="2022" rid="ref-prinslooDataPrivacyAfrican2022-nb-3" ref-type="bibr">2022</xref>)
   has been held to asses specific sub-topics such as student data
   privacy researching regulatory frameworks on the African content. The
   angle here to assess Higher Education Institutes (HEI’s) is helpful as
@@ -467,7 +844,7 @@ Saharan Africa</article-title>
   impressive array of countries but has quite a low sample size,
   primarily in the generation we call millenials, which might be the
   most digital and privacy literate
-  (<xref alt="Agbozo, Alhassan, and Spassov 2018" rid="ref-agbozo2018personal-nb-1" ref-type="bibr">Agbozo,
+  (<xref alt="Agbozo, Alhassan, and Spassov 2018" rid="ref-agbozo2018personal-nb-3" ref-type="bibr">Agbozo,
   Alhassan, and Spassov 2018</xref>).</p>
         <p>This study should be different from both previous efforts by both
   its scope and localization.</p>
@@ -476,7 +853,26 @@ Saharan Africa</article-title>
     <back>
       <ref-list>
         <title>Bibliography</title>
-        <ref id="ref-agbozo2018personal-nb-1">
+        <ref id="ref-Abdulrauf04052021-nb-3">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Abdulrauf</surname>
+                <given-names>Lukman Adebisi</given-names>
+              </name>
+            </person-group>
+            <article-title>Giving ‘teeth’ to the African Union towards advancing compliance with data privacy norms</article-title>
+            <source>Information &amp; Communications Technology Law</source>
+            <publisher-name>Routledge</publisher-name>
+            <year iso-8601-date="2021">2021</year>
+            <volume>30</volume>
+            <issue>2</issue>
+            <pub-id pub-id-type="doi">10.1080/13600834.2021.1849953</pub-id>
+            <fpage>87</fpage>
+            <lpage>107</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-agbozo2018personal-nb-3">
           <element-citation publication-type="paper-conference">
             <person-group person-group-type="author">
               <name>
@@ -500,50 +896,7 @@ Saharan Africa</article-title>
             <lpage>91</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-arora2019general-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Arora</surname>
-                <given-names>Payal</given-names>
-              </name>
-            </person-group>
-            <article-title>General data protection regulation—A global standard? Privacy futures, digital activism, and surveillance cultures in the Global South</article-title>
-            <source>Surveillance &amp; Society</source>
-            <year iso-8601-date="2019">2019</year>
-            <volume>17</volume>
-            <issue>5</issue>
-            <fpage>717</fpage>
-            <lpage>725</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-aroraDecolonizingPrivacyStudies2019-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Arora</surname>
-                <given-names>Payal</given-names>
-              </name>
-            </person-group>
-            <article-title>Decolonizing Privacy Studies</article-title>
-            <source>Television &amp; New Media</source>
-            <publisher-name>SAGE Publications</publisher-name>
-            <year iso-8601-date="2019-05">2019</year>
-            <month>05</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-17">2025</year>
-              <month>07</month>
-              <day>17</day>
-            </date-in-citation>
-            <volume>20</volume>
-            <issue>4</issue>
-            <issn>1527-4764, 1552-8316</issn>
-            <pub-id pub-id-type="doi">10.1177/1527476418806092</pub-id>
-            <fpage>366</fpage>
-            <lpage>378</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-bartschControlYourFacebook2016-nb-1">
+        <ref id="ref-bartschControlYourFacebook2016-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -571,19 +924,7 @@ Saharan Africa</article-title>
             <lpage>154</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-galpayaZeroratingEmergingEconomies2017-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Galpaya</surname>
-                <given-names>Helani</given-names>
-              </name>
-            </person-group>
-            <article-title>Zero-rating in Emerging Economies</article-title>
-            <year iso-8601-date="2017">2017</year>
-          </element-citation>
-        </ref>
-        <ref id="ref-hanckeIntelligentResearchDesign2023-nb-1">
+        <ref id="ref-hanckeIntelligentResearchDesign2023-nb-3">
           <element-citation publication-type="book">
             <person-group person-group-type="author">
               <name>
@@ -599,23 +940,7 @@ Saharan Africa</article-title>
             <pub-id pub-id-type="doi">10.1093/oso/9780199570782.001.0001</pub-id>
           </element-citation>
         </ref>
-        <ref id="ref-hartman2023privacy-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Hartman-Caverly</surname>
-                <given-names>Sarah</given-names>
-              </name>
-              <name>
-                <surname>Chisholm</surname>
-                <given-names>Alexandria Edyn</given-names>
-              </name>
-            </person-group>
-            <article-title>Privacy as respect for persons: Reimagining privacy literacy with the six private I’s privacy conceptual framework</article-title>
-            <year iso-8601-date="2023">2023</year>
-          </element-citation>
-        </ref>
-        <ref id="ref-herrmannObtainingPersonalData2016-nb-1">
+        <ref id="ref-herrmannObtainingPersonalData2016-nb-3">
           <element-citation>
             <person-group person-group-type="author">
               <name>
@@ -640,7 +965,7 @@ Saharan Africa</article-title>
             <pub-id pub-id-type="doi">10.48550/arXiv.1602.01804</pub-id>
           </element-citation>
         </ref>
-        <ref id="ref-hummel2021data-nb-1">
+        <ref id="ref-hummel2021data-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -670,21 +995,7 @@ Saharan Africa</article-title>
             <lpage/>
           </element-citation>
         </ref>
-        <ref id="ref-IntroducingProjectLoon2013-nb-1">
-          <element-citation>
-            <article-title>Introducing Project Loon: Balloon-powered Internet access</article-title>
-            <source>Google</source>
-            <publisher-name>https://blog.google/alphabet/introducing-project-loon/</publisher-name>
-            <year iso-8601-date="2013-06">2013</year>
-            <month>06</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-10">2025</year>
-              <month>07</month>
-              <day>10</day>
-            </date-in-citation>
-          </element-citation>
-        </ref>
-        <ref id="ref-koltay2016data-nb-1">
+        <ref id="ref-koltay2016data-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -702,35 +1013,45 @@ Saharan Africa</article-title>
             <lpage>312</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-layton2016free-nb-1">
-          <element-citation publication-type="paper-conference">
+        <ref id="ref-leenes2015taming-nb-3">
+          <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
-                <surname>Layton</surname>
-                <given-names>Roslyn</given-names>
+                <surname>Leenes</surname>
+                <given-names>Ronald</given-names>
               </name>
               <name>
-                <surname>Elaluf-Calderwood</surname>
-                <given-names>Silvia</given-names>
+                <surname>Kosta</surname>
+                <given-names>Eleni</given-names>
               </name>
             </person-group>
-            <article-title>Free basics research paper: Zero rating, free data, and use cases in mhealth, local content and service development, and ICT4D policymaking</article-title>
-            <publisher-name>TPRC</publisher-name>
-            <year iso-8601-date="2016">2016</year>
+            <article-title>Taming the cookie monster with dutch law–a tale of regulatory failure</article-title>
+            <source>Computer Law &amp; Security Review</source>
+            <publisher-name>Elsevier</publisher-name>
+            <year iso-8601-date="2015">2015</year>
+            <volume>31</volume>
+            <issue>3</issue>
+            <fpage>317</fpage>
+            <lpage>335</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-MetaConnectivity-nb-1">
-          <element-citation>
-            <article-title>Meta Connectivity</article-title>
-            <publisher-name>https://www.facebook.com/connectivity/solutions/free-basics/</publisher-name>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-10">2025</year>
-              <month>07</month>
-              <day>10</day>
-            </date-in-citation>
+        <ref id="ref-nissenbaum2004privacy-nb-3">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Nissenbaum</surname>
+                <given-names>Helen</given-names>
+              </name>
+            </person-group>
+            <article-title>Privacy as contextual integrity</article-title>
+            <publisher-name>HeinOnline</publisher-name>
+            <year iso-8601-date="2004">2004</year>
+            <volume>79</volume>
+            <fpage>119</fpage>
+            <lpage/>
           </element-citation>
         </ref>
-        <ref id="ref-prinslooDataPrivacyAfrican2022-nb-1">
+        <ref id="ref-prinslooDataPrivacyAfrican2022-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -758,117 +1079,24 @@ Saharan Africa</article-title>
             <lpage>913</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-rotman2009you-nb-1">
+        <ref id="ref-puaschunder2018dignity-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
-                <surname>Rotman</surname>
-                <given-names>Dana</given-names>
+                <surname>Puaschunder</surname>
+                <given-names>Julia M</given-names>
               </name>
             </person-group>
-            <article-title>Are you looking at me?-Social media and privacy literacy</article-title>
-            <year iso-8601-date="2009">2009</year>
+            <article-title>Dignity and utility of privacy and information sharing in the digital big data age</article-title>
+            <source>International Journal of Commerce and Management Research</source>
+            <year iso-8601-date="2018">2018</year>
+            <volume>5</volume>
+            <issue>4</issue>
+            <fpage>62</fpage>
+            <lpage>70</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-senFreeBridgeDigital2016-nb-1">
-          <element-citation publication-type="paper-conference">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Sen</surname>
-                <given-names>Rijurekha</given-names>
-              </name>
-              <name>
-                <surname>Pirzada</surname>
-                <given-names>Hasnain Ali</given-names>
-              </name>
-              <name>
-                <surname>Phokeer</surname>
-                <given-names>Amreesh</given-names>
-              </name>
-              <name>
-                <surname>Farooq</surname>
-                <given-names>Zaid Ahmed</given-names>
-              </name>
-              <name>
-                <surname>Sengupta</surname>
-                <given-names>Satadal</given-names>
-              </name>
-              <name>
-                <surname>Choffnes</surname>
-                <given-names>David</given-names>
-              </name>
-              <name>
-                <surname>Gummadi</surname>
-                <given-names>Krishna P.</given-names>
-              </name>
-            </person-group>
-            <article-title>On the Free Bridge Across the Digital Divide: Assessing the Quality of Facebook’s Free Basics Service</article-title>
-            <source>Proceedings of the 2016 Internet Measurement Conference</source>
-            <publisher-name>ACM</publisher-name>
-            <publisher-loc>Santa Monica California USA</publisher-loc>
-            <year iso-8601-date="2016-11">2016</year>
-            <month>11</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-16">2025</year>
-              <month>07</month>
-              <day>16</day>
-            </date-in-citation>
-            <pub-id pub-id-type="doi">10.1145/2987443.2987485</pub-id>
-            <fpage>127</fpage>
-            <lpage>133</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-senWalledGardenDeconstructing2017-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Sen</surname>
-                <given-names>Rijurekha</given-names>
-              </name>
-              <name>
-                <surname>Ahmad</surname>
-                <given-names>Sohaib</given-names>
-              </name>
-              <name>
-                <surname>Phokeer</surname>
-                <given-names>Amreesh</given-names>
-              </name>
-              <name>
-                <surname>Farooq</surname>
-                <given-names>Zaid Ahmed</given-names>
-              </name>
-              <name>
-                <surname>Qazi</surname>
-                <given-names>Ihsan Ayyub</given-names>
-              </name>
-              <name>
-                <surname>Choffnes</surname>
-                <given-names>David</given-names>
-              </name>
-              <name>
-                <surname>Gummadi</surname>
-                <given-names>Krishna P.</given-names>
-              </name>
-            </person-group>
-            <article-title>Inside the Walled Garden: Deconstructing Facebook’s Free Basics Program</article-title>
-            <source>ACM SIGCOMM Computer Communication Review</source>
-            <publisher-name>Association for Computing Machinery (ACM)</publisher-name>
-            <year iso-8601-date="2017-10">2017</year>
-            <month>10</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-07-16">2025</year>
-              <month>07</month>
-              <day>16</day>
-            </date-in-citation>
-            <volume>47</volume>
-            <issue>5</issue>
-            <issn>0146-4833</issn>
-            <pub-id pub-id-type="doi">10.1145/3155055.3155058</pub-id>
-            <fpage>12</fpage>
-            <lpage>24</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-sovacoolPromotingNoveltyRigor2018-nb-1">
+        <ref id="ref-sovacoolPromotingNoveltyRigor2018-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -900,7 +1128,7 @@ Saharan Africa</article-title>
             <lpage>42</lpage>
           </element-citation>
         </ref>
-        <ref id="ref-wernerfeltEstimatingValueOffsite2025-nb-1">
+        <ref id="ref-wernerfeltEstimatingValueOffsite2025-nb-3">
           <element-citation publication-type="article-journal">
             <person-group person-group-type="author">
               <name>
@@ -936,6 +1164,92 @@ Saharan Africa</article-title>
             <pub-id pub-id-type="doi">10.1287/mksc.2023.0274</pub-id>
             <fpage>268</fpage>
             <lpage>286</lpage>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </sub-article>
+  <sub-article article-type="notebook" id="nb-14-nb-4">
+    <front-stub>
+      <title-group>
+        <article-title>Towards solutions with impact : rebridging the digital
+gap in areas</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Frederik J. Van</given-names>
+          </name>
+          <string-name>Frederik J. Van Deventer</string-name>
+        </contrib>
+      </contrib-group>
+    </front-stub>
+    <body>
+      <sec id="context-nb-4">
+        <title>Context</title>
+        <p>The digital divide is not a new phenomenon. It is usually described
+  as the gap existing between those whore are able to make use of
+  Internet and Communication Technologies (ICTs) and those who can not
+  (<xref alt="Van Dijk 2017" rid="ref-van2017digital-nb-4" ref-type="bibr">Van
+  Dijk 2017</xref>). This has a number of levels of inequality
+  (<xref alt="Lythreatis, Singh, and El-Kassar 2022" rid="ref-lythreatisDigitalDivideReview2022-nb-4" ref-type="bibr">Lythreatis,
+  Singh, and El-Kassar 2022</xref>)</p>
+      </sec>
+      <sec id="solution-nb-4">
+        <title>Solution</title>
+        <p>Mobile stations that serve as a gateway for simple phones.</p>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title/>
+        <ref id="ref-lythreatisDigitalDivideReview2022-nb-4">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lythreatis</surname>
+                <given-names>Sophie</given-names>
+              </name>
+              <name>
+                <surname>Singh</surname>
+                <given-names>Sanjay Kumar</given-names>
+              </name>
+              <name>
+                <surname>El-Kassar</surname>
+                <given-names>Abdul-Nasser</given-names>
+              </name>
+            </person-group>
+            <article-title>The digital divide: A review and future research agenda</article-title>
+            <source>Technological Forecasting and Social Change</source>
+            <year iso-8601-date="2022-02">2022</year>
+            <month>02</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-07-22">2025</year>
+              <month>07</month>
+              <day>22</day>
+            </date-in-citation>
+            <volume>175</volume>
+            <issn>0040-1625</issn>
+            <pub-id pub-id-type="doi">10.1016/j.techfore.2021.121359</pub-id>
+            <fpage>121359</fpage>
+            <lpage/>
+          </element-citation>
+        </ref>
+        <ref id="ref-van2017digital-nb-4">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Van Dijk</surname>
+                <given-names>JAGM</given-names>
+              </name>
+            </person-group>
+            <article-title>Digital divide: Impact of access</article-title>
+            <source>The international encyclopedia of media effects</source>
+            <year iso-8601-date="2017">2017</year>
+            <volume>1</volume>
+            <fpage>1</fpage>
+            <lpage>11</lpage>
           </element-citation>
         </ref>
       </ref-list>
