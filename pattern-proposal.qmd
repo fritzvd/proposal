@@ -9,7 +9,7 @@ bibliography: references.bib
 
 With the rise of digitization and the data it produces, the question of ownership of data becomes a contested issue for agents such as Indigenous people, consumers and countries [@hummel2021data]. If the ownership is not clear and personal data cannot always be obtained [@herrmannObtainingPersonalData2016] it should be clear we should not only look to data governance or ownership but also to defending this data in the light of privacy norms. However, digital privacy in much of Africa is subject to local and regional legislation [@prinslooDataPrivacyAfrican2022], but its main challenge lies in enforcement of this legislation [@Abdulrauf04052021]. We should therefore not only rely on legislation, but also work towards higher privacy literacy [@koltay2016data].
 
-Digital privacy is not a binary or singular thing. The privacy we demand when it comes to sharing our thoughts on personal photos with family, is very different to the privacy we expect when we are at work and working on a document together with colleagues. 
+Digital privacy is not a binary or singular thing, and giving our personal information to gain access to a platform or a service can be useful. However people largely underestimate the small bits of information we give to big tech and how the sum of that can still offer a persona or Gestalt [@puaschunder2018dignity] with useful insights.
 
 <!-- Not only the level of privacy but also the ease with which people could gain access, should be handled differently. -->
 <!-- 
@@ -26,11 +26,13 @@ Understanding what happens with your data is difficult and ambigiuous in any con
 
 How can people in the Majority World benefit from being "connected" without sacrificing their privacy?
 
+What is permissable in bridging the digital divide? To what extent is big tech allowed to 
+
 __(Possibly this can be more specified towards a Case Study in rural South Africa, or Botswana?)__
 
 ### Sub-questions
 
-- What initiatives stand out in amelirioating the digital divide?
+- What initiatives stand out in ameliorating the digital divide?
 - In what way are people aware of the predicament of sharing personal information?
 - What is the benefit of participating in the digital "online world"?
 - What legislation is in place to ensure digital privacy at a national and regional level?
@@ -39,7 +41,13 @@ __(Possibly this can be more specified towards a Case Study in rural South Afric
 
 ## Conceptual Framework
 
-@nissenbaum2004privacy proposes the idea of "Contextual Integrity" for privacy. Which makes a lot of sense as a way of approaching digital privacy. The main takeaway is that gathering information in and of itself is not wrong per se, but it largely depends on the context and how that information can tie into other information that makes it not conform to our norms, whilst still being in accordance with the law.
+@nissenbaum2004privacy proposes the idea of "Contextual Integrity" for privacy. Which instead of focusing on specifics of data outlines "information flows", of which the norms are subject to the context in which that data flows. With this notion of Contextual Integrity, we can easily establish the divulging of the same type of personal information can be completely permissable in one context and inappropriate in the other. For example sharing my postal address to purchase a product is permissable, whereas sharing my postal address with my students so they can hand in their papers personally, feels like crossing a boundary.
+
+The concept of "Contextual Integrity" has been used in a number of studies to deal with personal information flows.
+
+<!-- TODO: Find studies -->
+
+
 
 ## Research methodology
 
