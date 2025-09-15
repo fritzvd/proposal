@@ -16,6 +16,7 @@ Besides that GenAI makes it a lot easier to cause harm by creating misinformatio
 
 How then do people in low digital literacy environments educate themselves to guard themselves against these forces?
 
+
 ## Research Question
 
 1. How do people in low digital literacy environments, overcome vectors that seek to do harm?
