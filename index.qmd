@@ -1,58 +1,41 @@
 ---
-title: PhD Proposal
+title: Understanding privacy AI in the context of digital literacy
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
     roles: writing
     corresponding: true
 bibliography: references.bib
-mainfont: Palatino
-# mainfont: Latin Modern Roman
-sansfont: Palatino
+# mainfont: Palatino
+# # mainfont: Latin Modern Roman
+# sansfont: Palatino
 ---
-
-## Why don't we care about privacy?
-
-- similar to not caring about the environment
-- vegetarianism
-- dopanmine, addiction to social media
-- necessity. gmail is just so cheap
-  
-### solution
-
-Prevalence, front of mind consequence meditation
 
 ## Introduction
 
-As humans in a digital society we are living lives that are entwined with technology that exchanges data. We need to exchange data to track our businesses, for our communications with friends and family, to come ahead in our educational system, to pay our taxes etcetera, etcetera. We sacrifice our privacy to get access to free applications or to benefit our security [@mckinnon2014sacrificing], or move along faster in a health system [], or even to register for asylum [@lodinovaApplicationBiometricsMeans2016]. These applications typically track our internet behaviour [@makhortykhTrackNotTrack2022;@razaghpanahAppsTrackersPrivacy2018]. This tracking of biometric, location and social data is not without danger, this data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data].
+Digital connectivity is a must for advancing economic growth and personal development, whether we like it or not. Digital privacy however is something we often neglect, or is a luxury to consider [@papacharissiPrivacyLuxuryCommodity2010], when most communication platforms require a privacy sacrifice to partake in its benefits for free.
+Low digital literacy in combination with high connectivity can be dangerous. Multiple studies have seen a combination of reasons why some people are more prone to be a victim of fraud, one of which is low digital literacy [@liDoesDigitalLiteracy2024]. Most people are not aware that all the small bits and pieces we offer to social platforms can be used by big tech companies to put together a "Gestalt" of a user [@puaschunder2018dignity]. Or put more simply, to understand what constitutes and drives an individual online.
 
-With new developments in AI this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism]. There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general]. Much of Global South legislation is lagging behind or has met with challenges in enforcing the laws set in place [@prinslooDataPrivacyAfrican2022]. 
+Big tech companies are trying to get more people online and part of their platforms by offering zero-rated services [@MetaConnectivity]. The benefits of LLM's and GenAI are largely available for free where users can offer details about private matters or upload work-related documents without clearly stating what is being done with their data.
 
-In light of this
+Beyond privacy concerns, GenAI makes it a lot easier to cause harm by creating misinformation at the speed of light, AI generated faces cannot be discerned from real faces[@millerAIHyperrealismWhy2023; @nightingaleAIsynthesizedFacesAre2022], making people susceptible to scams and other forms of cybercrime [@reidRisksGenerativeArtificial2024; @shoaibDeepfakesMisinformationDisinformation2023].
 
-_Directions this could take. Validating all these promises AI seems to make. And vouching for privacy or security of the data disclosed with these agents._
+How then do people in low digital literacy environments educate themselves to guard themselves against these forces?
 
-<!-- Third parties are becoming an integral part of government policy to deal with the process of data collection and analysis [@johnson2023owns]. -->
-<!-- 
-> Most countries outside the West have lax or no privacy laws (Taylor, Floridi, and van der Sloot 2016). Brazil passed its first privacy laws in 2014, while India passed some in 2017. - [@arora2019general]
+## Conceptual Framework
 
-__governance__ __legislation__ -->
+## Scientific debate
 
+GenAI literacy research has focused on the increased digital divide [@hendawy2024intensified], learning how to succesfully create prompts [@kee2024generative], how students or teachers can use GenAI in learning [@meli2024empowering; @adarkwah2025genai] and lower barriers to learning [@roeGenAIDigitalPlastic2025]. The importance of increasing digital literacy in this respect is recognized [@shoaibDeepfakesMisinformationDisinformation2023], and proposes mixed models, like human-machine collaboration for detecting deep-fakes [@guptaEyesKnowIt2020].
 
+However, up to now a framework, model or test method of how to approach the increasing of literacy in this regard is lacking.
 
-## Research Questions
+## Research Question
 
-In what way can power assymetries between the majority world and the minority world be limited by effective legislation towards protecting personal data of citizens?
+1. How do people in low digital literacy environments, overcome vectors that are harmful?
 
-How can privacy literacy be increased that respects a cultural tradition without using a Eurocentric view of individual privacy but including a collective privacy?
+### Sub-questions
 
-What does privacy mean in rural areas
-
-
-## Methodology
-
-- Qualitative investigation of policy, laws in different countries
-- Questionnaire on usage of internet and awareness of privacy concerns..
-
-
-## References
+1. What constitutes low digital literacy and how does privacy and AI have their own blind spots?
+2. What are ways to increase digital literacy concerning privacy?
+3. How can people be instructed recognize "AI smells"?
