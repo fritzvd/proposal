@@ -56,3 +56,68 @@ What does privacy mean in rural areas
 
 
 ## References
+
+
+
+### Conversation Payal
+
+Components of privacy. How does it enable me to work online.
+
+- guardianship system in middle east (26 countries)
+  - tracking by patriarch
+- privacy doesn't enable freedom
+- afghanistan: privacy
+  - data extraction
+- missing complexities
+  - authoritartion regimes --> willing to 
+  - 
+- sense context
+  - qualms of literacy to feel enabled 
+  - prompt literacy
+  - trust literacy
+
+- enabling to function within these context
+  
+- idea: microsoft grant with red cross
+  - call for microsoft grant
+  - upscaling humanitarian workforces with ai
+  - 
+
+- Inclusive AILAB
+
+Title: Upskilling Humanitarian Workforces in the AI Economy: How Generative AI is Impacting Global Humanitarian Contexts
+Principal Investigator: Prof. Payal Arora, Chair of Inclusive AI Cultures, Utrecht University and Cofounder of Inclusive AI Lab
+Partners: International Federation of the Red Cross and Red Crescent Societies (IFRC), IFRC Solferino Academy, Netherlands Red Cross Society, LINRE-Asia
+ 
+ 
+Research theme
+AI and National Diffusion Differences
+Summary of the Project (99/100 words)
+This project examines how generative AI is reshaping humanitarian volunteering, a global workforce of 970 million often overlooked in digital transformation agendas. Centering on Red Cross volunteers in Sri Lanka, Kenya, and the Netherlands, it analyzes how adoption varies across contexts and the cultural and organizational factors that enable or hinder diffusion. Positioning volunteering as a pathway to workforce development, it explores how GenAI can enhance training, coordination, and crisis readiness while reducing inequities. Using comparative digital ethnography and action research, findings will provide policymakers, civic organizations, and global partners actionable strategies to embed inclusive AI in humanitarian ecosystems.
+
+
+ ### Conversation Stijn
+
+ - HAN-beurs
+   - digi-data-vaardig genAI-literacy
+- Data en IT data-awareness
+  - awareness slecht --> data-gedreven werken
+  - wat is data, wat zou data kunnen zijn
+  - privacy, security, concerns
+  - criminaliteit
+- Op elk niveau is data awareness/literacy
+
+DARK PATTERNS
+
+Outcomes:
+- lespakket? hoe instrueer je 
+
+Paradigm: Design Science Research (Hefner) / Action Research
+- Niet beschouwend, maar ook opbouwend naar een systeem/methode/framework/evaluatietool
+- Design Cyclus. 
+  - Evaluatie is nog steeds wetenschappelijk
+  - Proberen, evalueren, verbeteren
+
+
+- Overview of all kinds of legislation 
+  - @leslieFutureShockGenerative2024

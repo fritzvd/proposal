@@ -1,41 +1,58 @@
 ---
-title: Understanding privacy AI in the context of digital literacy
+title: GenAI an end itself
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
     roles: writing
     corresponding: true
 bibliography: references.bib
-# mainfont: Palatino
-# # mainfont: Latin Modern Roman
-# sansfont: Palatino
+# csl: springer-lecture-notes-in-computer-science.csl
 ---
+
+## Opbouw
+
+- Toename van tools en mogelijkheden
+- Toename van verzamelde gegevens
+- Ogenschijnlijke voordelen
+- Push van Big Tech om dit te verwezenlijken
+- "Geweld" met verzamelen van biometrische gegevens
+- In de context van huminataire interventies wordt er gekeken naar de mogelijke voordelen van het gebruik van genAI
+- Mogelijke gevaren van gebruik van genAI in huminataire interventies
+- Wat zijn de werkzaamheden van die vrijwilligers?
+- Wat is het digitale geletterdheidsniveau van vrijwilligers?
+- Hoe kunnen deze vrijwilligers gebruik van maken van genAI tools
+- Welke gevaren komen daarbij kijken?
+- Wat voor type data hanteren ze en welke risico's lopen huminataire slachtoffers door het vrijgeven van informatie in "black-boxes"
+
+- Werken met persooonlijke gegevens en AI..
+
+- Bredere vraag: wat is nodig om te vragen en wat is moreel correct?
+- De machtspositie van humanitaire organisaties, door de afhankelijkheidsrelatie tussen slachtoffer en vrijwilliger
+- Welke keuzevrijheid hebben humanitaire slachtoffers?
+- Welke belangen hebben humanitaire slachtoffers? 
+- Wordt er misbruik gemaakt van de kwetsbaarheid van de slachtoffers?
 
 ## Introduction
 
-Digital connectivity is a must for advancing economic growth and personal development, whether we like it or not. Digital privacy however is something we often neglect, or is a luxury to consider [@papacharissiPrivacyLuxuryCommodity2010], when most communication platforms require a privacy sacrifice to partake in its benefits for free.
-Low digital literacy in combination with high connectivity can be dangerous. Multiple studies have seen a combination of reasons why some people are more prone to be a victim of fraud, one of which is low digital literacy [@liDoesDigitalLiteracy2024]. Most people are not aware that all the small bits and pieces we offer to social platforms can be used by big tech companies to put together a "Gestalt" of a user [@puaschunder2018dignity]. Or put more simply, to understand what constitutes and drives an individual online.
+As humans in a digital society we are living lives that are entwined with technology that exchanges data. We need to exchange data across a myriad of transactions including: to track our businesses, for our communications with friends and family, to come ahead in our educational system, to pay our taxes and many more. We sacrifice our privacy to get access to free applications or to benefit our security [@mckinnon2014sacrificing], or move along faster in a health system [@kernDesigningElectronicPatient2016], or even to register for asylum [@lodinovaApplicationBiometricsMeans2016]. The use of wearables, biometric identification and health monitors have made data flows much more personal, even becoming part of our hormonal cycles and sex life[@gomezortegaDesigningSecondaryUsers2025]. Watches locating children, or apps keeping track of spouses are commonplace, but also form a danger as a "dual-use technology" for malevolent tracking or even surveillance, which itself is a manifestation of inter partner violence [@almansooriGlobalSurveyAndroid2022].
 
-Big tech companies are trying to get more people online and part of their platforms by offering zero-rated services [@MetaConnectivity]. The benefits of LLM's and GenAI are largely available for free where users can offer details about private matters or upload work-related documents without clearly stating what is being done with their data.
+End User License Agreements (EULA's), that require a great deal of surrender of personal information, are signed with a sense apathy and powerlessness [@gomezortegaSurrenderingPowerlesnessGoverning2025; @draperPrivacyResignationApathy2024].
 
-Beyond privacy concerns, GenAI makes it a lot easier to cause harm by creating misinformation at the speed of light, AI generated faces cannot be discerned from real faces[@millerAIHyperrealismWhy2023; @nightingaleAIsynthesizedFacesAre2022], making people susceptible to scams and other forms of cybercrime [@reidRisksGenerativeArtificial2024; @shoaibDeepfakesMisinformationDisinformation2023].
+Recent developments have seen generative Artificial Intelligence (genAI) being available for the masses with Large Language Models (LLM's) having a much easier interface for non-technical users. Often signified with the moniker: AI or with magical stars (✨) it features in many applications ranging from web search to [@googleGoogleAIMode;@duckduckgoDuckaiDuckDuckGoHelp; @microsoftIntroducingNewBing] personal communication such as Outlook [@ChatCopilotOutlook] or Whatsapp [@metaMetaAIWhatsApp]. genAI is quickly becoming embedded in all sorts of business and applications [@grantham-philipsAIBecomingIngrained2024].
+Even more than in applications beforehand users are encouraged to upload documents and provide more context for the LLM to perform better.
 
-How then do people in low digital literacy environments educate themselves to guard themselves against these forces?
+As a result of the increased use of genAI, such as LLM's, a great variety of topics have been researched in the last few years. Such as environmental impact [@dingSustainableLLMServing2024; @rillig2023risks], or a comparison of energy consumption of LLM's vs humans [@ren2024reconciling]. On the other hand the need to improve the environmental impact [@jiangPreventingImmenseIncrease2024; @stojkovic2024towards]. GenAI is also described as both closing and / or widening the digital divide [@carterExploringIntersectionDigital2020; @sartoriMindingGapsPublic2023]. In the context of privacy it seems there is more uncertainty.
 
-## Conceptual Framework
+<!-- Not all contexts are
 
-## Scientific debate
+Improving workflows and
 
-GenAI literacy research has focused on the increased digital divide [@hendawy2024intensified], learning how to succesfully create prompts [@kee2024generative], how students or teachers can use GenAI in learning [@meli2024empowering; @adarkwah2025genai] and lower barriers to learning [@roeGenAIDigitalPlastic2025]. The importance of increasing digital literacy in this respect is recognized [@shoaibDeepfakesMisinformationDisinformation2023], and proposes mixed models, like human-machine collaboration for detecting deep-fakes [@guptaEyesKnowIt2020].
+Which raises the question. What is permissable? -->
 
-However, up to now a framework, model or test method of how to approach the increasing of literacy in this regard is lacking.
+<!-- The fact that this data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data]. -->
 
-## Research Question
+<!-- With new developments in artificial intelligence (AI) and more specifically generative AI (genAI) this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism].
+With the advent of large language models (LLMs) that are available to a wide audience with consumer-friendly applications such as ChatGPT, Claude, Google AI and so forth, this becomes relevant for a much wider audience. -->
+<!-- 
+There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general]. Much of Global South legislation is lagging behind or has met with challenges in enforcing the laws set in place [@prinslooDataPrivacyAfrican2022].  -->
 
-1. How do people in low digital literacy environments, overcome vectors that are harmful?
-
-### Sub-questions
-
-1. What constitutes low digital literacy and how does privacy and AI have their own blind spots?
-2. What are ways to increase digital literacy concerning privacy?
-3. How can people be instructed recognize "AI smells"?

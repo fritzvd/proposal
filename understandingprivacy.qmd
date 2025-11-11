@@ -1,0 +1,43 @@
+---
+title: Understanding privacy AI in the context of digital literacy
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+# mainfont: Palatino
+# # mainfont: Latin Modern Roman
+# sansfont: Palatino
+---
+
+## Introduction
+
+Digital connectivity is a must for advancing economic growth and personal development. Digital privacy however is something we often neglect, or is a luxury to consider [@papacharissiPrivacyLuxuryCommodity2010], when most communication platforms require a privacy sacrifice to partake in its benefits for free.
+Low digital literacy in combination with high connectivity can be dangerous. Multiple studies have seen a combination of reasons why some people are more prone to be a victim of fraud, one of which is low digital literacy [@liDoesDigitalLiteracy2024]. Most people are not aware that all the small bits and pieces we offer to social platforms can be used by big tech companies to put together a "Gestalt" of a user [@puaschunder2018dignity]. Or put more simply, to understand what constitutes and drives an individual online.$$
+
+<!-- Big tech companies are trying to get more people online and part of their platforms by offering zero-rated services [@MetaConnectivity]. The benefits of LLM's and GenAI are largely available for free where users can offer details about private matters or upload work-related documents without clearly stating what is being done with their data. -->
+
+Beyond privacy concerns, GenAI makes it a lot easier to cause harm by creating misinformation at the speed of light, AI generated faces cannot be discerned from real faces[@millerAIHyperrealismWhy2023; @nightingaleAIsynthesizedFacesAre2022], making people susceptible to scams and other forms of cybercrime [@reidRisksGenerativeArtificial2024; @shoaibDeepfakesMisinformationDisinformation2023].
+
+How then do people in low digital literacy environments educate themselves to guard themselves against these forces?
+
+## Conceptual Framework
+
+
+
+## Scientific debate
+
+GenAI literacy research has focused on the increased digital divide [@hendawy2024intensified], learning how to succesfully create prompts [@kee2024generative], how students or teachers can use GenAI in learning [@meli2024empowering; @adarkwah2025genai] and lower barriers to learning [@roeGenAIDigitalPlastic2025]. The importance of increasing digital literacy in this respect is recognized [@shoaibDeepfakesMisinformationDisinformation2023], and proposes mixed models, like human-machine collaboration for detecting deep-fakes [@guptaEyesKnowIt2020].
+
+However, up to now a framework, model or test method of how to approach the increasing of literacy in this regard is lacking.
+
+## Research Question
+
+1. How do people in low digital literacy environments, overcome vectors that are harmful?
+
+### Sub-questions
+
+1. What constitutes low digital literacy and how does privacy and AI have their own blind spots?
+2. What are ways to increase digital literacy concerning privacy?
+3. How can people be instructed recognize "AI smells"?

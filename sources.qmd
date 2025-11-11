@@ -1,0 +1,133 @@
+---
+title: "Sources: Humanitarian Aid, Volunteers, and GenAI"
+format: html
+---
+
+## Academic and Policy Sources
+
+### Official Reports and Briefings
+
+- **OCHA (UN Office for Coordination of Humanitarian Affairs)**. "Briefing Note on Artificial Intelligence and the Humanitarian Sector." Available at: https://www.unocha.org/publications/report/world/briefing-note-artificial-intelligence-and-humanitarian-sector
+
+- **UK Government**. "The risks and opportunities of AI on humanitarian action." March 2025. Available at: https://www.ictworks.org/wp-content/uploads/2025/03/ai-in-humanitarian-action.pdf
+
+- **UK Humanitarian Innovation Hub**. "Humanitarian AI Unpacked - January 2025." Available at: https://www.ukhih.org/news/humanitarian-ai-unpacked-january-2025/
+
+### Academic and Journal Articles
+
+- **International Review of the Red Cross**. "Harnessing the potential of artificial intelligence for humanitarian action: Opportunities and risks." Available at: https://international-review.icrc.org/articles/harnessing-the-potential-of-artificial-intelligence-for-humanitarian-action-919
+
+- **Global Policy Journal**. "Taking stock: Generative AI, humanitarian action, and the aid worker." July 28, 2023. Available at: https://www.globalpolicyjournal.com/blog/28/07/2023/taking-stock-generative-ai-humanitarian-action-and-aid-worker
+
+- **ACM Digital Library**. "Applications of Artificial Intelligence in Disaster Management." 2024. Available at: https://dl.acm.org/doi/fullHtml/10.1145/3669754.3669802
+
+### NGO and Humanitarian Organization Publications
+
+- **The New Humanitarian**. "AI for humanitarians: A conversation on the hype, the hope, the future." September 5, 2023. Available at: https://www.thenewhumanitarian.org/feature/2023/09/05/ai-humanitarians-conversation-hype-hope-future
+
+- **ReliefWeb**. "AI and Emerging Tech for Humanitarian Action: Opportunities and Challenges." Available at: https://reliefweb.int/report/world/ai-and-emerging-tech-humanitarian-action-opportunities-and-challenges
+
+- **NetHope**. "AI in the Humanitarian Sector." Available at: https://nethope.org/articles/ai-in-the-humanitarian-sector/
+
+- **UNHCR Innovation Service**. "AI for efficient, evidence-informed humanitarianism." Medium. Available at: https://medium.com/unhcr-innovation-service/ai-for-efficient-evidence-informed-humanitarianism-fd246238a0ad
+
+## Major Initiatives and Projects
+
+### Data and Analytics Platforms
+
+- **Humanitarian Data Insights Platform (HDIP)**
+  - Launched: Public beta December 10, 2024
+  - Partners: DataKind, Save the Children, Microsoft
+  - Technology: Uses generative AI to streamline data accessibility and predict metadata
+  - Source: https://www.datakind.org/2024/08/06/humanitarian-data-insights-project-using-generative-ai-to-streamline-data-access-and-use-for-humanitarian-action/
+
+- **DISHA (Data Insights for Social and Humanitarian Action)**
+  - Organization: UN Global Pulse partnership
+  - Technology: AI-powered platform using mobile phone, satellite, and digital transaction data
+  - Application: Real-time displacement patterns and disaster damage tracking
+
+### Organizational AI Strategies
+
+- **UNICEF Venture Fund**. "Trends and Future Outlook for Generative AI: Access, Inclusion, and Advancing the SDGs." Available at: https://www.unicefventurefund.org/story/generative-ai-and-future-access-inclusion-and-humanitarian-action
+  - Note: UNICEF finalized internal AI strategy in 2024/2025
+
+- **Danish Refugee Council (DRC)**
+  - Developed four AI-powered forecast models analyzing 120+ indicators to predict displacement
+
+- **Build Change**
+  - Exploring generative AI for multilingual, hyper-localized reconstruction and home fortification guidance
+
+### Funding Initiatives
+
+- **Google.org**: $30 million open call for Generative AI Accelerator program (6-month program)
+  - Deadline: February 10, 2025
+  - Focus: AI-driven solutions for community resilience and humanitarian challenges
+
+- **Elrha**. "AI for Humanitarians: Shaping future innovation." 2024
+  - Supported cohort of humanitarian practitioners through 6-month guided learning journey
+  - Source: https://www.elrha.org/funding-opportunities/ai-for-humanitarians-shaping-future-innovation
+
+## Volunteer Organizations and Community Initiatives
+
+### Organizations Mobilizing AI Volunteers
+
+- **AI For Mankind** (501(c)(3) nonprofit)
+  - Mission: Mobilize tech community for world-challenging problems using AI and Data
+  - Seeking: Web developers, mobile developers, UI/UX, data scientists, AI experts
+  - Website: https://aiformankind.org/
+
+- **AI for Good Foundation**
+  - Focus: AI/ML development for social and ecological impact
+  - Alignment: UN Sustainable Development Goals
+  - Website: https://ai4good.org/get-involved/volunteer/
+
+- **Humanitarian OpenStreetMap Team (HOT)**
+  - Community: Thousands of dedicated volunteers
+  - Initiative: fAIr (AI-assisted mapping) - empowers humanitarian mappers to create localized AI models
+  - Focus: Priority countries for humanitarian response
+  - Website: https://www.hotosm.org/
+
+- **AI Asia Pacific Institute (AIAPI)**
+  - Focus: Responsible AI development in Asia-Pacific region
+  - Website: https://aiasiapacific.org/get-involved/volunteer/
+
+## Additional Resources
+
+### General Overview Articles
+
+- **Candid Blog**. "AI for Good: Transforming humanitarian response." Available at: https://blog.candid.org/post/ai-data-transforming-nonprofits-humanitarian-response/
+
+- **Alliance Magazine**. "AI is transforming humanitarian response to climate disasters." Available at: https://www.alliancemagazine.org/blog/ai-is-transforming-humanitarian-response-to-climate-disasters/
+
+- **Johns Hopkins Center for Global Digital Health Innovation**. "August 2024: Digital Tools Transforming Humanitarian Aid." Available at: https://publichealth.jhu.edu/center-for-global-digital-health-innovation/august-2024-digital-tools-transforming-humanitarian-aid
+
+- **Omdena**. "Top 50 NGOs Leveraging AI to Drive Social Impact and Address Global Challenges." Available at: https://www.omdena.com/blog/top-ngos-leveraging-ai-to-drive-social-impact-and-address-global-challenges
+
+- **VolunteerHub**. "How Nonprofits can Leverage AI for Social Good." Available at: https://volunteerhub.com/blog/how-nonprofits-can-leverage-ai-for-social-good
+
+- **McKinsey**. "From job placement to disaster relief, McKinsey is using the power of AI for social good." Available at: https://www.mckinsey.com/about-us/new-at-mckinsey-blog/from-job-placement-to-disaster-relief-mckinsey-is-using-the-power-of-ai-for-social-good
+
+## Key Statistics and Findings
+
+### Workforce Trends
+
+- **Tokyo University Study**: 97% of students reported using GPT for coursework, indicating a new generation of aid workers familiar with AI tools
+
+### Applications
+
+- **Advocacy and Communication**: ChatGPT used for drafting social media posts, media releases, and articles
+- **Data Analysis**: AI enables analysis of vast datasets to predict trends and inform humanitarian response
+- **Predictive Analytics**: Shift from reactive to anticipatory humanitarian action
+- **Legal Analysis**: Bespoke generative AI instances to query refugee law and understand protection needs
+
+### Challenges and Risks
+
+- **Data Privacy**: ChatGPT privacy statement indicates staff read and record information to improve algorithms
+  - Risk: Humanitarians must avoid inputting sensitive operational data or personally identifiable information
+- **Algorithmic Bias**: Poor data quality and biased algorithms can lead to unfair outcomes
+- **Equity Concerns**: Potential to exacerbate vulnerabilities and inequalities
+
+## Conference and Event Resources
+
+- **AI + HADR 2023** (Humanitarian Assistance and Disaster Relief)
+  - Website: https://www.hadr.ai/
