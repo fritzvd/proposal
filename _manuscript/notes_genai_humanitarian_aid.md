@@ -20,3 +20,26 @@ A way to use LLM's in the context of humanitarian aid such as Red Cross endeavou
 ### Hypotheses
 
 The use GenAI in humanitarian aid is largely a push by big tech. The potential to help out
+
+## Opbouw
+
+- Toename van tools en mogelijkheden
+- Toename van verzamelde gegevens
+- Ogenschijnlijke voordelen
+- Push van Big Tech om dit te verwezenlijken
+- "Geweld" met verzamelen van biometrische gegevens
+- In de context van huminataire interventies wordt er gekeken naar de mogelijke voordelen van het gebruik van genAI
+- Mogelijke gevaren van gebruik van genAI in huminataire interventies
+- Wat zijn de werkzaamheden van die vrijwilligers?
+- Wat is het digitale geletterdheidsniveau van vrijwilligers?
+- Hoe kunnen deze vrijwilligers gebruik van maken van genAI tools
+- Welke gevaren komen daarbij kijken?
+- Wat voor type data hanteren ze en welke risico's lopen huminataire slachtoffers door het vrijgeven van informatie in "black-boxes"
+
+- Werken met persooonlijke gegevens en AI..
+
+- Bredere vraag: wat is nodig om te vragen en wat is moreel correct?
+- De machtspositie van humanitaire organisaties, door de afhankelijkheidsrelatie tussen slachtoffer en vrijwilliger
+- Welke keuzevrijheid hebben humanitaire slachtoffers?
+- Welke belangen hebben humanitaire slachtoffers?
+- Wordt er misbruik gemaakt van de kwetsbaarheid van de slachtoffers?
