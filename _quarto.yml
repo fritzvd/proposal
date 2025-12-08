@@ -4,6 +4,8 @@ project:
 manuscript:
   article: index.qmd
 
+preview-mode: raw
+
 format:
   html:
     comments:

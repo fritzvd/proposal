@@ -1,0 +1,49 @@
+---
+title: "'Dear LLM..': Anonimity in an age of magical machines"
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+csl: slncs-alphabetical.csl
+abstract: wonderful, monderful
+---
+
+## Introduction 
+
+"Hey ChatGPT, what's the weather like, should I take the bike?". A simple "prompt" like this already presumes sharing personal details such like location. Taking advice from tools such as ChatGPT or other large language model (LLM) based generative artifical intelligence (genAI) systems has quickly become commonplace since its launch for the masses at the end of 2022 [@zhangTakingAdviceChatGPT2023]. Ranging from advice on cardiovascular health [@lautrupHearttoheartChatGPTImpact2023], visualisation design advice [@kimHowGoodChatGPT2025], relationship advice [@houChatGPTGivingRelationship2024]. It can even perceived as "better" than real humans [@howeChatGPTsAdvicePerceived2023; @oehlerDoesChatGPTProvide2024]. Furthermore, "secret use" of an LLM for real-world tasks makes it difficult to determine whether a real human doing a task is unaided or not [@zhangSecretUseLarge2025]. The models however are flawed and can produce inaccurate, untrue or malevolent results [@cheungRealityCheckBenefits2024; @liuRobustnessTimeUnderstanding2024].
+
+To properly make use of an LLM's based chat such as ChatGPT, users give prompts that provide context for offering a reply. This context users give can be greatly personal if we are to ask for advice such as highlighted in the section above where it concerns medical and relationship advice. It can be in the form of the question itself, but also in the form of documents uploaded to the service [@naikChatGPTAllYou2024]. 
+
+Jailbreak prompts are a way to subvert the main goals and to misuse LLM's [@perezIgnorePreviousPrompt2022]. Which could lead to the extraction of personally identifiable information [@liMultistepJailbreakingPrivacy2023]. In older models (GPT-2) training data could be even be extracted after an attack [@carliniExtractingTrainingData2021].
+The terms of service for ChatGPT allow for OpenAI (the company behind the popular chat based LLM) to make use of content provided by users to improve services, and even to train models [@openaiPrivacyPolicy]. The same holds true for Anthropic (Claude) [@anthropicHowYouUse], Google (Gemini) [@googlePrivacyPolicyPrivacy] and X (Grok) [@xTermsServiceConsumer], even in areas with stricter legal restrictions such as the European GDPR.
+
+The extraction and use of personal data for turning a profit by large corporations has been well documented and has ushered us into an age of new forms of capitalism [@sadowskiWhenDataCapital2019; @marcianoBigDataBig2020; @birchDataAssetMeasurement2021]. For consumers there is little to no protection or privacy for unless government regulation explicitly makes it so, like the GDPR program [@arora2019general].
+However people largely underestimate the small bits of information we give to big tech and how the sum of that can still offer a persona or Gestalt [@puaschunder2018dignity].
+
+What then can users trust? What level of anonynimity can they enjoy while using the internet and more specifically LLM's?
+
+## Conceptual framework
+
+In the field of privacy the concept of Contextual Integrity by @nissenbaum2004privacy is widely regarded to be able to hold multiple aspects of privacy and to take into account the context in which information flows [@barthPrivacyContextualIntegrity2006].
+
+
+
+
+
+
+<!-- Not all contexts are
+
+Improving workflows and
+
+Which raises the question. What is permissable? -->
+
+<!-- The fact that this data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data]. -->
+
+<!-- With new developments in artificial intelligence (AI) and more specifically generative AI (genAI) this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism].
+With the advent of large language models (LLMs) that are available to a wide audience with consumer-friendly applications such as ChatGPT, Claude, Google AI and so forth, this becomes relevant for a much wider audience. -->
+<!-- 
+There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general]. Much of Global South legislation is lagging behind or has met with challenges in enforcing the laws set in place [@prinslooDataPrivacyAfrican2022].  -->
+
+## Bibliography

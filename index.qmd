@@ -1,47 +1,86 @@
 ---
-title: "'Dear LLM..': Anonimity and privacy in an age of magical machines"
+title: "Privacy in an age of magical machines: A cross-cultural discovery of patterns of privacy in GenAI"
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
     roles: writing
     corresponding: true
 bibliography: references.bib
-# csl: springer-lecture-notes-in-computer-science.csl
+# csl: slncs-alphabetical.csl
+abstract: wonderful, monderful
+keywords: data-capitalism, neocolonialism, 
 ---
 
-"Hey ChatGPT, what's the weather like, should I take the bike?". A simple "prompt" like this already presumes sharing personal details such like location. Taking advice from tools such as ChatGPT or other large language model (LLM) based generative artifical intelligence (genAI) systems has quickly become commonplace since its launch for the masses at the end of 2022 [@zhangTakingAdviceChatGPT2023]. Ranging from advice on cardiovascular health [@lautrupHearttoheartChatGPTImpact2023], visualisation design advice [@kimHowGoodChatGPT2025], relationship advice [@houChatGPTGivingRelationship2024]. It can even perceived as "better" than real humans [@howeChatGPTsAdvicePerceived2023; @oehlerDoesChatGPTProvide2024]. Furthermore, "secret use" of an LLM for real-world tasks makes it difficult to determine whether a real human doing a task is unaided or not [@zhangSecretUseLarge2025]. The models however are flawed and can produce inaccurate, untrue or malevolent results [@cheungRealityCheckBenefits2024; @liuRobustnessTimeUnderstanding2024].
+## Introduction
 
-To properly make use of an LLM's based chat such as ChatGPT, users give prompts that provide context for offering a reply. This context users give can be greatly personal if we are to ask for advice such as highlighted in the section above where it concerns medical and relationship advice. It can be in the form of the question itself, but also in the form of documents uploaded to the service [@naikChatGPTAllYou2024]. 
-
-Jailbreak prompts are a way to subvert the main goals and to misuse LLM's [@perezIgnorePreviousPrompt2022]. Which could lead to the extraction of personally identifiable information [@liMultistepJailbreakingPrivacy2023]. In older models (GPT-2) training data could be even be extracted after an attack [@carliniExtractingTrainingData2021].
-The terms of service for ChatGPT allow for OpenAI (the company behind the popular chat based LLM) to make use of content provided by users to improve services, and even to train models [@openaiPrivacyPolicy]. The same holds true for Anthropic (Claude) [@anthropicHowYouUse], Google (Gemini) [@googlePrivacyPolicyPrivacy] and X (Grok) [@xTermsServiceConsumer], even in areas with stricter legal restrictions such as the European GDPR.
-
-The extraction and use of personal data for turning a profit by large corporations has been well documented and has ushered us into an age of new forms of capitalism [@sadowskiWhenDataCapital2019; @marcianoBigDataBig2020; @birchDataAssetMeasurement2021]. For consumers there is little to no protection or privacy for unless government regulation explicitly makes it so, like the GDPR program [@arora2019general].
-However people largely underestimate the small bits of information we give to big tech and how the sum of that can still offer a persona or Gestalt [@puaschunder2018dignity].
-
-
-
-
-## Conceptual framework
-
-In the field of privacy the concept of Contextual Integrity by @nissenbaum2004privacy is widely regarded to be able to hold multiple aspects of privacy and to take into account the context in which information flows [@barthPrivacyContextualIntegrity2006].
-
-
-
-
-
-
-<!-- Not all contexts are
-
-Improving workflows and
-
-Which raises the question. What is permissable? -->
-
-<!-- The fact that this data is also used for the creation of economic value and has lead to something more than just a phenomenon of capitalism; it's a manifestation of colonialism [@couldry2019data]. -->
-
-<!-- With new developments in artificial intelligence (AI) and more specifically generative AI (genAI) this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism].
-With the advent of large language models (LLMs) that are available to a wide audience with consumer-friendly applications such as ChatGPT, Claude, Google AI and so forth, this becomes relevant for a much wider audience. -->
+@andreessenWhySoftwareEating2011 said: "Software is eating the world", but today it might be more appropriate to say _Data_ is eating the world. There is no longer a distinction to what can and cannot be captured in data from nature [@walford2018if] to bodies [@van2012body]. This 'datafication' [@cukierRiseBigData2014], tries to capture all things into data, with data being a tradeable commodity [@defranceschiDataTradeableCommodity2015].
+Our daily lives are deeply connected with digital technology that collects the what and when on our interactions as capital [@west2019data]. The tools and distractions social media provides turns us into consumer-workers [@puaschunder2018dignity] collecting data for these companies whilst we enter into license agreements without being able to control the data we produce [@thatcher2016data] and approaching user agreements with a sense of apathy [@gomezortegaSurrenderingPowerlesnessGoverning2025].
 <!-- 
-There is little to no protection or privacy for private consumers unless government regulation explicitly makes it so, like the GDPR program [@arora2019general]. Much of Global South legislation is lagging behind or has met with challenges in enforcing the laws set in place [@prinslooDataPrivacyAfrican2022].  -->
+Low digital literacy in combination with high connectivity can be dangerous. Multiple studies have seen a combination of reasons why some people are more prone to be a victim of fraud, one of which is low digital literacy [@liDoesDigitalLiteracy2024].  -->
+<!-- 
+With new developments in artificial intelligence (AI) and more specifically generative AI (genAI) this becomes more prevalent as data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism]. -->
+<!-- 
 
-## Bibliography
+GenAI literacy research has focused on the increased digital divide [@hendawy2024intensified], learning how to succesfully create prompts [@kee2024generative], how students or teachers can use GenAI in learning [@meli2024empowering; @adarkwah2025genai] and lower barriers to learning [@roeGenAIDigitalPlastic2025]. The importance of increasing digital literacy in this respect is recognized [@shoaibDeepfakesMisinformationDisinformation2023], and proposes mixed models, like human-machine collaboration for detecting deep-fakes [@guptaEyesKnowIt2020]. -->
+
+The beneficiaries and the creators of these appropriated data are divided along racial and often pre-existing colonial lines.
+
+In recent years this phenomenon has been described as 'data colonialism', as an exploitative transgression for profit. [@couldryDataColonialismRethinking2019], digital colonialism [@kwetDigitalColonialismUS2019] or 'data extractivism' [@brevini2024critiques, pp 126], or in the case of African nations even a '21st century scramble for africa' [@coleman2018digital]. Jimenez further poses that a focus on justice instead of coloniality would require 'us to go further and actively attempt to eliminate the injustices we observed' [@brevini2024critiques, pp 133].
+
+Recent news from Amazon, Microsoft and Google, the three largest companiesthat provide infrastructure for software around the world, mentions that they are investing in data centers in Uruguay [@googleNewDataCenter2024], Thailand and Malaysia [@onagGoogleUnveils$3B; @browneGoogleInvest$12024; @chiangMicrosoftOpenNew2024], Busan in South Korea [@microsoftCelebratingCompletionNew2024], Brazil [@microsoftMicrosoftDatacentersBrazil] and Chile [@amazonWorksAWSSouth2025; @camberoAmazonSpend$42025].
+
+As @kwetDigitalColonialismUS2019 asks himself in the case of South Africa: 'are cloud centres built by Amazon, Microsoft, and Google good for the country'? Software and the push for GenAI comes with its own agenda and is not free from political or commercial agenda's [@kwetDigitalColonialismUS2019]. Experiments as part of 'AI for good'
+
+What then do we define as progress? Is it the mere evolution of technological tools? Or the more petabytes we can store? Or is it actually making a difference in peoples lives in a profound, meaningful and positive way? And does importing more corporate "Big Tech" technology increase the way of life? Or does it further enrich Global North pockets?
+
+
+<!-- Powerful technicists use a positivist lense to participate in bringing tools of "progress". not a direct quote .. but positivism [@hammersley2019positivism].
+
+Can we break out of the system from within? Can impoverished people rise above their poverty with the tools, or are they stuck within the same system -->
+
+
+<!-- Privacy literacy literature focuses on the understanding of the consequences of participating in platforms which raison d'etre is to collect data, but fails to address the sense of apathy concerning privacy that is accompanied with the signing up for a new platform.
+
+The terms of service for ChatGPT allow for OpenAI (the company behind the popular chat based LLM) to make use of content provided by users to improve services, and even to train models [@openaiPrivacyPolicy]. The same holds true for Anthropic (Claude) [@anthropicHowYouUse], Google (Gemini) [@googlePrivacyPolicyPrivacy] and X (Grok) [@xTermsServiceConsumer]. -->
+
+
+## Research Questions
+
+What happens when we do not own our own data?
+
+
+### Sub questions
+
+- _What data are we talking about?_
+  - In much of social literature all data is piled in one heap making it difficult to distinguish which of these data extractions is 'legitimate' or at least 'permissable'
+  - Perhaps making use of categories [@szomszorDataCategorizationUnderstanding]
+- _Who stands to gain?_
+- _What kind of models exist to become mo
+
+
+
+## Bonus questions
+
+> Who owns the data?
+
+> What influence can AI for _Social Good_ actually have? What is 
+
+> What is the relation of power and the created social standards
+> In what way is power big tech has exterted in and misused in policies concerning data in lower income countries?
+> - Lead with examples of policies in powerful [@khanalWhyHowPower2025]
+
+> In what ways does GenAI express itself as a neocolonialist hegemonical agent?
+> - How do localized LLM's differ in bias towards policies from commercial models widely available
+
+> How is blind faith in techonological advancement towards "Singularity" influencing optimism towards creating an Artificial General Intelligence?
+> - forces of marketing and opportunities of use
+> - overpromises [@krokowskiOncePromisedForever2025]
+> - 
+
+> What local solutions can we offer for people groups who have a larger gap towards digital accessibility
+
+> - How do people use genAI cross-cultural study?
+> - What patterns exist in the solution realm?
+> - What intrinsic motvation
+
+## References

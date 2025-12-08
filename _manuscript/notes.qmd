@@ -28,7 +28,9 @@ bibliography: references.bib
 - Machine learning's biases are implicit but not without consequence
   - example DRC refugees: @madianou2024technocolonialism p.140. When the decision is made by the machine without any clear explanation about the criteria used, then it is harder to challenge [.. exclusion].
   - Example Australia robodebt.
+- 
 
+- In this regard, an overlooked area of study is how Big Tech are fundamentally changing their relationship with the government. While studies have highlighted how governments increasingly rely on digital platforms and integrate AI into their day-to-day operations, existing studies downplay the comprehensiveness of Big Tech’s influence in the policy process. [@khanalWhyHowPower2025]
 
 
 ## gesprek Eelco
