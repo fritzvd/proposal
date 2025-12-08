@@ -27,7 +27,7 @@ The beneficiaries and the creators of these appropriated data are divided along 
 
 In recent years this phenomenon has been described as 'data colonialism', as an exploitative transgression for profit. [@couldryDataColonialismRethinking2019], digital colonialism [@kwetDigitalColonialismUS2019] or 'data extractivism' [@brevini2024critiques, pp 126], or in the case of African nations even a '21st century scramble for africa' [@coleman2018digital]. Jimenez further poses that a focus on justice instead of coloniality would require 'us to go further and actively attempt to eliminate the injustices we observed' [@brevini2024critiques, pp 133].
 
-Recent news from Amazon, Microsoft and Google, the three largest companiesthat provide infrastructure for software around the world, mentions that they are investing in data centers in Uruguay [@googleNewDataCenter2024], Thailand and Malaysia [@onagGoogleUnveils$3B; @browneGoogleInvest$12024; @chiangMicrosoftOpenNew2024], Busan in South Korea [@microsoftCelebratingCompletionNew2024], Brazil [@microsoftMicrosoftDatacentersBrazil] and Chile [@amazonWorksAWSSouth2025; @camberoAmazonSpend$42025].
+Recent news from Amazon, Microsoft and Google, the three largest companiesthat provide infrastructure for software around the world, mentions that they are investing in data centers in Uruguay [@googleNewDataCenter2024], Thailand and Malaysia [@onagGoogleUnveils$3B; @browneGoogleInvest$12024; @chiangMicrosoftOpenNew2024], Busan in South Korea [@microsoftCelebratingCompletionNew2024], Brazil [@microsoftMicrosoftDatacentersBrazil] and Chile [@amazonWorksAWSSouth2025; @camberoAmazonSpend$42025]. Who stands to benefit from these transactions?
 
 As @kwetDigitalColonialismUS2019 asks himself in the case of South Africa: 'are cloud centres built by Amazon, Microsoft, and Google good for the country'? Software and the push for GenAI comes with its own agenda and is not free from political or commercial agenda's [@kwetDigitalColonialismUS2019]. Experiments as part of 'AI for good'
 
@@ -55,7 +55,7 @@ What happens when we do not own our own data?
   - In much of social literature all data is piled in one heap making it difficult to distinguish which of these data extractions is 'legitimate' or at least 'permissable'
   - Perhaps making use of categories [@szomszorDataCategorizationUnderstanding]
 - _Who stands to gain?_
-- _What kind of models exist to become mo
+
 
 
 
