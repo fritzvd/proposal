@@ -1,0 +1,583 @@
+% Options for packages loaded elsewhere
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+
+
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+
+
+ 
+
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Privacy in an age of magical machines: A cross-cultural discovery of patterns of privacy in GenAI},
+  pdfkeywords={data-capitalism, neocolonialism, genAI},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{Privacy in an age of magical machines: A cross-cultural discovery
+of patterns of privacy in GenAI}
+\author{Frederik J van Deventer}
+\date{}
+\begin{document}
+\maketitle
+
+
+\subsection{Introduction}\label{introduction}
+
+Andreessen (2011) said: ``Software is eating the world'', but today it
+might be more appropriate to say \emph{Data} is eating the world. There
+is no longer a distinction to what can and cannot be captured in data
+from nature (Walford 2018) to bodies (Van der Ploeg 2012). This
+`datafication' (Cukier and Mayer-Schönberger 2014), tries to capture all
+things into data, with data being a tradeable commodity (De Franceschi
+and Lehmann 2015). Our daily lives are deeply connected with digital
+technology that collects the what and when on our interactions as
+capital (West 2019). The tools and distractions social media provides
+turns us into consumer-workers (Puaschunder 2018) collecting data for
+these companies whilst we enter into license agreements without being
+able to control the data we produce (Thatcher, O'Sullivan, and Mahmoudi
+2016) and approaching user agreements with a sense of apathy (Gómez
+Ortega, Morales Ornelas, and Genç 2025).
+
+Recent developments have seen generative Artificial Intelligence (genAI)
+being available for the masses with Large Language Models (LLM's) having
+a much easier interface for non-technical users. Often signified with
+the moniker: AI or with magical stars (✨) it features in many
+applications ranging from web search to (Google n.d.a; DuckDuckGo n.d.;
+Microsoft n.d.a) personal communication such as Outlook ({``Chat with
+{Copilot} in {Outlook} - {Microsoft Support}''} n.d.) or Whatsapp (Meta
+n.d.). genAI is quickly becoming embedded in all sorts of business and
+applications (Grantham-Philips 2024). Even more than in applications
+beforehand users are encouraged to upload documents and provide more
+context for the LLM to perform better.
+
+GenAI has been lauded as tool that can help with productivity, can help
+out in creative industries such as writing, music, film. But there is a
+real darkside to it too. Besides the darkpatterns that are emerging and
+the plausible, but false pictures and text it can produce, there are
+many concerns about the energy abuse and infrastructure that is needed
+for it to function. The impact it is having on learning and social
+relations (Hou et al. 2025). Then there is the issue of bias by training
+and the amplification of this bias (Lloyd 2018). Jailbreak prompts are a
+way to subvert the main goals and to misuse LLM's (Perez and Ribeiro
+2022). Which could lead to the extraction of personally identifiable
+information (Li et al. 2023). In older models (GPT-2) training data
+could be even be extracted after an attack (Carlini et al. 2021).
+
+Concerning the use of personal data, this in itself should be alarming.
+On top of that the terms of service for ChatGPT allow for OpenAI (the
+company behind the popular chat based LLM) to make use of content
+provided by users to improve services, and even to train models (OpenAi
+n.d.). The same holds true for Anthropic (Claude) (Anthropic n.d.),
+Google (Gemini) (Google n.d.b) and X (Grok) (X n.d.), even in areas with
+stricter legal restrictions such as the European GDPR.
+
+Finally there seems to be an inherent faith and push for Big Tech
+companies to ``spread the good news'', to use religious language.
+
+Recent news from Amazon, Microsoft and Google, the three largest
+companies that provide infrastructure for software around the world,
+mentions that they are investing in data centers in Uruguay (Google
+2024), Thailand and Malaysia (Onag n.d.; Browne 2024; Chiang 2024),
+Busan in South Korea (Microsoft 2024), Brazil (Microsoft, n.d.b) and
+Chile (Amazon 2025; Cambero 2025). Who stands to benefit from these
+transactions?
+
+The extracting of data and the use of AI have become a powerful tool,
+but at the same time data and AI ``entrench power assymetries and
+engender new forms of structural violence and new inequities between the
+Global South and North'' (Madianou 2024).
+
+In recent years this phenomenon of data extraction has been described as
+`data colonialism', as an exploitative transgression for profit.
+(Couldry and Mejias 2019), digital colonialism (Kwet 2019) or `data
+extractivism' (Brevini et al. 2024, pp 126), or in the case of African
+nations even a `21st century scramble for africa' (Coleman 2018).
+
+For this research however I would like to focus on data justice as
+Jimenez further poses that a focus on justice instead of coloniality
+would require `us to go further and actively attempt to eliminate the
+injustices we observed' (Brevini et al. 2024, pp 133). Instead of only
+looking at what that coloniality looks like and trying to prove this as
+`colonial'.
+
+As Kwet (2019) asks himself in the case of South Africa: `are cloud
+centres built by Amazon, Microsoft, and Google good for the country'?
+Software and the push for GenAI comes with its own agenda and is not
+free from political or commercial agenda's (Kwet 2019). Abandoned
+experiments as part of `AI for good' have been compared to leaving a
+Lamborghini in the desert.
+
+What then do we define as progress? Is it the mere evolution of
+technological tools? Or the more petabytes we can store? Or is it
+actually making a difference in peoples lives in a profound, meaningful
+and positive way? And does importing more corporate ``Big Tech''
+technology increase the way of life? Or does it further enrich Global
+North pockets?
+
+\subsection{Research Questions}\label{research-questions}
+
+What actual gains can we see in productivity when we look at the use
+genAI tools in the Global South and do they measure up to the costs made
+towards that gain?
+
+\subsubsection{Sub questions}\label{sub-questions}
+
+\begin{itemize}
+\tightlist
+\item
+  What are the costs of using genAI?
+\item
+  What uses are there?
+\item
+  How do costs differ over different types of use?
+\item
+  \emph{Who stands to gain?}
+\end{itemize}
+
+\subsection{Bonus questions}\label{bonus-questions}
+
+\begin{quote}
+Who owns the data?
+\end{quote}
+
+\begin{quote}
+What influence can AI for \emph{Social Good} actually have? What is
+\end{quote}
+
+\begin{quote}
+What is the relation of power and the created social standards In what
+way is power big tech has exterted in and misused in policies concerning
+data in lower income countries? - Lead with examples of policies in
+powerful (Khanal, Zhang, and Taeihagh 2025)
+\end{quote}
+
+\begin{quote}
+In what ways does GenAI express itself as a neocolonialist hegemonical
+agent? - How do localized LLM's differ in bias towards policies from
+commercial models widely available
+\end{quote}
+
+\begin{quote}
+How is blind faith in techonological advancement towards ``Singularity''
+influencing optimism towards creating an Artificial General
+Intelligence? - forces of marketing and opportunities of use -
+overpromises (Krokowski and Hirsch-Kreinsen 2025) -
+\end{quote}
+
+\begin{quote}
+What local solutions can we offer for people groups who have a larger
+gap towards digital accessibility
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\tightlist
+\item
+  How do people use genAI cross-cultural study?
+\item
+  What patterns exist in the solution realm?
+\item
+  What intrinsic motvation
+\end{itemize}
+\end{quote}
+
+\subsection*{References}\label{references}
+\addcontentsline{toc}{subsection}{References}
+
+\phantomsection\label{refs}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-amazonWorksAWSSouth2025}
+Amazon. 2025. {``In the Works -- {AWS South America} ({Chile}) {Region}
+\textbar{} {AWS News Blog}.''}
+https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/.
+
+\bibitem[\citeproctext]{ref-andreessenWhySoftwareEating2011}
+Andreessen, Marc. 2011. {``Why {Software Is Eating} the {World}.''}
+\emph{Andreessen Horowitz}.
+
+\bibitem[\citeproctext]{ref-anthropicHowYouUse}
+Anthropic. n.d. {``How {Do You Use Personal Data} in {Model Training}?
+\textbar{} {Anthropic Privacy Center}.''}
+https://privacy.claude.com/en/articles/10023555-how-do-you-use-personal-data-in-model-training.
+Accessed November 17, 2025.
+
+\bibitem[\citeproctext]{ref-brevini2024critiques}
+Brevini, Benedetta, Irene Fubara-Manuel, Clément Le Ludec, Jakob Linaa
+Jensen, Andrea Jimenez, and Jo Bates. 2024. {``Critiques of Data
+Colonialism.''} In \emph{Dialogues in Data Power}, 120--37. Bristol
+University Press.
+
+\bibitem[\citeproctext]{ref-browneGoogleInvestux2412024}
+Browne, Ryan. 2024. {``Google to Invest \$1 Billion in {Thailand} to
+Build Data Center and Accelerate {AI} Growth.''} \emph{CNBC}.
+https://www.cnbc.com/2024/09/30/google-to-invest-1-billion-in-thailand-data-center-and-ai-push.html.
+
+\bibitem[\citeproctext]{ref-camberoAmazonSpendux2442025}
+Cambero, Fabian. 2025. {``Amazon to Spend \$4 Billion on Cloud
+Infrastructure in {Chile}.''} \emph{Reuters}, May.
+
+\bibitem[\citeproctext]{ref-carliniExtractingTrainingData2021}
+Carlini, Nicholas, Florian Tramer, Eric Wallace, Matthew Jagielski,
+Ariel Herbert-Voss, Katherine Lee, Adam Roberts, et al. 2021.
+{``Extracting {Training Data} from {Large Language Models}.''} arXiv.
+\url{https://doi.org/10.48550/arXiv.2012.07805}.
+
+\bibitem[\citeproctext]{ref-ChatCopilotOutlook}
+{``Chat with {Copilot} in {Outlook} - {Microsoft Support}.''} n.d.
+https://support.microsoft.com/en-us/topic/chat-with-copilot-in-outlook-8090e7b3-5b1d-4c6d-9b06-02edac062f58.
+Accessed November 6, 2025.
+
+\bibitem[\citeproctext]{ref-chiangMicrosoftOpenNew2024}
+Chiang, Sheila. 2024. {``Microsoft to Open New Data Center in {Thailand}
+as It Doubles down on {AI} and {Southeast Asia}.''} \emph{CNBC}.
+https://www.cnbc.com/2024/05/02/microsoft-to-open-data-center-in-thailand-amid-southeast-asia-expansion.html.
+
+\bibitem[\citeproctext]{ref-coleman2018digital}
+Coleman, Danielle. 2018. {``Digital Colonialism: {The} 21st Century
+Scramble for {Africa} Through the Extraction and Control of User Data
+and the Limitations of Data Protection Laws.''} \emph{Mich. J. Race \&
+L.} 24: 417.
+
+\bibitem[\citeproctext]{ref-couldryDataColonialismRethinking2019}
+Couldry, Nick, and Ulises A. Mejias. 2019. {``Data {Colonialism}:
+{Rethinking Big Data}'s {Relation} to the {Contemporary Subject}.''}
+\emph{Television \& New Media} 20 (4): 336--49.
+\url{https://doi.org/10.1177/1527476418796632}.
+
+\bibitem[\citeproctext]{ref-cukierRiseBigData2014}
+Cukier, Kenneth, and Viktor Mayer-Schönberger. 2014. {``The {Rise} of
+{Big Data}: {How It}'s {Changing} the {Way We Think} about the
+{World}.''} In \emph{The {Best Writing} on {Mathematics} 2014}, edited
+by Mircea Pitici, 20--32. Princeton University Press.
+\url{https://doi.org/10.1515/9781400865307-003}.
+
+\bibitem[\citeproctext]{ref-defranceschiDataTradeableCommodity2015}
+De Franceschi, Alberto, and Michael Lehmann. 2015. {``Data as {Tradeable
+Commodity} and {New Measures} for {Their Protection Essays}.''}
+\emph{Italian Law Journal} 1 (1): 51--72.
+
+\bibitem[\citeproctext]{ref-duckduckgoDuckaiDuckDuckGoHelp}
+DuckDuckGo. n.d. {``Duck.ai - {DuckDuckGo Help Pages}.''}
+https://duckduckgo.com/duckduckgo-help-pages/duckai. Accessed November
+6, 2025.
+
+\bibitem[\citeproctext]{ref-gomezortegaSurrenderingPowerlesnessGoverning2025}
+Gómez Ortega, Alejandra, Hosana Morales Ornelas, and Uğur Genç. 2025.
+{``Surrendering to {Powerlesness}: {Governing Personal Data Flows} in
+{Generative AI}.''} In \emph{Proceedings of the 2025 {CHI Conference} on
+{Human Factors} in {Computing Systems}}, 1--18. Yokohama Japan: ACM.
+\url{https://doi.org/10.1145/3706598.3713504}.
+
+\bibitem[\citeproctext]{ref-googleNewDataCenter2024}
+Google. 2024. {``A New Data Center in {Latin America}.''} \emph{Google}.
+https://blog.google/around-the-globe/google-latin-america/a-new-data-center-in-latin-america/.
+
+\bibitem[\citeproctext]{ref-googleGoogleAIMode}
+Google. n.d.a. {``Google {AI Mode} - a New Way to Search, Whatever's on
+Your Mind.''} \emph{Google AI Mode - a New Way to Search, Whatever's on
+Your Mind}. https://search.google/ways-to-search/ai-mode/. Accessed
+November 6, 2025.
+
+\bibitem[\citeproctext]{ref-googlePrivacyPolicyPrivacy}
+Google. n.d.b. {``Privacy {Policy} -- {Privacy} \& {Terms} --
+{Google}.''} https://policies.google.com/privacy. Accessed November 17,
+2025.
+
+\bibitem[\citeproctext]{ref-grantham-philipsAIBecomingIngrained2024}
+Grantham-Philips, Wyatte. 2024. {``{AI} Is Becoming Ingrained in
+Businesses Across Industries. {Where} Is It Going in 2025?''} \emph{AP
+News}.
+https://apnews.com/article/artificial-intelligence-interview-pwc-dan-priest-a0458061469735aed7af5fa49682e076.
+
+\bibitem[\citeproctext]{ref-houAllRoadsLead2025}
+Hou, Irene, Owen Man, Kate Hamilton, Srishty Muthusekaran, Jeffin
+Johnykutty, Leili Zadeh, and Stephen MacNeil. 2025. {``'{All Roads Lead}
+to {ChatGPT}': {How Generative AI} Is {Eroding Social Interactions} and
+{Student Learning Communities}.''} In \emph{Proceedings of the 30th {ACM
+Conference} on {Innovation} and {Technology} in {Computer Science
+Education V}. 1}, 79--85. Nijmegen Netherlands: ACM.
+\url{https://doi.org/10.1145/3724363.3729024}.
+
+\bibitem[\citeproctext]{ref-khanalWhyHowPower2025}
+Khanal, Shaleen, Hongzhou Zhang, and Araz Taeihagh. 2025. {``Why and How
+Is the Power of {Big Tech} Increasing in the Policy Process? {The} Case
+of Generative {AI}.''} \emph{Policy and Society} 44 (1): 52--69.
+\url{https://doi.org/10.1093/polsoc/puae012}.
+
+\bibitem[\citeproctext]{ref-krokowskiOncePromisedForever2025}
+Krokowski, Thorben, and Hartmut Hirsch-Kreinsen. 2025. {``Once Promised,
+Forever Believed? {An} Essay on the Blind Spots of {AI} Promises.''}
+\emph{AI \& SOCIETY}, November.
+\url{https://doi.org/10.1007/s00146-025-02765-1}.
+
+\bibitem[\citeproctext]{ref-kwetDigitalColonialismUS2019}
+Kwet, Michael. 2019. {``Digital Colonialism: {US} Empire and the New
+Imperialism in the {Global South}.''} \emph{Race \& Class} 60 (4):
+3--26. \url{https://doi.org/10.1177/0306396818823172}.
+
+\bibitem[\citeproctext]{ref-liMultistepJailbreakingPrivacy2023}
+Li, Haoran, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, and
+Yangqiu Song. 2023. {``Multi-Step {Jailbreaking Privacy Attacks} on
+{ChatGPT}.''} arXiv. \url{https://doi.org/10.48550/arXiv.2304.05197}.
+
+\bibitem[\citeproctext]{ref-lloydBiasAmplificationArtificial2018}
+Lloyd, Kirsten. 2018. {``Bias {Amplification} in {Artificial
+Intelligence Systems}.''} arXiv.
+\url{https://doi.org/10.48550/ARXIV.1809.07842}.
+
+\bibitem[\citeproctext]{ref-madianou2024technocolonialism}
+Madianou, Mirca. 2024. \emph{Technocolonialism: {When} Technology for
+Good Is Harmful}. John Wiley \& Sons.
+
+\bibitem[\citeproctext]{ref-metaMetaAIWhatsApp}
+Meta. n.d. {``Meta {AI} in {WhatsApp}: {Chat}, {Create} \& {Get Things
+Done}.''} \emph{WhatsApp.com}. https://www.whatsapp.com/meta-ai.
+Accessed November 6, 2025.
+
+\bibitem[\citeproctext]{ref-microsoftCelebratingCompletionNew2024}
+Microsoft. 2024. {``Celebrating Completion of a New Datacenter in
+{Busan}.''} \emph{Microsoft Local}.
+
+\bibitem[\citeproctext]{ref-microsoftIntroducingNewBing}
+Microsoft. n.d.a. {``Introducing the New {Bing}. {The AI-powered}
+Assistant for Your Search.''}
+https://www.microsoft.com/en-us/edge/features/the-new-bing. Accessed
+November 6, 2025.
+
+\bibitem[\citeproctext]{ref-microsoftMicrosoftDatacentersBrazil}
+Microsoft. n.d.b. {``Microsoft Datacenters in {Brazil}.''}
+
+\bibitem[\citeproctext]{ref-onagGoogleUnveilsux243B}
+Onag, Gigi. n.d. {``Google Unveils \${3B} Cloud and Data Center
+Investment in {Thailand} and {Malaysia}.''} \emph{Light Reading}.
+https://www.lightreading.com/data-centers/google-unveils-3b-cloud-and-data-center-investment-in-thailand-and-malaysia.
+Accessed December 8, 2025.
+
+\bibitem[\citeproctext]{ref-openaiPrivacyPolicy}
+OpenAi. n.d. {``Privacy Policy.''}
+https://openai.com/policies/row-privacy-policy/. Accessed November 17,
+2025.
+
+\bibitem[\citeproctext]{ref-perezIgnorePreviousPrompt2022}
+Perez, Fábio, and Ian Ribeiro. 2022. {``Ignore {Previous Prompt}:
+{Attack Techniques For Language Models}.''} arXiv.
+\url{https://doi.org/10.48550/arXiv.2211.09527}.
+
+\bibitem[\citeproctext]{ref-puaschunder2018dignity}
+Puaschunder, Julia M. 2018. {``Dignity and Utility of Privacy and
+Information Sharing in the Digital Big Data Age.''} \emph{International
+Journal of Commerce and Management Research} 5 (4): 62--70.
+
+\bibitem[\citeproctext]{ref-thatcher2016data}
+Thatcher, Jim, David O'Sullivan, and Dillon Mahmoudi. 2016. {``Data
+Colonialism Through Accumulation by Dispossession: {New} Metaphors for
+Daily Data.''} \emph{Environment and Planning D: Society and Space} 34
+(6): 990--1006.
+
+\bibitem[\citeproctext]{ref-van2012body}
+Van der Ploeg, Irma. 2012. {``The Body as Data in the Age of
+Information.''} In \emph{Routledge Handbook of Surveillance Studies},
+176--83. Routledge.
+
+\bibitem[\citeproctext]{ref-walford2018if}
+Walford, Antonia. 2018. {``{`{If} Everything Is Information'}: Archives
+and Collecting on the Frontiers of Data-Driven Science.''} In
+\emph{Ethnography for a Data-Saturated World}, 105--27. Manchester
+University Press.
+
+\bibitem[\citeproctext]{ref-west2019data}
+West, Sarah Myers. 2019. {``Data Capitalism: {Redefining} the Logics of
+Surveillance and Privacy.''} \emph{Business \& Society} 58 (1): 20--41.
+
+\bibitem[\citeproctext]{ref-xTermsServiceConsumer}
+X. n.d. {``Terms of {Service} - {Consumer} \textbar{} {xAI}.''}
+https://x.ai/legal/terms-of-service. Accessed November 17, 2025.
+
+\end{CSLReferences}
+
+
+
+
+\end{document}

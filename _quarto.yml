@@ -14,7 +14,12 @@ format:
   jats: default
 
   # (other formats)
-  # pdf: default
+  pdf: default
+
+
+
+exclude:
+  - "messy_notes/"
 
 execute:
   freeze: true
