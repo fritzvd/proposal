@@ -29,11 +29,8 @@ discovery of patterns of privacy in GenAI</article-title>
         <corresp id="cor-1"/>
       </author-notes>
       <history/>
-      <abstract>
-wonderful, monderful
-</abstract>
       <kwd-group kwd-group-type="author">
-        <kwd>data-capitalism, neocolonialism,</kwd>
+        <kwd>data-capitalism, neocolonialism, genAI</kwd>
       </kwd-group>
     </article-meta>
   </front>
@@ -67,26 +64,66 @@ wonderful, monderful
   O’Sullivan, and Mahmoudi 2016</xref>) and approaching user agreements
   with a sense of apathy
   (<xref alt="Gómez Ortega, Morales Ornelas, and Genç 2025" rid="ref-gomezortegaSurrenderingPowerlesnessGoverning2025" ref-type="bibr">Gómez
-  Ortega, Morales Ornelas, and Genç 2025</xref>). </p>
-      <p>The beneficiaries and the creators of these appropriated data are
-  divided along racial and often pre-existing colonial lines.</p>
-      <p>In recent years this phenomenon has been described as ‘data
-  colonialism’, as an exploitative transgression for profit.
-  (<xref alt="Couldry and Mejias 2019" rid="ref-couldryDataColonialismRethinking2019" ref-type="bibr">Couldry
-  and Mejias 2019</xref>), digital colonialism
-  (<xref alt="Kwet 2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">Kwet
-  2019</xref>) or ‘data extractivism’
-  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
-  et al. 2024</xref>, pp 126), or in the case of African nations even a
-  ‘21st century scramble for africa’
-  (<xref alt="Coleman 2018" rid="ref-coleman2018digital" ref-type="bibr">Coleman
-  2018</xref>). Jimenez further poses that a focus on justice instead of
-  coloniality would require ‘us to go further and actively attempt to
-  eliminate the injustices we observed’
-  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
-  et al. 2024</xref>, pp 133).</p>
+  Ortega, Morales Ornelas, and Genç 2025</xref>).</p>
+      <p>Recent developments have seen generative Artificial Intelligence
+  (genAI) being available for the masses with Large Language Models
+  (LLM’s) having a much easier interface for non-technical users. Often
+  signified with the moniker: AI or with magical stars (✨) it features
+  in many applications ranging from web search to
+  (<xref alt="Google n.d.a" rid="ref-googleGoogleAIMode" ref-type="bibr">Google
+  n.d.a</xref>;
+  <xref alt="DuckDuckGo n.d." rid="ref-duckduckgoDuckaiDuckDuckGoHelp" ref-type="bibr">DuckDuckGo
+  n.d.</xref>;
+  <xref alt="Microsoft n.d.a" rid="ref-microsoftIntroducingNewBing" ref-type="bibr">Microsoft
+  n.d.a</xref>) personal communication such as Outlook
+  (<xref alt="“Chat with Copilot in Outlook - Microsoft Support” n.d." rid="ref-ChatCopilotOutlook" ref-type="bibr">“Chat
+  with Copilot in Outlook - Microsoft Support” n.d.</xref>) or Whatsapp
+  (<xref alt="Meta n.d." rid="ref-metaMetaAIWhatsApp" ref-type="bibr">Meta
+  n.d.</xref>). genAI is quickly becoming embedded in all sorts of
+  business and applications
+  (<xref alt="Grantham-Philips 2024" rid="ref-grantham-philipsAIBecomingIngrained2024" ref-type="bibr">Grantham-Philips
+  2024</xref>). Even more than in applications beforehand users are
+  encouraged to upload documents and provide more context for the LLM to
+  perform better.</p>
+      <p>GenAI has been lauded as tool that can help with productivity, can
+  help out in creative industries such as writing, music, film. But
+  there is a real darkside to it too. Besides the darkpatterns that are
+  emerging and the plausible, but false pictures and text it can
+  produce, there are many concerns about the energy abuse and
+  infrastructure that is needed for it to function. The impact it is
+  having on learning and social relations
+  (<xref alt="Hou et al. 2025" rid="ref-houAllRoadsLead2025" ref-type="bibr">Hou
+  et al. 2025</xref>). Then there is the issue of bias by training and
+  the amplification of this bias
+  (<xref alt="Lloyd 2018" rid="ref-lloydBiasAmplificationArtificial2018" ref-type="bibr">Lloyd
+  2018</xref>). Jailbreak prompts are a way to subvert the main goals
+  and to misuse LLM’s
+  (<xref alt="Perez and Ribeiro 2022" rid="ref-perezIgnorePreviousPrompt2022" ref-type="bibr">Perez
+  and Ribeiro 2022</xref>). Which could lead to the extraction of
+  personally identifiable information
+  (<xref alt="Li et al. 2023" rid="ref-liMultistepJailbreakingPrivacy2023" ref-type="bibr">Li
+  et al. 2023</xref>). In older models (GPT-2) training data could be
+  even be extracted after an attack
+  (<xref alt="Carlini et al. 2021" rid="ref-carliniExtractingTrainingData2021" ref-type="bibr">Carlini
+  et al. 2021</xref>).</p>
+      <p>Concerning the use of personal data, this in itself should be
+  alarming. On top of that the terms of service for ChatGPT allow for
+  OpenAI (the company behind the popular chat based LLM) to make use of
+  content provided by users to improve services, and even to train
+  models
+  (<xref alt="OpenAi n.d." rid="ref-openaiPrivacyPolicy" ref-type="bibr">OpenAi
+  n.d.</xref>). The same holds true for Anthropic (Claude)
+  (<xref alt="Anthropic n.d." rid="ref-anthropicHowYouUse" ref-type="bibr">Anthropic
+  n.d.</xref>), Google (Gemini)
+  (<xref alt="Google n.d.b" rid="ref-googlePrivacyPolicyPrivacy" ref-type="bibr">Google
+  n.d.b</xref>) and X (Grok)
+  (<xref alt="X n.d." rid="ref-xTermsServiceConsumer" ref-type="bibr">X
+  n.d.</xref>), even in areas with stricter legal restrictions such as
+  the European GDPR.</p>
+      <p>Finally there seems to be an inherent faith and push for Big Tech
+  companies to “spread the good news”, to use religious language.</p>
       <p>Recent news from Amazon, Microsoft and Google, the three largest
-  companiesthat provide infrastructure for software around the world,
+  companies that provide infrastructure for software around the world,
   mentions that they are investing in data centers in Uruguay
   (<xref alt="Google 2024" rid="ref-googleNewDataCenter2024" ref-type="bibr">Google
   2024</xref>), Thailand and Malaysia
@@ -98,12 +135,37 @@ wonderful, monderful
   2024</xref>), Busan in South Korea
   (<xref alt="Microsoft 2024" rid="ref-microsoftCelebratingCompletionNew2024" ref-type="bibr">Microsoft
   2024</xref>), Brazil
-  (<xref alt="Microsoft, n.d." rid="ref-microsoftMicrosoftDatacentersBrazil" ref-type="bibr">Microsoft,
-  n.d.</xref>) and Chile
+  (<xref alt="Microsoft, n.d.b" rid="ref-microsoftMicrosoftDatacentersBrazil" ref-type="bibr">Microsoft,
+  n.d.b</xref>) and Chile
   (<xref alt="Amazon 2025" rid="ref-amazonWorksAWSSouth2025" ref-type="bibr">Amazon
   2025</xref>;
   <xref alt="Cambero 2025" rid="ref-camberoAmazonSpendU002442025" ref-type="bibr">Cambero
-  2025</xref>).</p>
+  2025</xref>). Who stands to benefit from these transactions?</p>
+      <p>The extracting of data and the use of AI have become a powerful
+  tool, but at the same time data and AI “entrench power assymetries and
+  engender new forms of structural violence and new inequities between
+  the Global South and North”
+  (<xref alt="Madianou 2024" rid="ref-madianou2024technocolonialism" ref-type="bibr">Madianou
+  2024</xref>).</p>
+      <p>In recent years this phenomenon of data extraction has been
+  described as ‘data colonialism’, as an exploitative transgression for
+  profit.
+  (<xref alt="Couldry and Mejias 2019" rid="ref-couldryDataColonialismRethinking2019" ref-type="bibr">Couldry
+  and Mejias 2019</xref>), digital colonialism
+  (<xref alt="Kwet 2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">Kwet
+  2019</xref>) or ‘data extractivism’
+  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
+  et al. 2024</xref>, pp 126), or in the case of African nations even a
+  ‘21st century scramble for africa’
+  (<xref alt="Coleman 2018" rid="ref-coleman2018digital" ref-type="bibr">Coleman
+  2018</xref>).</p>
+      <p>For this research however I would like to focus on data justice as
+  Jimenez further poses that a focus on justice instead of coloniality
+  would require ‘us to go further and actively attempt to eliminate the
+  injustices we observed’
+  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
+  et al. 2024</xref>, pp 133). Instead of only looking at what that
+  coloniality looks like and trying to prove this as ‘colonial’.</p>
       <p>As Kwet
   (<xref alt="2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">2019</xref>)
   asks himself in the case of South Africa: ‘are cloud centres built by
@@ -111,7 +173,8 @@ wonderful, monderful
   push for GenAI comes with its own agenda and is not free from
   political or commercial agenda’s
   (<xref alt="Kwet 2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">Kwet
-  2019</xref>). Experiments as part of ‘AI for good’</p>
+  2019</xref>). Abandoned experiments as part of ‘AI for good’ have been
+  compared to leaving a Lamborghini in the desert.</p>
       <p>What then do we define as progress? Is it the mere evolution of
   technological tools? Or the more petabytes we can store? Or is it
   actually making a difference in peoples lives in a profound,
@@ -121,34 +184,25 @@ wonderful, monderful
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
-      <p>What happens when we do not own our own data?</p>
+      <p>What actual gains can we see in productivity when we look at the
+  use genAI tools in the Global South and do they measure up to the
+  costs made towards that gain?</p>
       <sec id="sub-questions">
         <title>Sub questions</title>
         <list list-type="bullet">
           <list-item>
-            <p>
-              <italic>What data are we talking about?</italic>
-            </p>
-            <list list-type="bullet">
-              <list-item>
-                <p>In much of social literature all data is piled in one
-            heap making it difficult to distinguish which of these data
-            extractions is ‘legitimate’ or at least ‘permissable’</p>
-              </list-item>
-              <list-item>
-                <p>Perhaps making use of categories
-            (<xref alt="Szomszor et al., n.d." rid="ref-szomszorDataCategorizationUnderstanding" ref-type="bibr">Szomszor
-            et al., n.d.</xref>)</p>
-              </list-item>
-            </list>
+            <p>What are the costs of using genAI?</p>
+          </list-item>
+          <list-item>
+            <p>What uses are there?</p>
+          </list-item>
+          <list-item>
+            <p>How do costs differ over different types of use?</p>
           </list-item>
           <list-item>
             <p>
               <italic>Who stands to gain?</italic>
             </p>
-          </list-item>
-          <list-item>
-            <p>_What kind of models exist to become mo</p>
           </list-item>
         </list>
       </sec>
@@ -242,6 +296,22 @@ wonderful, monderful
           </date-in-citation>
         </element-citation>
       </ref>
+      <ref id="ref-anthropicHowYouUse">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Anthropic</surname>
+            </name>
+          </person-group>
+          <article-title>How Do You Use Personal Data in Model Training?  Anthropic Privacy Center</article-title>
+          <publisher-name>https://privacy.claude.com/en/articles/10023555-how-do-you-use-personal-data-in-model-training</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
       <ref id="ref-brevini2024critiques">
         <element-citation publication-type="chapter">
           <person-group person-group-type="author">
@@ -314,6 +384,82 @@ wonderful, monderful
             <year iso-8601-date="2025-12-08">2025</year>
             <month>12</month>
             <day>08</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-carliniExtractingTrainingData2021">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlini</surname>
+              <given-names>Nicholas</given-names>
+            </name>
+            <name>
+              <surname>Tramer</surname>
+              <given-names>Florian</given-names>
+            </name>
+            <name>
+              <surname>Wallace</surname>
+              <given-names>Eric</given-names>
+            </name>
+            <name>
+              <surname>Jagielski</surname>
+              <given-names>Matthew</given-names>
+            </name>
+            <name>
+              <surname>Herbert-Voss</surname>
+              <given-names>Ariel</given-names>
+            </name>
+            <name>
+              <surname>Lee</surname>
+              <given-names>Katherine</given-names>
+            </name>
+            <name>
+              <surname>Roberts</surname>
+              <given-names>Adam</given-names>
+            </name>
+            <name>
+              <surname>Brown</surname>
+              <given-names>Tom</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>Dawn</given-names>
+            </name>
+            <name>
+              <surname>Erlingsson</surname>
+              <given-names>Ulfar</given-names>
+            </name>
+            <name>
+              <surname>Oprea</surname>
+              <given-names>Alina</given-names>
+            </name>
+            <name>
+              <surname>Raffel</surname>
+              <given-names>Colin</given-names>
+            </name>
+          </person-group>
+          <article-title>Extracting Training Data from Large Language Models</article-title>
+          <publisher-name>arXiv</publisher-name>
+          <year iso-8601-date="2021-06">2021</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+          <uri>https://arxiv.org/abs/2012.07805</uri>
+          <pub-id pub-id-type="doi">10.48550/arXiv.2012.07805</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-ChatCopilotOutlook">
+        <element-citation>
+          <article-title>Chat with Copilot in Outlook - Microsoft Support</article-title>
+          <publisher-name>https://support.microsoft.com/en-us/topic/chat-with-copilot-in-outlook-8090e7b3-5b1d-4c6d-9b06-02edac062f58</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
           </date-in-citation>
         </element-citation>
       </ref>
@@ -443,6 +589,20 @@ wonderful, monderful
           <lpage>72</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-duckduckgoDuckaiDuckDuckGoHelp">
+        <element-citation>
+          <person-group person-group-type="author">
+            <string-name>DuckDuckGo</string-name>
+          </person-group>
+          <article-title>Duck.ai - DuckDuckGo Help Pages</article-title>
+          <publisher-name>https://duckduckgo.com/duckduckgo-help-pages/duckai</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
       <ref id="ref-gomezortegaSurrenderingPowerlesnessGoverning2025">
         <element-citation publication-type="paper-conference">
           <person-group person-group-type="author">
@@ -476,6 +636,21 @@ wonderful, monderful
           <lpage>18</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-googleGoogleAIMode">
+        <element-citation>
+          <person-group person-group-type="author">
+            <string-name>Google</string-name>
+          </person-group>
+          <article-title>Google AI Mode - a new way to search, whatever’s on your mind</article-title>
+          <source>Google AI Mode - a new way to search, whatever’s on your mind</source>
+          <publisher-name>https://search.google/ways-to-search/ai-mode/</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
       <ref id="ref-googleNewDataCenter2024">
         <element-citation>
           <person-group person-group-type="author">
@@ -493,6 +668,91 @@ wonderful, monderful
             <month>12</month>
             <day>08</day>
           </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-googlePrivacyPolicyPrivacy">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Google</surname>
+            </name>
+          </person-group>
+          <article-title>Privacy Policy – Privacy &amp; Terms – Google</article-title>
+          <publisher-name>https://policies.google.com/privacy</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-grantham-philipsAIBecomingIngrained2024">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Grantham-Philips</surname>
+              <given-names>Wyatte</given-names>
+            </name>
+          </person-group>
+          <article-title>AI is becoming ingrained in businesses across industries. Where is it going in 2025?</article-title>
+          <source>AP News</source>
+          <publisher-name>https://apnews.com/article/artificial-intelligence-interview-pwc-dan-priest-a0458061469735aed7af5fa49682e076</publisher-name>
+          <year iso-8601-date="2024-12">2024</year>
+          <month>12</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-houAllRoadsLead2025">
+        <element-citation publication-type="paper-conference">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hou</surname>
+              <given-names>Irene</given-names>
+            </name>
+            <name>
+              <surname>Man</surname>
+              <given-names>Owen</given-names>
+            </name>
+            <name>
+              <surname>Hamilton</surname>
+              <given-names>Kate</given-names>
+            </name>
+            <name>
+              <surname>Muthusekaran</surname>
+              <given-names>Srishty</given-names>
+            </name>
+            <name>
+              <surname>Johnykutty</surname>
+              <given-names>Jeffin</given-names>
+            </name>
+            <name>
+              <surname>Zadeh</surname>
+              <given-names>Leili</given-names>
+            </name>
+            <name>
+              <surname>MacNeil</surname>
+              <given-names>Stephen</given-names>
+            </name>
+          </person-group>
+          <article-title>’All Roads Lead to ChatGPT’: How Generative AI is Eroding Social Interactions and Student Learning Communities</article-title>
+          <source>Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 1</source>
+          <publisher-name>ACM</publisher-name>
+          <publisher-loc>Nijmegen Netherlands</publisher-loc>
+          <year iso-8601-date="2025-06">2025</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-12-09">2025</year>
+            <month>12</month>
+            <day>09</day>
+          </date-in-citation>
+          <isbn>979-8-4007-1567-9</isbn>
+          <pub-id pub-id-type="doi">10.1145/3724363.3729024</pub-id>
+          <fpage>79</fpage>
+          <lpage>85</lpage>
         </element-citation>
       </ref>
       <ref id="ref-khanalWhyHowPower2025">
@@ -579,6 +839,98 @@ wonderful, monderful
           <lpage>26</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-liMultistepJailbreakingPrivacy2023">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Li</surname>
+              <given-names>Haoran</given-names>
+            </name>
+            <name>
+              <surname>Guo</surname>
+              <given-names>Dadi</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>Wei</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>Mingshi</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Jie</given-names>
+            </name>
+            <name>
+              <surname>Meng</surname>
+              <given-names>Fanpu</given-names>
+            </name>
+            <name>
+              <surname>Song</surname>
+              <given-names>Yangqiu</given-names>
+            </name>
+          </person-group>
+          <article-title>Multi-step Jailbreaking Privacy Attacks on ChatGPT</article-title>
+          <publisher-name>arXiv</publisher-name>
+          <year iso-8601-date="2023-11">2023</year>
+          <month>11</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+          <uri>https://arxiv.org/abs/2304.05197</uri>
+          <pub-id pub-id-type="doi">10.48550/arXiv.2304.05197</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-lloydBiasAmplificationArtificial2018">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lloyd</surname>
+              <given-names>Kirsten</given-names>
+            </name>
+          </person-group>
+          <article-title>Bias Amplification in Artificial Intelligence Systems</article-title>
+          <publisher-name>arXiv</publisher-name>
+          <year iso-8601-date="2018">2018</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-12-09">2025</year>
+            <month>12</month>
+            <day>09</day>
+          </date-in-citation>
+          <pub-id pub-id-type="doi">10.48550/ARXIV.1809.07842</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-madianou2024technocolonialism">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Madianou</surname>
+              <given-names>Mirca</given-names>
+            </name>
+          </person-group>
+          <source>Technocolonialism: When technology for good is harmful</source>
+          <publisher-name>John Wiley &amp; Sons</publisher-name>
+          <year iso-8601-date="2024">2024</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-metaMetaAIWhatsApp">
+        <element-citation>
+          <person-group person-group-type="author">
+            <string-name>Meta</string-name>
+          </person-group>
+          <article-title>Meta AI in WhatsApp: Chat, Create &amp; Get Things Done</article-title>
+          <source>WhatsApp.com</source>
+          <publisher-name>https://www.whatsapp.com/meta-ai</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
       <ref id="ref-microsoftCelebratingCompletionNew2024">
         <element-citation>
           <person-group person-group-type="author">
@@ -594,6 +946,20 @@ wonderful, monderful
             <year iso-8601-date="2025-12-08">2025</year>
             <month>12</month>
             <day>08</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-microsoftIntroducingNewBing">
+        <element-citation>
+          <person-group person-group-type="author">
+            <string-name>Microsoft</string-name>
+          </person-group>
+          <article-title>Introducing the new Bing. The AI-powered assistant for your search.</article-title>
+          <publisher-name>https://www.microsoft.com/en-us/edge/features/the-new-bing</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-06">2025</year>
+            <month>11</month>
+            <day>06</day>
           </date-in-citation>
         </element-citation>
       </ref>
@@ -625,6 +991,47 @@ wonderful, monderful
           </date-in-citation>
         </element-citation>
       </ref>
+      <ref id="ref-openaiPrivacyPolicy">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>OpenAi</surname>
+            </name>
+          </person-group>
+          <article-title>Privacy policy</article-title>
+          <publisher-name>https://openai.com/policies/row-privacy-policy/</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-perezIgnorePreviousPrompt2022">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perez</surname>
+              <given-names>Fábio</given-names>
+            </name>
+            <name>
+              <surname>Ribeiro</surname>
+              <given-names>Ian</given-names>
+            </name>
+          </person-group>
+          <article-title>Ignore Previous Prompt: Attack Techniques For Language Models</article-title>
+          <publisher-name>arXiv</publisher-name>
+          <year iso-8601-date="2022-11">2022</year>
+          <month>11</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
+          <uri>https://arxiv.org/abs/2211.09527</uri>
+          <pub-id pub-id-type="doi">10.48550/arXiv.2211.09527</pub-id>
+        </element-citation>
+      </ref>
       <ref id="ref-puaschunder2018dignity">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
@@ -640,29 +1047,6 @@ wonderful, monderful
           <issue>4</issue>
           <fpage>62</fpage>
           <lpage>70</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-szomszorDataCategorizationUnderstanding">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Szomszor</surname>
-              <given-names>Martin</given-names>
-            </name>
-            <name>
-              <surname>Adams</surname>
-              <given-names>Jonathan</given-names>
-            </name>
-            <name>
-              <surname>Pendlebury</surname>
-              <given-names>David A</given-names>
-            </name>
-            <name>
-              <surname>Rogers</surname>
-              <given-names>Gordon</given-names>
-            </name>
-          </person-group>
-          <article-title>Data categorization: Understanding choices and outcomes</article-title>
         </element-citation>
       </ref>
       <ref id="ref-thatcher2016data">
@@ -739,6 +1123,22 @@ wonderful, monderful
           <issue>1</issue>
           <fpage>20</fpage>
           <lpage>41</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-xTermsServiceConsumer">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>X</surname>
+            </name>
+          </person-group>
+          <article-title>Terms of Service - Consumer  xAI</article-title>
+          <publisher-name>https://x.ai/legal/terms-of-service</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-17">2025</year>
+            <month>11</month>
+            <day>17</day>
+          </date-in-citation>
         </element-citation>
       </ref>
     </ref-list>
