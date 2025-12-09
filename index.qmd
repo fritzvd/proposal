@@ -7,8 +7,7 @@ authors:
     corresponding: true
 bibliography: references.bib
 # csl: slncs-alphabetical.csl
-abstract: wonderful, monderful
-keywords: data-capitalism, neocolonialism, 
+keywords: data-capitalism, neocolonialism, genAI
 ---
 
 ## Introduction
@@ -60,14 +59,14 @@ The terms of service for ChatGPT allow for OpenAI (the company behind the popula
 
 ## Research Questions
 
-What happens when we do not own our own data?
+What actual gains can we see in productivity when we look at the use genAI tools in the Global South and do they measure up to the costs made towards that gain?
 
 
 ### Sub questions
 
-- _What data are we talking about?_
-  - In much of social literature all data is piled in one heap making it difficult to distinguish which of these data extractions is 'legitimate' or at least 'permissable'
-  - Perhaps making use of categories [@szomszorDataCategorizationUnderstanding]
+- What are the costs of using genAI?
+- What uses are there?
+- How do costs differ over different types of use?
 - _Who stands to gain?_
 
 
