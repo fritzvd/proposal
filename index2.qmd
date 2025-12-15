@@ -1,0 +1,37 @@
+---
+title: "Mapping changes in lived realities for today's youth in the age of magical machines and LLM's"
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+# csl: slncs-alphabetical.csl
+keywords: genAI, lived realities, privacy
+---
+
+## Introduction
+
+New ways to use Generative Artifical Intelligence (genAI) for increasing productivity [], criminal behaviour [@ferraraGenAIHumanityNefarious2024], berievement [@suRightRealityHuman2025] are coming at us fast. GenAI is rapidly reshaping how we work [@joshi2025transformative], how we sleep [], and how learn [@perifanouCollaborativeUsesGenAI2025]. 
+Life after AI comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals for chips, the power consumption to drive the machines and then again for cooling is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024].
+
+The impact will be most felt by people where labour and land are cheap.
+
+Worldwide the largest population group is estimated to be youth between 15-25 . Rural youth in South Africa is suffering from high numbers of emotinoal distress [@mngomaDistressDesperationDespair2021] despite the general relation U-shape between age and happiness [@grahamHappinessStressAge2017; @blanchflowerHappinessUshapedEverywhere2021].
+
+We have crossed the Rubicon and see a flourishing of creative ideas (both benevolent and malevolent). With the expected rise and rise of GenAI in all sectors
+
+
+Urban youth lived realities are changing 
+
+## Research Questions
+
+- What (physical) impact does GenAI have on urban youth?
+
+## Sub questions
+
+- What physical changes does the coming of new data centers have on lived realities?
+- What opportunities do 
+
+
+## References
