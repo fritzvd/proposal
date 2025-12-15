@@ -1143,4 +1143,341 @@ discovery of patterns of privacy in GenAI</article-title>
       </ref>
     </ref-list>
   </back>
+  <sub-article article-type="notebook" id="nb-4-nb-1">
+    <front-stub>
+      <title-group>
+        <article-title>Mapping changes in lived realities for today’s youth in
+the age of magical machines and LLM’s</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes">
+          <name>
+            <surname>Deventer</surname>
+            <given-names>Frederik J</given-names>
+          </name>
+          <string-name>Frederik J van Deventer</string-name>
+          <role vocab="https://credit.niso.org" vocab-term="writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
+          <xref ref-type="aff" rid="aff-1-nb-1">a</xref>
+          <xref ref-type="corresp" rid="cor-1-nb-1">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="aff-1-nb-1">
+        <institution-wrap>
+          <institution>HAN University of Applied Sciences</institution>
+        </institution-wrap>
+      </aff>
+      <author-notes>
+        <corresp id="cor-1-nb-1"/>
+      </author-notes>
+    </front-stub>
+    <body>
+      <sec id="introduction-nb-1">
+        <title>Introduction</title>
+        <p>New ways to use Generative Artifical Intelligence (genAI) for
+  increasing productivity [], criminal behaviour
+  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024-nb-1" ref-type="bibr">Ferrara
+  2024</xref>), berievement
+  (<xref alt="Su 2025" rid="ref-suRightRealityHuman2025-nb-1" ref-type="bibr">Su
+  2025</xref>) are coming at us fast. GenAI is rapidly reshaping how we
+  work
+  (<xref alt="Joshi 2025" rid="ref-joshi2025transformative-nb-1" ref-type="bibr">Joshi
+  2025</xref>), how we sleep [], and how learn
+  (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025-nb-1" ref-type="bibr">Perifanou
+  and Economides 2025</xref>). Life after AI comes at a tremendous
+  physical cost for our planet
+  (<xref alt="Crawford 2021" rid="ref-crawford2021atlas-nb-1" ref-type="bibr">Crawford
+  2021</xref>). The physical extraction of metals for chips, the power
+  consumption to drive the machines and then again for cooling is
+  outgrowing the planned construction of the power grid at a breakneck
+  speed
+  (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024-nb-1" ref-type="bibr">Lin
+  et al. 2024</xref>).</p>
+        <p>The impact will be most felt by people where labour and land are
+  cheap.</p>
+        <p>Worldwide the largest population group is estimated to be youth
+  between 15-25 . Rural youth in South Africa is suffering from high
+  numbers of emotinoal distress
+  (<xref alt="Mngoma et al. 2021" rid="ref-mngomaDistressDesperationDespair2021-nb-1" ref-type="bibr">Mngoma
+  et al. 2021</xref>) despite the general relation U-shape between age
+  and happiness
+  (<xref alt="Graham and Ruiz Pozuelo 2017" rid="ref-grahamHappinessStressAge2017-nb-1" ref-type="bibr">Graham
+  and Ruiz Pozuelo 2017</xref>;
+  <xref alt="Blanchflower 2021" rid="ref-blanchflowerHappinessUshapedEverywhere2021-nb-1" ref-type="bibr">Blanchflower
+  2021</xref>).</p>
+        <p>We have crossed the Rubicon and see a flourishing of creative ideas
+  (both benevolent and malevolent). With the expected rise and rise of
+  GenAI in all sectors</p>
+        <p>Urban youth lived realities are changing</p>
+      </sec>
+      <sec id="research-questions-nb-1">
+        <title>Research Questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>What (physical) impact does GenAI have on urban youth?</p>
+          </list-item>
+        </list>
+      </sec>
+      <sec id="sub-questions-nb-1">
+        <title>Sub questions</title>
+        <list list-type="bullet">
+          <list-item>
+            <p>What physical changes does the coming of new data centers have
+      on lived realities?</p>
+          </list-item>
+          <list-item>
+            <p>What opportunities do</p>
+          </list-item>
+        </list>
+      </sec>
+    </body>
+    <back>
+      <ref-list>
+        <title>References</title>
+        <ref id="ref-blanchflowerHappinessUshapedEverywhere2021-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Blanchflower</surname>
+                <given-names>David G.</given-names>
+              </name>
+            </person-group>
+            <article-title>Is happiness U-shaped everywhere? Age and subjective well-being in 145 countries</article-title>
+            <source>Journal of Population Economics</source>
+            <year iso-8601-date="2021-04">2021</year>
+            <month>04</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-12-15">2025</year>
+              <month>12</month>
+              <day>15</day>
+            </date-in-citation>
+            <volume>34</volume>
+            <issue>2</issue>
+            <issn>1432-1475</issn>
+            <pub-id pub-id-type="doi">10.1007/s00148-020-00797-z</pub-id>
+            <fpage>575</fpage>
+            <lpage>624</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-crawford2021atlas-nb-1">
+          <element-citation publication-type="book">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Crawford</surname>
+                <given-names>Kate</given-names>
+              </name>
+            </person-group>
+            <source>The atlas of AI: Power, politics, and the planetary costs of artificial intelligence</source>
+            <publisher-name>Yale University Press</publisher-name>
+            <year iso-8601-date="2021">2021</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-ferraraGenAIHumanityNefarious2024-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Ferrara</surname>
+                <given-names>Emilio</given-names>
+              </name>
+            </person-group>
+            <article-title>GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models</article-title>
+            <source>Journal of Computational Social Science</source>
+            <year iso-8601-date="2024-04">2024</year>
+            <month>04</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-09-17">2025</year>
+              <month>09</month>
+              <day>17</day>
+            </date-in-citation>
+            <volume>7</volume>
+            <issue>1</issue>
+            <issn>2432-2717, 2432-2725</issn>
+            <pub-id pub-id-type="doi">10.1007/s42001-024-00250-1</pub-id>
+            <fpage>549</fpage>
+            <lpage>569</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-grahamHappinessStressAge2017-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Graham</surname>
+                <given-names>Carol</given-names>
+              </name>
+              <name>
+                <surname>Ruiz Pozuelo</surname>
+                <given-names>Julia</given-names>
+              </name>
+            </person-group>
+            <article-title>Happiness, stress, and age: How the U curve varies across people and places</article-title>
+            <source>Journal of Population Economics</source>
+            <year iso-8601-date="2017-01">2017</year>
+            <month>01</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-12-15">2025</year>
+              <month>12</month>
+              <day>15</day>
+            </date-in-citation>
+            <volume>30</volume>
+            <issue>1</issue>
+            <issn>1432-1475</issn>
+            <pub-id pub-id-type="doi">10.1007/s00148-016-0611-2</pub-id>
+            <fpage>225</fpage>
+            <lpage>264</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-joshi2025transformative-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Joshi</surname>
+                <given-names>Satyadhar</given-names>
+              </name>
+            </person-group>
+            <article-title>The transformative role of agentic GenAI in shaping workforce development and education in the US</article-title>
+            <source>Available at SSRN 5133376</source>
+            <year iso-8601-date="2025">2025</year>
+          </element-citation>
+        </ref>
+        <ref id="ref-linExplodingAIPower2024-nb-1">
+          <element-citation publication-type="paper-conference">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Lin</surname>
+                <given-names>Liuzixuan</given-names>
+              </name>
+              <name>
+                <surname>Wijayawardana</surname>
+                <given-names>Rajini</given-names>
+              </name>
+              <name>
+                <surname>Rao</surname>
+                <given-names>Varsha</given-names>
+              </name>
+              <name>
+                <surname>Nguyen</surname>
+                <given-names>Hai</given-names>
+              </name>
+              <name>
+                <surname>Gnibga</surname>
+                <given-names>Emmanuel Wedan</given-names>
+              </name>
+              <name>
+                <surname>Chien</surname>
+                <given-names>Andrew A.</given-names>
+              </name>
+            </person-group>
+            <article-title>Exploding AI Power Use: An Opportunity to Rethink Grid Planning and Management</article-title>
+            <source>The 15th ACM International Conference on Future and Sustainable Energy Systems</source>
+            <publisher-name>ACM</publisher-name>
+            <publisher-loc>Singapore Singapore</publisher-loc>
+            <year iso-8601-date="2024-06">2024</year>
+            <month>06</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-12-15">2025</year>
+              <month>12</month>
+              <day>15</day>
+            </date-in-citation>
+            <isbn>979-8-4007-0480-2</isbn>
+            <pub-id pub-id-type="doi">10.1145/3632775.3661959</pub-id>
+            <fpage>434</fpage>
+            <lpage>441</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-mngomaDistressDesperationDespair2021-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Mngoma</surname>
+                <given-names>Nomusa F.</given-names>
+              </name>
+              <name>
+                <surname>Ayonrinde</surname>
+                <given-names>Oyedeji A.</given-names>
+              </name>
+              <name>
+                <surname>Fergus</surname>
+                <given-names>Stevenson</given-names>
+              </name>
+              <name>
+                <surname>Jeeves</surname>
+                <given-names>Alan H.</given-names>
+              </name>
+              <name>
+                <surname>Jolly</surname>
+                <given-names>Rosemary J.</given-names>
+              </name>
+            </person-group>
+            <article-title>Distress, desperation and despair: Anxiety, depression and suicidality among rural South African youth</article-title>
+            <source>International Review of Psychiatry</source>
+            <year iso-8601-date="2021-02">2021</year>
+            <month>02</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-12-15">2025</year>
+              <month>12</month>
+              <day>15</day>
+            </date-in-citation>
+            <volume>33</volume>
+            <issue>1-2</issue>
+            <issn>0954-0261, 1369-1627</issn>
+            <pub-id pub-id-type="doi">10.1080/09540261.2020.1741846</pub-id>
+            <fpage>64</fpage>
+            <lpage>74</lpage>
+          </element-citation>
+        </ref>
+        <ref id="ref-perifanouCollaborativeUsesGenAI2025-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Perifanou</surname>
+                <given-names>Maria</given-names>
+              </name>
+              <name>
+                <surname>Economides</surname>
+                <given-names>Anastasios A.</given-names>
+              </name>
+            </person-group>
+            <article-title>Collaborative Uses of GenAI Tools in Project-Based Learning</article-title>
+            <source>Education Sciences</source>
+            <publisher-name>Multidisciplinary Digital Publishing Institute</publisher-name>
+            <year iso-8601-date="2025-03">2025</year>
+            <month>03</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-11-11">2025</year>
+              <month>11</month>
+              <day>11</day>
+            </date-in-citation>
+            <volume>15</volume>
+            <issue>3</issue>
+            <issn>2227-7102</issn>
+            <pub-id pub-id-type="doi">10.3390/educsci15030354</pub-id>
+            <fpage>354</fpage>
+            <lpage/>
+          </element-citation>
+        </ref>
+        <ref id="ref-suRightRealityHuman2025-nb-1">
+          <element-citation publication-type="article-journal">
+            <person-group person-group-type="author">
+              <name>
+                <surname>Su</surname>
+                <given-names>Anna</given-names>
+              </name>
+            </person-group>
+            <article-title>A Right to Reality: Human Dignity and Generative AI</article-title>
+            <source>Nordic Journal of Human Rights</source>
+            <year iso-8601-date="2025-12">2025</year>
+            <month>12</month>
+            <date-in-citation content-type="access-date">
+              <year iso-8601-date="2025-12-15">2025</year>
+              <month>12</month>
+              <day>15</day>
+            </date-in-citation>
+            <issn>1891-8131, 1891-814X</issn>
+            <pub-id pub-id-type="doi">10.1080/18918131.2025.2582990</pub-id>
+            <fpage>1</fpage>
+            <lpage>18</lpage>
+          </element-citation>
+        </ref>
+      </ref-list>
+    </back>
+  </sub-article>
 </article>

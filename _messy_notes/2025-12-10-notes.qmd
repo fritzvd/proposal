@@ -1,0 +1,14 @@
+---
+title: notes 2025-12-10
+bibliography: ../references.bib
+mainfont: Palatino
+# mainfont: Latin Modern Roman
+sansfont: Palatino
+---
+
+From pessimism to promise: Lessons from the Global South on designing inclusive tech},
+
+- "“Faith drives the way we imagine tech innovations. When God speaks in the tech cathedral, the bazaar is forced to listen.” [@arora2024pessimism, pp. 20]
+- Zeal and religious framing of good that isn't good technical solutionism
+- “While others spoke about the data deluge, data glut, and the need for data privacy, Ronaldo Lemos and I spoke about data black holes, data deficits, and the urgency of data visibility. ” [@arora2024pessimism, pp. 24]
+- “If we step back, our questions get tougher, even existential. Is there a point to detecting poachers if rangers cannot get there on time? Why place all bets on new tech when old tech can still be powerful? How will users perceive AI tools if they go against their own interests? What value does AI have when detached from social intelligence on the ground? This is not tech nihilism or Luddism; it is social realism. Social solutions can help solve technological problems. Human and technical intermediaries come as a package. We need to zoom out to see the full complexity of humanity." [@arora2024pessimism, pp. 31]
