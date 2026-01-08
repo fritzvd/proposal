@@ -5,8 +5,8 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
   <front>
     <article-meta>
       <title-group>
-        <article-title>Privacy in an age of magical machines: A cross-cultural
-discovery of patterns of privacy in GenAI</article-title>
+        <article-title>Mapping changes in lived realities for today’s
+youth</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author" corresp="yes">
@@ -30,1454 +30,395 @@ discovery of patterns of privacy in GenAI</article-title>
       </author-notes>
       <history/>
       <kwd-group kwd-group-type="author">
-        <kwd>data-capitalism, neocolonialism, genAI</kwd>
+        <kwd>genAI, lived realities, privacy</kwd>
       </kwd-group>
     </article-meta>
   </front>
   <body>
+    <sec id="problem">
+      <title>Problem</title>
+      <p>AI developments and specifically GenAI with the likes of ChatGPT
+  have skyrocketed demand for land, power and natural resources as data
+  centers need to expand. Digital solutions have impact in physical
+  realities. The promise of technology is always that x will solve y in
+  numerous cases. Nanotechnology, blockchain, big data analysis all
+  claim the same, but we’re increasingly living in a world with bigger
+  divides between the poorest and the richest.</p>
+    </sec>
+    <sec id="gap">
+      <title>Gap</title>
+      <p>Much research has been done on using waste heat
+  (<xref alt="Terenius, Garraghan, and Harper 2023" rid="ref-tereniusMaterialSocialView2023" ref-type="bibr">Terenius,
+  Garraghan, and Harper 2023</xref>), the impact on the environment the
+  data centers themselves are having [], its construction phase
+  (<xref alt="Núñez-Morales, Jung, and Golparvar-Fard 2025" rid="ref-nunez-moralesTrueEnvironmentalCost2025" ref-type="bibr">Núñez-Morales,
+  Jung, and Golparvar-Fard 2025</xref>) and water use
+  (<xref alt="Hogan 2015" rid="ref-hoganDataFlowsWater2015" ref-type="bibr">Hogan
+  2015</xref>), but the societal influence of reshaping of physical
+  space is unknown. The magnitude of influence is often counterposed
+  with the inevitable excellence this AI will propel us in. Is this
+  justified?</p>
+    </sec>
+    <sec id="hook">
+      <title>Hook</title>
+      <p>In this research I use the hypothesis that the way the digital
+  advances influence physical space through the construction and
+  maintenance of data centers and the resources it requires are bound to
+  have a significant influence in lived realities where these data
+  centers are being built.</p>
+    </sec>
     <sec id="introduction">
       <title>Introduction</title>
-      <p>Andreessen
-  (<xref alt="2011" rid="ref-andreessenWhySoftwareEating2011" ref-type="bibr">2011</xref>)
-  said: “Software is eating the world”, but today it might be more
-  appropriate to say <italic>Data</italic> is eating the world. There is
-  no longer a distinction to what can and cannot be captured in data
-  from nature
-  (<xref alt="Walford 2018" rid="ref-walford2018if" ref-type="bibr">Walford
-  2018</xref>) to bodies
-  (<xref alt="Van der Ploeg 2012" rid="ref-van2012body" ref-type="bibr">Van
-  der Ploeg 2012</xref>). This ‘datafication’
-  (<xref alt="Cukier and Mayer-Schönberger 2014" rid="ref-cukierRiseBigData2014" ref-type="bibr">Cukier
-  and Mayer-Schönberger 2014</xref>), tries to capture all things into
-  data, with data being a tradeable commodity
-  (<xref alt="De Franceschi and Lehmann 2015" rid="ref-defranceschiDataTradeableCommodity2015" ref-type="bibr">De
-  Franceschi and Lehmann 2015</xref>). Our daily lives are deeply
-  connected with digital technology that collects the what and when on
-  our interactions as capital
-  (<xref alt="West 2019" rid="ref-west2019data" ref-type="bibr">West
-  2019</xref>). The tools and distractions social media provides turns
-  us into consumer-workers
-  (<xref alt="Puaschunder 2018" rid="ref-puaschunder2018dignity" ref-type="bibr">Puaschunder
-  2018</xref>) collecting data for these companies whilst we enter into
-  license agreements without being able to control the data we produce
-  (<xref alt="Thatcher, O’Sullivan, and Mahmoudi 2016" rid="ref-thatcher2016data" ref-type="bibr">Thatcher,
-  O’Sullivan, and Mahmoudi 2016</xref>) and approaching user agreements
-  with a sense of apathy
-  (<xref alt="Gómez Ortega, Morales Ornelas, and Genç 2025" rid="ref-gomezortegaSurrenderingPowerlesnessGoverning2025" ref-type="bibr">Gómez
-  Ortega, Morales Ornelas, and Genç 2025</xref>).</p>
-      <p>Recent developments have seen generative Artificial Intelligence
-  (genAI) being available for the masses with Large Language Models
-  (LLM’s) having a much easier interface for non-technical users. Often
-  signified with the moniker: AI or with magical stars (✨) it features
-  in many applications ranging from web search to
-  (<xref alt="Google n.d.a" rid="ref-googleGoogleAIMode" ref-type="bibr">Google
-  n.d.a</xref>;
-  <xref alt="DuckDuckGo n.d." rid="ref-duckduckgoDuckaiDuckDuckGoHelp" ref-type="bibr">DuckDuckGo
-  n.d.</xref>;
-  <xref alt="Microsoft n.d.a" rid="ref-microsoftIntroducingNewBing" ref-type="bibr">Microsoft
-  n.d.a</xref>) personal communication such as Outlook
-  (<xref alt="“Chat with Copilot in Outlook - Microsoft Support” n.d." rid="ref-ChatCopilotOutlook" ref-type="bibr">“Chat
-  with Copilot in Outlook - Microsoft Support” n.d.</xref>) or Whatsapp
-  (<xref alt="Meta n.d." rid="ref-metaMetaAIWhatsApp" ref-type="bibr">Meta
-  n.d.</xref>). genAI is quickly becoming embedded in all sorts of
-  business and applications
-  (<xref alt="Grantham-Philips 2024" rid="ref-grantham-philipsAIBecomingIngrained2024" ref-type="bibr">Grantham-Philips
-  2024</xref>). Even more than in applications beforehand users are
-  encouraged to upload documents and provide more context for the LLM to
-  perform better.</p>
-      <p>GenAI has been lauded as tool that can help with productivity, can
-  help out in creative industries such as writing, music, film. But
-  there is a real darkside to it too. Besides the darkpatterns that are
-  emerging and the plausible, but false pictures and text it can
-  produce, there are many concerns about the energy abuse and
-  infrastructure that is needed for it to function. The impact it is
-  having on learning and social relations
-  (<xref alt="Hou et al. 2025" rid="ref-houAllRoadsLead2025" ref-type="bibr">Hou
-  et al. 2025</xref>). Then there is the issue of bias by training and
-  the amplification of this bias
-  (<xref alt="Lloyd 2018" rid="ref-lloydBiasAmplificationArtificial2018" ref-type="bibr">Lloyd
-  2018</xref>). Jailbreak prompts are a way to subvert the main goals
-  and to misuse LLM’s
-  (<xref alt="Perez and Ribeiro 2022" rid="ref-perezIgnorePreviousPrompt2022" ref-type="bibr">Perez
-  and Ribeiro 2022</xref>). Which could lead to the extraction of
-  personally identifiable information
-  (<xref alt="Li et al. 2023" rid="ref-liMultistepJailbreakingPrivacy2023" ref-type="bibr">Li
-  et al. 2023</xref>). In older models (GPT-2) training data could be
-  even be extracted after an attack
-  (<xref alt="Carlini et al. 2021" rid="ref-carliniExtractingTrainingData2021" ref-type="bibr">Carlini
-  et al. 2021</xref>).</p>
-      <p>Concerning the use of personal data, this in itself should be
-  alarming. On top of that the terms of service for ChatGPT allow for
-  OpenAI (the company behind the popular chat based LLM) to make use of
-  content provided by users to improve services, and even to train
-  models
-  (<xref alt="OpenAi n.d." rid="ref-openaiPrivacyPolicy" ref-type="bibr">OpenAi
-  n.d.</xref>). The same holds true for Anthropic (Claude)
-  (<xref alt="Anthropic n.d." rid="ref-anthropicHowYouUse" ref-type="bibr">Anthropic
-  n.d.</xref>), Google (Gemini)
-  (<xref alt="Google n.d.b" rid="ref-googlePrivacyPolicyPrivacy" ref-type="bibr">Google
-  n.d.b</xref>) and X (Grok)
-  (<xref alt="X n.d." rid="ref-xTermsServiceConsumer" ref-type="bibr">X
-  n.d.</xref>), even in areas with stricter legal restrictions such as
-  the European GDPR.</p>
-      <p>Finally there seems to be an inherent faith and push for Big Tech
-  companies to “spread the good news”, to use religious language.</p>
-      <p>Recent news from Amazon, Microsoft and Google, the three largest
-  companies that provide infrastructure for software around the world,
-  mentions that they are investing in data centers in Uruguay
-  (<xref alt="Google 2024" rid="ref-googleNewDataCenter2024" ref-type="bibr">Google
-  2024</xref>), Thailand and Malaysia
-  (<xref alt="Onag n.d." rid="ref-onagGoogleUnveilsU00243B" ref-type="bibr">Onag
-  n.d.</xref>;
-  <xref alt="Browne 2024" rid="ref-browneGoogleInvestU002412024" ref-type="bibr">Browne
-  2024</xref>;
-  <xref alt="Chiang 2024" rid="ref-chiangMicrosoftOpenNew2024" ref-type="bibr">Chiang
-  2024</xref>), Busan in South Korea
-  (<xref alt="Microsoft 2024" rid="ref-microsoftCelebratingCompletionNew2024" ref-type="bibr">Microsoft
-  2024</xref>), Brazil
-  (<xref alt="Microsoft, n.d.b" rid="ref-microsoftMicrosoftDatacentersBrazil" ref-type="bibr">Microsoft,
-  n.d.b</xref>) and Chile
-  (<xref alt="Amazon 2025" rid="ref-amazonWorksAWSSouth2025" ref-type="bibr">Amazon
-  2025</xref>;
-  <xref alt="Cambero 2025" rid="ref-camberoAmazonSpendU002442025" ref-type="bibr">Cambero
-  2025</xref>). Who stands to benefit from these transactions?</p>
-      <p>The extracting of data and the use of AI have become a powerful
-  tool, but at the same time data and AI “entrench power assymetries and
-  engender new forms of structural violence and new inequities between
-  the Global South and North”
-  (<xref alt="Madianou 2024" rid="ref-madianou2024technocolonialism" ref-type="bibr">Madianou
-  2024</xref>).</p>
-      <p>In recent years this phenomenon of data extraction has been
-  described as ‘data colonialism’, as an exploitative transgression for
-  profit.
-  (<xref alt="Couldry and Mejias 2019" rid="ref-couldryDataColonialismRethinking2019" ref-type="bibr">Couldry
-  and Mejias 2019</xref>), digital colonialism
-  (<xref alt="Kwet 2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">Kwet
-  2019</xref>) or ‘data extractivism’
-  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
-  et al. 2024</xref>, pp 126), or in the case of African nations even a
-  ‘21st century scramble for africa’
-  (<xref alt="Coleman 2018" rid="ref-coleman2018digital" ref-type="bibr">Coleman
-  2018</xref>).</p>
-      <p>For this research however I would like to focus on data justice as
-  Jimenez further poses that a focus on justice instead of coloniality
-  would require ‘us to go further and actively attempt to eliminate the
-  injustices we observed’
-  (<xref alt="Brevini et al. 2024" rid="ref-brevini2024critiques" ref-type="bibr">Brevini
-  et al. 2024</xref>, pp 133). Instead of only looking at what that
-  coloniality looks like and trying to prove this as ‘colonial’.</p>
-      <p>As Kwet
-  (<xref alt="2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">2019</xref>)
-  asks himself in the case of South Africa: ‘are cloud centres built by
-  Amazon, Microsoft, and Google good for the country’? Software and the
-  push for GenAI comes with its own agenda and is not free from
-  political or commercial agenda’s
-  (<xref alt="Kwet 2019" rid="ref-kwetDigitalColonialismUS2019" ref-type="bibr">Kwet
-  2019</xref>). Abandoned experiments as part of ‘AI for good’ have been
-  compared to leaving a Lamborghini in the desert.</p>
-      <p>What then do we define as progress? Is it the mere evolution of
-  technological tools? Or the more petabytes we can store? Or is it
-  actually making a difference in peoples lives in a profound,
-  meaningful and positive way? And does importing more corporate “Big
-  Tech” technology increase the way of life? Or does it further enrich
-  Global North pockets?</p>
+      <p>New ways to use Generative Artifical Intelligence (genAI) for a
+  large scala of applications such as increasing productivity [],
+  berievement
+  (<xref alt="Su 2025" rid="ref-suRightRealityHuman2025" ref-type="bibr">Su
+  2025</xref>) and even criminal behaviour
+  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
+  2024</xref>) are coming at us fast. GenAI is rapidly reshaping how we
+  work
+  (<xref alt="Joshi 2025" rid="ref-joshi2025transformative" ref-type="bibr">Joshi
+  2025</xref>), how we sleep [], and how learn
+  (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025" ref-type="bibr">Perifanou
+  and Economides 2025</xref>).</p>
+      <p>Generative Artifical Intelligence (genAI), a specific form of
+  Artifical Intelligence harnessing the power of Large Language Models
+  to <italic>generate</italic> new output based on vast and widwes data
+  sources, is rapidly transforming our lives. Ranging from reshaping how
+  we work
+  (<xref alt="Joshi 2025" rid="ref-joshi2025transformative" ref-type="bibr">Joshi
+  2025</xref>) and how learn
+  (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025" ref-type="bibr">Perifanou
+  and Economides 2025</xref>), to changing criminal behaviour
+  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
+  2024</xref>) and even influencing democratization
+  (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
+  Schopmans, and Tuncer-Ebetürk 2024</xref>)</p>
+      <p>Life in the age of genAI however, comes at a tremendous physical
+  cost for our planet
+  (<xref alt="Crawford 2021" rid="ref-crawford2021atlas" ref-type="bibr">Crawford
+  2021</xref>). The physical extraction of metals for chips to enable
+  the machines to run the models [], the power consumption to drive the
+  machines and then again for cooling is outgrowing the planned
+  construction of the power grid at a breakneck speed
+  (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
+  et al. 2024</xref>). The relation we have to work and what kind of
+  tasks can be performed and automated by machines is rapidly
+  changing.</p>
+      <p>The impact will be most felt by people where labour and land are
+  cheap and valuable resources, such as metals, are believed to be
+  extracted successfully.</p>
+      <p>The youth of our world will have to deal with the devastation and
+  hopefully also reap its benefits.</p>
+      <p>Worldwide the largest population group by 85% in 2050 is estimated
+  to be youth between 15-25. This is the same group that seems
+  optimistic about the use of and the benefits of AI
+  (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
+  2025</xref>) (&lt;— specify with direct citation). </p>
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
-      <p>What actual gains can we see in productivity when we look at the
-  use genAI tools in the Global South and do they measure up to the
-  costs made towards that gain?</p>
-      <sec id="sub-questions">
-        <title>Sub questions</title>
-        <list list-type="bullet">
-          <list-item>
-            <p>What are the costs of using genAI?</p>
-          </list-item>
-          <list-item>
-            <p>What uses are there?</p>
-          </list-item>
-          <list-item>
-            <p>How do costs differ over different types of use?</p>
-          </list-item>
-          <list-item>
-            <p>
-              <italic>Who stands to gain?</italic>
-            </p>
-          </list-item>
-        </list>
-      </sec>
+      <list list-type="bullet">
+        <list-item>
+          <p>How do we harness the accelerated changes GenAI is bringing to
+      foster empowerment, freedom and increased human agency as opposed
+      to oppression and machine driven decision-making?</p>
+        </list-item>
+      </list>
     </sec>
-    <sec id="bonus-questions">
-      <title>Bonus questions</title>
-      <disp-quote>
-        <p>Who owns the data?</p>
-      </disp-quote>
-      <disp-quote>
-        <p>What influence can AI for <italic>Social Good</italic> actually
-    have? What is</p>
-      </disp-quote>
-      <disp-quote>
-        <p>What is the relation of power and the created social standards In
-    what way is power big tech has exterted in and misused in policies
-    concerning data in lower income countries? - Lead with examples of
-    policies in powerful
-    (<xref alt="Khanal, Zhang, and Taeihagh 2025" rid="ref-khanalWhyHowPower2025" ref-type="bibr">Khanal,
-    Zhang, and Taeihagh 2025</xref>)</p>
-      </disp-quote>
-      <disp-quote>
-        <p>In what ways does GenAI express itself as a neocolonialist
-    hegemonical agent? - How do localized LLM’s differ in bias towards
-    policies from commercial models widely available</p>
-      </disp-quote>
-      <disp-quote>
-        <p>How is blind faith in techonological advancement towards
-    “Singularity” influencing optimism towards creating an Artificial
-    General Intelligence? - forces of marketing and opportunities of use
-    - overpromises
-    (<xref alt="Krokowski and Hirsch-Kreinsen 2025" rid="ref-krokowskiOncePromisedForever2025" ref-type="bibr">Krokowski
-    and Hirsch-Kreinsen 2025</xref>) -</p>
-      </disp-quote>
-      <disp-quote>
-        <p>What local solutions can we offer for people groups who have a
-    larger gap towards digital accessibility</p>
-      </disp-quote>
-      <disp-quote>
-        <list list-type="bullet">
-          <list-item>
-            <p>How do people use genAI cross-cultural study?</p>
-          </list-item>
-          <list-item>
-            <p>What patterns exist in the solution realm?</p>
-          </list-item>
-          <list-item>
-            <p>What intrinsic motvation</p>
-          </list-item>
-        </list>
-      </disp-quote>
+    <sec id="sub-questions">
+      <title>Sub questions</title>
+      <list list-type="bullet">
+        <list-item>
+          <p>What physical changes does the coming of new data centers have
+      on lived realities?</p>
+        </list-item>
+        <list-item>
+          <p>What opportunities does this entail?</p>
+        </list-item>
+        <list-item>
+          <p>What</p>
+        </list-item>
+      </list>
     </sec>
   </body>
   <back>
     <ref-list>
       <title>References</title>
-      <ref id="ref-amazonWorksAWSSouth2025">
-        <element-citation>
+      <ref id="ref-crawford2021atlas">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
-              <surname>Amazon</surname>
+              <surname>Crawford</surname>
+              <given-names>Kate</given-names>
             </name>
           </person-group>
-          <article-title>In the works – AWS South America (Chile) Region  AWS News Blog</article-title>
-          <publisher-name>https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/</publisher-name>
-          <year iso-8601-date="2025-05">2025</year>
-          <month>05</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
+          <source>The atlas of AI: Power, politics, and the planetary costs of artificial intelligence</source>
+          <publisher-name>Yale University Press</publisher-name>
+          <year iso-8601-date="2021">2021</year>
         </element-citation>
       </ref>
-      <ref id="ref-andreessenWhySoftwareEating2011">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Andreessen</surname>
-              <given-names>Marc</given-names>
-            </name>
-          </person-group>
-          <article-title>Why Software Is Eating the World</article-title>
-          <source>Andreessen Horowitz</source>
-          <year iso-8601-date="2011-08">2011</year>
-          <month>08</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-04">2025</year>
-            <month>12</month>
-            <day>04</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-anthropicHowYouUse">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Anthropic</surname>
-            </name>
-          </person-group>
-          <article-title>How Do You Use Personal Data in Model Training?  Anthropic Privacy Center</article-title>
-          <publisher-name>https://privacy.claude.com/en/articles/10023555-how-do-you-use-personal-data-in-model-training</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-brevini2024critiques">
-        <element-citation publication-type="chapter">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Brevini</surname>
-              <given-names>Benedetta</given-names>
-            </name>
-            <name>
-              <surname>Fubara-Manuel</surname>
-              <given-names>Irene</given-names>
-            </name>
-            <name>
-              <surname>Le Ludec</surname>
-              <given-names>Clément</given-names>
-            </name>
-            <name>
-              <surname>Jensen</surname>
-              <given-names>Jakob Linaa</given-names>
-            </name>
-            <name>
-              <surname>Jimenez</surname>
-              <given-names>Andrea</given-names>
-            </name>
-            <name>
-              <surname>Bates</surname>
-              <given-names>Jo</given-names>
-            </name>
-          </person-group>
-          <article-title>Critiques of data colonialism</article-title>
-          <source>Dialogues in data power</source>
-          <publisher-name>Bristol University Press</publisher-name>
-          <year iso-8601-date="2024">2024</year>
-          <fpage>120</fpage>
-          <lpage>137</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-browneGoogleInvestU002412024">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Browne</surname>
-              <given-names>Ryan</given-names>
-            </name>
-          </person-group>
-          <article-title>Google to invest $1 billion in Thailand to build data center and accelerate AI growth</article-title>
-          <source>CNBC</source>
-          <publisher-name>https://www.cnbc.com/2024/09/30/google-to-invest-1-billion-in-thailand-data-center-and-ai-push.html</publisher-name>
-          <year iso-8601-date="2024-09">2024</year>
-          <month>09</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-camberoAmazonSpendU002442025">
+      <ref id="ref-cupacDemocratizationAgeArtificial2024">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Cambero</surname>
-              <given-names>Fabian</given-names>
+              <surname>Cupać</surname>
+              <given-names>Jelena</given-names>
+            </name>
+            <name>
+              <surname>Schopmans</surname>
+              <given-names>Hendrik</given-names>
+            </name>
+            <name>
+              <surname>Tuncer-Ebetürk</surname>
+              <given-names>İrem</given-names>
             </name>
           </person-group>
-          <article-title>Amazon to spend $4 billion on cloud infrastructure in Chile</article-title>
-          <source>Reuters</source>
-          <year iso-8601-date="2025-05">2025</year>
-          <month>05</month>
+          <article-title>Democratization in the age of artificial intelligence: Introduction to the special issue</article-title>
+          <source>Democratization</source>
+          <publisher-name>Routledge</publisher-name>
+          <year iso-8601-date="2024-07">2024</year>
+          <month>07</month>
           <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
+            <year iso-8601-date="2026-01-08">2026</year>
+            <month>01</month>
             <day>08</day>
           </date-in-citation>
+          <volume>31</volume>
+          <issue>5</issue>
+          <issn>1351-0347</issn>
+          <pub-id pub-id-type="doi">10.1080/13510347.2024.2338852</pub-id>
+          <fpage>899</fpage>
+          <lpage>921</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-carliniExtractingTrainingData2021">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Carlini</surname>
-              <given-names>Nicholas</given-names>
-            </name>
-            <name>
-              <surname>Tramer</surname>
-              <given-names>Florian</given-names>
-            </name>
-            <name>
-              <surname>Wallace</surname>
-              <given-names>Eric</given-names>
-            </name>
-            <name>
-              <surname>Jagielski</surname>
-              <given-names>Matthew</given-names>
-            </name>
-            <name>
-              <surname>Herbert-Voss</surname>
-              <given-names>Ariel</given-names>
-            </name>
-            <name>
-              <surname>Lee</surname>
-              <given-names>Katherine</given-names>
-            </name>
-            <name>
-              <surname>Roberts</surname>
-              <given-names>Adam</given-names>
-            </name>
-            <name>
-              <surname>Brown</surname>
-              <given-names>Tom</given-names>
-            </name>
-            <name>
-              <surname>Song</surname>
-              <given-names>Dawn</given-names>
-            </name>
-            <name>
-              <surname>Erlingsson</surname>
-              <given-names>Ulfar</given-names>
-            </name>
-            <name>
-              <surname>Oprea</surname>
-              <given-names>Alina</given-names>
-            </name>
-            <name>
-              <surname>Raffel</surname>
-              <given-names>Colin</given-names>
-            </name>
-          </person-group>
-          <article-title>Extracting Training Data from Large Language Models</article-title>
-          <publisher-name>arXiv</publisher-name>
-          <year iso-8601-date="2021-06">2021</year>
-          <month>06</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-          <uri>https://arxiv.org/abs/2012.07805</uri>
-          <pub-id pub-id-type="doi">10.48550/arXiv.2012.07805</pub-id>
-        </element-citation>
-      </ref>
-      <ref id="ref-ChatCopilotOutlook">
-        <element-citation>
-          <article-title>Chat with Copilot in Outlook - Microsoft Support</article-title>
-          <publisher-name>https://support.microsoft.com/en-us/topic/chat-with-copilot-in-outlook-8090e7b3-5b1d-4c6d-9b06-02edac062f58</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-chiangMicrosoftOpenNew2024">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Chiang</surname>
-              <given-names>Sheila</given-names>
-            </name>
-          </person-group>
-          <article-title>Microsoft to open new data center in Thailand as it doubles down on AI and Southeast Asia</article-title>
-          <source>CNBC</source>
-          <publisher-name>https://www.cnbc.com/2024/05/02/microsoft-to-open-data-center-in-thailand-amid-southeast-asia-expansion.html</publisher-name>
-          <year iso-8601-date="2024-05">2024</year>
-          <month>05</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-coleman2018digital">
+      <ref id="ref-ferraraGenAIHumanityNefarious2024">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Coleman</surname>
-              <given-names>Danielle</given-names>
+              <surname>Ferrara</surname>
+              <given-names>Emilio</given-names>
             </name>
           </person-group>
-          <article-title>Digital colonialism: The 21st century scramble for Africa through the extraction and control of user data and the limitations of data protection laws</article-title>
-          <source>Mich. J. Race &amp; L.</source>
-          <publisher-name>HeinOnline</publisher-name>
-          <year iso-8601-date="2018">2018</year>
-          <volume>24</volume>
-          <fpage>417</fpage>
+          <article-title>GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models</article-title>
+          <source>Journal of Computational Social Science</source>
+          <year iso-8601-date="2024-04">2024</year>
+          <month>04</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-09-17">2025</year>
+            <month>09</month>
+            <day>17</day>
+          </date-in-citation>
+          <volume>7</volume>
+          <issue>1</issue>
+          <issn>2432-2717, 2432-2725</issn>
+          <pub-id pub-id-type="doi">10.1007/s42001-024-00250-1</pub-id>
+          <fpage>549</fpage>
+          <lpage>569</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-hoganDataFlowsWater2015">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hogan</surname>
+              <given-names>Mél</given-names>
+            </name>
+          </person-group>
+          <article-title>Data flows and water woes: The Utah Data Center</article-title>
+          <source>Big Data &amp; Society</source>
+          <publisher-name>SAGE Publications Ltd</publisher-name>
+          <year iso-8601-date="2015-12">2015</year>
+          <month>12</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-12-16">2025</year>
+            <month>12</month>
+            <day>16</day>
+          </date-in-citation>
+          <volume>2</volume>
+          <issue>2</issue>
+          <issn>2053-9517</issn>
+          <pub-id pub-id-type="doi">10.1177/2053951715592429</pub-id>
+          <fpage>2053951715592429</fpage>
           <lpage/>
         </element-citation>
       </ref>
-      <ref id="ref-couldryDataColonialismRethinking2019">
+      <ref id="ref-joshi2025transformative">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Couldry</surname>
-              <given-names>Nick</given-names>
-            </name>
-            <name>
-              <surname>Mejias</surname>
-              <given-names>Ulises A.</given-names>
+              <surname>Joshi</surname>
+              <given-names>Satyadhar</given-names>
             </name>
           </person-group>
-          <article-title>Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject</article-title>
-          <source>Television &amp; New Media</source>
-          <year iso-8601-date="2019-05">2019</year>
-          <month>05</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-02">2025</year>
-            <month>12</month>
-            <day>02</day>
-          </date-in-citation>
-          <volume>20</volume>
-          <issue>4</issue>
-          <issn>1527-4764, 1552-8316</issn>
-          <pub-id pub-id-type="doi">10.1177/1527476418796632</pub-id>
-          <fpage>336</fpage>
-          <lpage>349</lpage>
+          <article-title>The transformative role of agentic GenAI in shaping workforce development and education in the US</article-title>
+          <source>Available at SSRN 5133376</source>
+          <year iso-8601-date="2025">2025</year>
         </element-citation>
       </ref>
-      <ref id="ref-cukierRiseBigData2014">
-        <element-citation publication-type="chapter">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Cukier</surname>
-              <given-names>Kenneth</given-names>
-            </name>
-            <name>
-              <surname>Mayer-Schönberger</surname>
-              <given-names>Viktor</given-names>
-            </name>
-          </person-group>
-          <article-title>The Rise of Big Data: How It’s Changing the Way We Think about the World</article-title>
-          <source>The Best Writing on Mathematics 2014</source>
-          <person-group person-group-type="editor">
-            <name>
-              <surname>Pitici</surname>
-              <given-names>Mircea</given-names>
-            </name>
-          </person-group>
-          <publisher-name>Princeton University Press</publisher-name>
-          <year iso-8601-date="2014-12">2014</year>
-          <month>12</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-          <isbn>978-1-4008-6530-7</isbn>
-          <pub-id pub-id-type="doi">10.1515/9781400865307-003</pub-id>
-          <fpage>20</fpage>
-          <lpage>32</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-defranceschiDataTradeableCommodity2015">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>De Franceschi</surname>
-              <given-names>Alberto</given-names>
-            </name>
-            <name>
-              <surname>Lehmann</surname>
-              <given-names>Michael</given-names>
-            </name>
-          </person-group>
-          <article-title>Data as Tradeable Commodity and New Measures for Their Protection Essays</article-title>
-          <source>Italian Law Journal</source>
-          <year iso-8601-date="2015">2015</year>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-          <volume>1</volume>
-          <issue>1</issue>
-          <fpage>51</fpage>
-          <lpage>72</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-duckduckgoDuckaiDuckDuckGoHelp">
-        <element-citation>
-          <person-group person-group-type="author">
-            <string-name>DuckDuckGo</string-name>
-          </person-group>
-          <article-title>Duck.ai - DuckDuckGo Help Pages</article-title>
-          <publisher-name>https://duckduckgo.com/duckduckgo-help-pages/duckai</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-gomezortegaSurrenderingPowerlesnessGoverning2025">
+      <ref id="ref-linExplodingAIPower2024">
         <element-citation publication-type="paper-conference">
           <person-group person-group-type="author">
             <name>
-              <surname>Gómez Ortega</surname>
-              <given-names>Alejandra</given-names>
+              <surname>Lin</surname>
+              <given-names>Liuzixuan</given-names>
             </name>
             <name>
-              <surname>Morales Ornelas</surname>
-              <given-names>Hosana</given-names>
+              <surname>Wijayawardana</surname>
+              <given-names>Rajini</given-names>
             </name>
             <name>
-              <surname>Genç</surname>
-              <given-names>Uğur</given-names>
+              <surname>Rao</surname>
+              <given-names>Varsha</given-names>
+            </name>
+            <name>
+              <surname>Nguyen</surname>
+              <given-names>Hai</given-names>
+            </name>
+            <name>
+              <surname>Gnibga</surname>
+              <given-names>Emmanuel Wedan</given-names>
+            </name>
+            <name>
+              <surname>Chien</surname>
+              <given-names>Andrew A.</given-names>
             </name>
           </person-group>
-          <article-title>Surrendering to Powerlesness: Governing Personal Data Flows in Generative AI</article-title>
-          <source>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</source>
+          <article-title>Exploding AI Power Use: An Opportunity to Rethink Grid Planning and Management</article-title>
+          <source>The 15th ACM International Conference on Future and Sustainable Energy Systems</source>
           <publisher-name>ACM</publisher-name>
-          <publisher-loc>Yokohama Japan</publisher-loc>
-          <year iso-8601-date="2025-04">2025</year>
-          <month>04</month>
+          <publisher-loc>Singapore Singapore</publisher-loc>
+          <year iso-8601-date="2024-06">2024</year>
+          <month>06</month>
           <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-05">2025</year>
-            <month>11</month>
-            <day>05</day>
+            <year iso-8601-date="2025-12-15">2025</year>
+            <month>12</month>
+            <day>15</day>
           </date-in-citation>
-          <isbn>979-8-4007-1394-1</isbn>
-          <pub-id pub-id-type="doi">10.1145/3706598.3713504</pub-id>
+          <isbn>979-8-4007-0480-2</isbn>
+          <pub-id pub-id-type="doi">10.1145/3632775.3661959</pub-id>
+          <fpage>434</fpage>
+          <lpage>441</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-nunez-moralesTrueEnvironmentalCost2025">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Núñez-Morales</surname>
+              <given-names>Juan D</given-names>
+            </name>
+            <name>
+              <surname>Jung</surname>
+              <given-names>Yoonhwa</given-names>
+            </name>
+            <name>
+              <surname>Golparvar-Fard</surname>
+              <given-names>Mani</given-names>
+            </name>
+          </person-group>
+          <article-title>The True Environmental Cost of Data Centers: An Insight into the Construction Phase of the Era of Artificial Intelligence</article-title>
+          <year iso-8601-date="2025">2025</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-perifanouCollaborativeUsesGenAI2025">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Perifanou</surname>
+              <given-names>Maria</given-names>
+            </name>
+            <name>
+              <surname>Economides</surname>
+              <given-names>Anastasios A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Collaborative Uses of GenAI Tools in Project-Based Learning</article-title>
+          <source>Education Sciences</source>
+          <publisher-name>Multidisciplinary Digital Publishing Institute</publisher-name>
+          <year iso-8601-date="2025-03">2025</year>
+          <month>03</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-11-11">2025</year>
+            <month>11</month>
+            <day>11</day>
+          </date-in-citation>
+          <volume>15</volume>
+          <issue>3</issue>
+          <issn>2227-7102</issn>
+          <pub-id pub-id-type="doi">10.3390/educsci15030354</pub-id>
+          <fpage>354</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-suRightRealityHuman2025">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Su</surname>
+              <given-names>Anna</given-names>
+            </name>
+          </person-group>
+          <article-title>A Right to Reality: Human Dignity and Generative AI</article-title>
+          <source>Nordic Journal of Human Rights</source>
+          <year iso-8601-date="2025-12">2025</year>
+          <month>12</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2025-12-15">2025</year>
+            <month>12</month>
+            <day>15</day>
+          </date-in-citation>
+          <issn>1891-8131, 1891-814X</issn>
+          <pub-id pub-id-type="doi">10.1080/18918131.2025.2582990</pub-id>
           <fpage>1</fpage>
           <lpage>18</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-googleGoogleAIMode">
-        <element-citation>
-          <person-group person-group-type="author">
-            <string-name>Google</string-name>
-          </person-group>
-          <article-title>Google AI Mode - a new way to search, whatever’s on your mind</article-title>
-          <source>Google AI Mode - a new way to search, whatever’s on your mind</source>
-          <publisher-name>https://search.google/ways-to-search/ai-mode/</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-googleNewDataCenter2024">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Google</surname>
-            </name>
-          </person-group>
-          <article-title>A new data center in Latin America</article-title>
-          <source>Google</source>
-          <publisher-name>https://blog.google/around-the-globe/google-latin-america/a-new-data-center-in-latin-america/</publisher-name>
-          <year iso-8601-date="2024-08">2024</year>
-          <month>08</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-googlePrivacyPolicyPrivacy">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Google</surname>
-            </name>
-          </person-group>
-          <article-title>Privacy Policy – Privacy &amp; Terms – Google</article-title>
-          <publisher-name>https://policies.google.com/privacy</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-grantham-philipsAIBecomingIngrained2024">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Grantham-Philips</surname>
-              <given-names>Wyatte</given-names>
-            </name>
-          </person-group>
-          <article-title>AI is becoming ingrained in businesses across industries. Where is it going in 2025?</article-title>
-          <source>AP News</source>
-          <publisher-name>https://apnews.com/article/artificial-intelligence-interview-pwc-dan-priest-a0458061469735aed7af5fa49682e076</publisher-name>
-          <year iso-8601-date="2024-12">2024</year>
-          <month>12</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-houAllRoadsLead2025">
-        <element-citation publication-type="paper-conference">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Hou</surname>
-              <given-names>Irene</given-names>
-            </name>
-            <name>
-              <surname>Man</surname>
-              <given-names>Owen</given-names>
-            </name>
-            <name>
-              <surname>Hamilton</surname>
-              <given-names>Kate</given-names>
-            </name>
-            <name>
-              <surname>Muthusekaran</surname>
-              <given-names>Srishty</given-names>
-            </name>
-            <name>
-              <surname>Johnykutty</surname>
-              <given-names>Jeffin</given-names>
-            </name>
-            <name>
-              <surname>Zadeh</surname>
-              <given-names>Leili</given-names>
-            </name>
-            <name>
-              <surname>MacNeil</surname>
-              <given-names>Stephen</given-names>
-            </name>
-          </person-group>
-          <article-title>’All Roads Lead to ChatGPT’: How Generative AI is Eroding Social Interactions and Student Learning Communities</article-title>
-          <source>Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 1</source>
-          <publisher-name>ACM</publisher-name>
-          <publisher-loc>Nijmegen Netherlands</publisher-loc>
-          <year iso-8601-date="2025-06">2025</year>
-          <month>06</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-09">2025</year>
-            <month>12</month>
-            <day>09</day>
-          </date-in-citation>
-          <isbn>979-8-4007-1567-9</isbn>
-          <pub-id pub-id-type="doi">10.1145/3724363.3729024</pub-id>
-          <fpage>79</fpage>
-          <lpage>85</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-khanalWhyHowPower2025">
+      <ref id="ref-tereniusMaterialSocialView2023">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Khanal</surname>
-              <given-names>Shaleen</given-names>
+              <surname>Terenius</surname>
+              <given-names>Petter</given-names>
             </name>
             <name>
-              <surname>Zhang</surname>
-              <given-names>Hongzhou</given-names>
+              <surname>Garraghan</surname>
+              <given-names>Peter</given-names>
             </name>
             <name>
-              <surname>Taeihagh</surname>
-              <given-names>Araz</given-names>
+              <surname>Harper</surname>
+              <given-names>Richard</given-names>
             </name>
           </person-group>
-          <article-title>Why and how is the power of Big Tech increasing in the policy process? The case of generative AI</article-title>
-          <source>Policy and Society</source>
-          <year iso-8601-date="2025-01">2025</year>
+          <article-title>A material social view on data center waste heat: Novel uses and metrics</article-title>
+          <source>Frontiers in Sustainability</source>
+          <year iso-8601-date="2023-01">2023</year>
           <month>01</month>
           <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-28">2025</year>
-            <month>11</month>
-            <day>28</day>
-          </date-in-citation>
-          <volume>44</volume>
-          <issue>1</issue>
-          <issn>1449-4035, 1839-3373</issn>
-          <pub-id pub-id-type="doi">10.1093/polsoc/puae012</pub-id>
-          <fpage>52</fpage>
-          <lpage>69</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-krokowskiOncePromisedForever2025">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Krokowski</surname>
-              <given-names>Thorben</given-names>
-            </name>
-            <name>
-              <surname>Hirsch-Kreinsen</surname>
-              <given-names>Hartmut</given-names>
-            </name>
-          </person-group>
-          <article-title>Once promised, forever believed? An essay on the blind spots of AI promises</article-title>
-          <source>AI &amp; SOCIETY</source>
-          <year iso-8601-date="2025-11">2025</year>
-          <month>11</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-01">2025</year>
+            <year iso-8601-date="2025-12-16">2025</year>
             <month>12</month>
-            <day>01</day>
+            <day>16</day>
           </date-in-citation>
-          <issn>0951-5666, 1435-5655</issn>
-          <pub-id pub-id-type="doi">10.1007/s00146-025-02765-1</pub-id>
+          <volume>3</volume>
+          <issn>2673-4524</issn>
+          <pub-id pub-id-type="doi">10.3389/frsus.2022.1008583</pub-id>
+          <fpage>1008583</fpage>
+          <lpage/>
         </element-citation>
       </ref>
-      <ref id="ref-kwetDigitalColonialismUS2019">
+      <ref id="ref-undpHumanDevelopmentReport2025">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Kwet</surname>
-              <given-names>Michael</given-names>
+              <surname>UNDP</surname>
             </name>
           </person-group>
-          <article-title>Digital colonialism: US empire and the new imperialism in the Global South</article-title>
-          <source>Race &amp; Class</source>
-          <publisher-name>SAGE Publications Ltd</publisher-name>
-          <year iso-8601-date="2019-04">2019</year>
-          <month>04</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-          <volume>60</volume>
-          <issue>4</issue>
-          <issn>0306-3968</issn>
-          <pub-id pub-id-type="doi">10.1177/0306396818823172</pub-id>
-          <fpage>3</fpage>
-          <lpage>26</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-liMultistepJailbreakingPrivacy2023">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Li</surname>
-              <given-names>Haoran</given-names>
-            </name>
-            <name>
-              <surname>Guo</surname>
-              <given-names>Dadi</given-names>
-            </name>
-            <name>
-              <surname>Fan</surname>
-              <given-names>Wei</given-names>
-            </name>
-            <name>
-              <surname>Xu</surname>
-              <given-names>Mingshi</given-names>
-            </name>
-            <name>
-              <surname>Huang</surname>
-              <given-names>Jie</given-names>
-            </name>
-            <name>
-              <surname>Meng</surname>
-              <given-names>Fanpu</given-names>
-            </name>
-            <name>
-              <surname>Song</surname>
-              <given-names>Yangqiu</given-names>
-            </name>
-          </person-group>
-          <article-title>Multi-step Jailbreaking Privacy Attacks on ChatGPT</article-title>
-          <publisher-name>arXiv</publisher-name>
-          <year iso-8601-date="2023-11">2023</year>
-          <month>11</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-          <uri>https://arxiv.org/abs/2304.05197</uri>
-          <pub-id pub-id-type="doi">10.48550/arXiv.2304.05197</pub-id>
-        </element-citation>
-      </ref>
-      <ref id="ref-lloydBiasAmplificationArtificial2018">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Lloyd</surname>
-              <given-names>Kirsten</given-names>
-            </name>
-          </person-group>
-          <article-title>Bias Amplification in Artificial Intelligence Systems</article-title>
-          <publisher-name>arXiv</publisher-name>
-          <year iso-8601-date="2018">2018</year>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-09">2025</year>
-            <month>12</month>
-            <day>09</day>
-          </date-in-citation>
-          <pub-id pub-id-type="doi">10.48550/ARXIV.1809.07842</pub-id>
-        </element-citation>
-      </ref>
-      <ref id="ref-madianou2024technocolonialism">
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Madianou</surname>
-              <given-names>Mirca</given-names>
-            </name>
-          </person-group>
-          <source>Technocolonialism: When technology for good is harmful</source>
-          <publisher-name>John Wiley &amp; Sons</publisher-name>
-          <year iso-8601-date="2024">2024</year>
-        </element-citation>
-      </ref>
-      <ref id="ref-metaMetaAIWhatsApp">
-        <element-citation>
-          <person-group person-group-type="author">
-            <string-name>Meta</string-name>
-          </person-group>
-          <article-title>Meta AI in WhatsApp: Chat, Create &amp; Get Things Done</article-title>
-          <source>WhatsApp.com</source>
-          <publisher-name>https://www.whatsapp.com/meta-ai</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-microsoftCelebratingCompletionNew2024">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Microsoft</surname>
-            </name>
-          </person-group>
-          <article-title>Celebrating completion of a new datacenter in Busan</article-title>
-          <source>Microsoft Local</source>
-          <year iso-8601-date="2024-11">2024</year>
-          <month>11</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-microsoftIntroducingNewBing">
-        <element-citation>
-          <person-group person-group-type="author">
-            <string-name>Microsoft</string-name>
-          </person-group>
-          <article-title>Introducing the new Bing. The AI-powered assistant for your search.</article-title>
-          <publisher-name>https://www.microsoft.com/en-us/edge/features/the-new-bing</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-06">2025</year>
-            <month>11</month>
-            <day>06</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-microsoftMicrosoftDatacentersBrazil">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Microsoft</surname>
-            </name>
-          </person-group>
-          <article-title>Microsoft datacenters in Brazil</article-title>
-        </element-citation>
-      </ref>
-      <ref id="ref-onagGoogleUnveilsU00243B">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Onag</surname>
-              <given-names>Gigi</given-names>
-            </name>
-          </person-group>
-          <article-title>Google unveils $3B cloud and data center investment in Thailand and Malaysia</article-title>
-          <source>Light Reading</source>
-          <publisher-name>https://www.lightreading.com/data-centers/google-unveils-3b-cloud-and-data-center-investment-in-thailand-and-malaysia</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-08">2025</year>
-            <month>12</month>
-            <day>08</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-openaiPrivacyPolicy">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>OpenAi</surname>
-            </name>
-          </person-group>
-          <article-title>Privacy policy</article-title>
-          <publisher-name>https://openai.com/policies/row-privacy-policy/</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-perezIgnorePreviousPrompt2022">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Perez</surname>
-              <given-names>Fábio</given-names>
-            </name>
-            <name>
-              <surname>Ribeiro</surname>
-              <given-names>Ian</given-names>
-            </name>
-          </person-group>
-          <article-title>Ignore Previous Prompt: Attack Techniques For Language Models</article-title>
-          <publisher-name>arXiv</publisher-name>
-          <year iso-8601-date="2022-11">2022</year>
-          <month>11</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
-          <uri>https://arxiv.org/abs/2211.09527</uri>
-          <pub-id pub-id-type="doi">10.48550/arXiv.2211.09527</pub-id>
-        </element-citation>
-      </ref>
-      <ref id="ref-puaschunder2018dignity">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Puaschunder</surname>
-              <given-names>Julia M</given-names>
-            </name>
-          </person-group>
-          <article-title>Dignity and utility of privacy and information sharing in the digital big data age</article-title>
-          <source>International Journal of Commerce and Management Research</source>
-          <year iso-8601-date="2018">2018</year>
-          <volume>5</volume>
-          <issue>4</issue>
-          <fpage>62</fpage>
-          <lpage>70</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-thatcher2016data">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Thatcher</surname>
-              <given-names>Jim</given-names>
-            </name>
-            <name>
-              <surname>O’Sullivan</surname>
-              <given-names>David</given-names>
-            </name>
-            <name>
-              <surname>Mahmoudi</surname>
-              <given-names>Dillon</given-names>
-            </name>
-          </person-group>
-          <article-title>Data colonialism through accumulation by dispossession: New metaphors for daily data</article-title>
-          <source>Environment and Planning D: Society and Space</source>
-          <publisher-name>SAGE Publications Sage UK: London, England</publisher-name>
-          <year iso-8601-date="2016">2016</year>
-          <volume>34</volume>
-          <issue>6</issue>
-          <fpage>990</fpage>
-          <lpage>1006</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-van2012body">
-        <element-citation publication-type="chapter">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Van der Ploeg</surname>
-              <given-names>Irma</given-names>
-            </name>
-          </person-group>
-          <article-title>The body as data in the age of information</article-title>
-          <source>Routledge handbook of surveillance studies</source>
-          <publisher-name>Routledge</publisher-name>
-          <year iso-8601-date="2012">2012</year>
-          <fpage>176</fpage>
-          <lpage>183</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-walford2018if">
-        <element-citation publication-type="chapter">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Walford</surname>
-              <given-names>Antonia</given-names>
-            </name>
-          </person-group>
-          <article-title>‘If everything is information’: Archives and collecting on the frontiers of data-driven science</article-title>
-          <source>Ethnography for a data-saturated world</source>
-          <publisher-name>Manchester University Press</publisher-name>
-          <year iso-8601-date="2018">2018</year>
-          <fpage>105</fpage>
-          <lpage>127</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-west2019data">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>West</surname>
-              <given-names>Sarah Myers</given-names>
-            </name>
-          </person-group>
-          <article-title>Data capitalism: Redefining the logics of surveillance and privacy</article-title>
-          <source>Business &amp; society</source>
-          <publisher-name>SAGE Publications Sage CA: Los Angeles, CA</publisher-name>
-          <year iso-8601-date="2019">2019</year>
-          <volume>58</volume>
-          <issue>1</issue>
-          <fpage>20</fpage>
-          <lpage>41</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-xTermsServiceConsumer">
-        <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>X</surname>
-            </name>
-          </person-group>
-          <article-title>Terms of Service - Consumer  xAI</article-title>
-          <publisher-name>https://x.ai/legal/terms-of-service</publisher-name>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-11-17">2025</year>
-            <month>11</month>
-            <day>17</day>
-          </date-in-citation>
+          <article-title>Human development report 2025</article-title>
+          <source>UNDP (United Nations Development Programme)</source>
+          <publisher-loc>New York</publisher-loc>
+          <year iso-8601-date="2025">2025</year>
         </element-citation>
       </ref>
     </ref-list>
   </back>
-  <sub-article article-type="notebook" id="nb-4-nb-1">
-    <front-stub>
-      <title-group>
-        <article-title>Mapping changes in lived realities for today’s youth in
-the age of magical machines and LLM’s</article-title>
-      </title-group>
-      <contrib-group>
-        <contrib contrib-type="author" corresp="yes">
-          <name>
-            <surname>Deventer</surname>
-            <given-names>Frederik J</given-names>
-          </name>
-          <string-name>Frederik J van Deventer</string-name>
-          <role vocab="https://credit.niso.org" vocab-term="writing – original draft" vocab-term-identifier="https://credit.niso.org/contributor-roles/writing-original-draft/">writing</role>
-          <xref ref-type="aff" rid="aff-1-nb-1">a</xref>
-          <xref ref-type="corresp" rid="cor-1-nb-1">*</xref>
-        </contrib>
-      </contrib-group>
-      <aff id="aff-1-nb-1">
-        <institution-wrap>
-          <institution>HAN University of Applied Sciences</institution>
-        </institution-wrap>
-      </aff>
-      <author-notes>
-        <corresp id="cor-1-nb-1"/>
-      </author-notes>
-    </front-stub>
-    <body>
-      <sec id="introduction-nb-1">
-        <title>Introduction</title>
-        <p>New ways to use Generative Artifical Intelligence (genAI) for
-  increasing productivity [], criminal behaviour
-  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024-nb-1" ref-type="bibr">Ferrara
-  2024</xref>), berievement
-  (<xref alt="Su 2025" rid="ref-suRightRealityHuman2025-nb-1" ref-type="bibr">Su
-  2025</xref>) are coming at us fast. GenAI is rapidly reshaping how we
-  work
-  (<xref alt="Joshi 2025" rid="ref-joshi2025transformative-nb-1" ref-type="bibr">Joshi
-  2025</xref>), how we sleep [], and how learn
-  (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025-nb-1" ref-type="bibr">Perifanou
-  and Economides 2025</xref>). Life after AI comes at a tremendous
-  physical cost for our planet
-  (<xref alt="Crawford 2021" rid="ref-crawford2021atlas-nb-1" ref-type="bibr">Crawford
-  2021</xref>). The physical extraction of metals for chips, the power
-  consumption to drive the machines and then again for cooling is
-  outgrowing the planned construction of the power grid at a breakneck
-  speed
-  (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024-nb-1" ref-type="bibr">Lin
-  et al. 2024</xref>).</p>
-        <p>The impact will be most felt by people where labour and land are
-  cheap.</p>
-        <p>Worldwide the largest population group is estimated to be youth
-  between 15-25 . Rural youth in South Africa is suffering from high
-  numbers of emotinoal distress
-  (<xref alt="Mngoma et al. 2021" rid="ref-mngomaDistressDesperationDespair2021-nb-1" ref-type="bibr">Mngoma
-  et al. 2021</xref>) despite the general relation U-shape between age
-  and happiness
-  (<xref alt="Graham and Ruiz Pozuelo 2017" rid="ref-grahamHappinessStressAge2017-nb-1" ref-type="bibr">Graham
-  and Ruiz Pozuelo 2017</xref>;
-  <xref alt="Blanchflower 2021" rid="ref-blanchflowerHappinessUshapedEverywhere2021-nb-1" ref-type="bibr">Blanchflower
-  2021</xref>).</p>
-        <p>We have crossed the Rubicon and see a flourishing of creative ideas
-  (both benevolent and malevolent). With the expected rise and rise of
-  GenAI in all sectors</p>
-        <p>Urban youth lived realities are changing</p>
-      </sec>
-      <sec id="research-questions-nb-1">
-        <title>Research Questions</title>
-        <list list-type="bullet">
-          <list-item>
-            <p>What (physical) impact does GenAI have on urban youth?</p>
-          </list-item>
-        </list>
-      </sec>
-      <sec id="sub-questions-nb-1">
-        <title>Sub questions</title>
-        <list list-type="bullet">
-          <list-item>
-            <p>What physical changes does the coming of new data centers have
-      on lived realities?</p>
-          </list-item>
-          <list-item>
-            <p>What opportunities do</p>
-          </list-item>
-        </list>
-      </sec>
-    </body>
-    <back>
-      <ref-list>
-        <title>References</title>
-        <ref id="ref-blanchflowerHappinessUshapedEverywhere2021-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Blanchflower</surname>
-                <given-names>David G.</given-names>
-              </name>
-            </person-group>
-            <article-title>Is happiness U-shaped everywhere? Age and subjective well-being in 145 countries</article-title>
-            <source>Journal of Population Economics</source>
-            <year iso-8601-date="2021-04">2021</year>
-            <month>04</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-12-15">2025</year>
-              <month>12</month>
-              <day>15</day>
-            </date-in-citation>
-            <volume>34</volume>
-            <issue>2</issue>
-            <issn>1432-1475</issn>
-            <pub-id pub-id-type="doi">10.1007/s00148-020-00797-z</pub-id>
-            <fpage>575</fpage>
-            <lpage>624</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-crawford2021atlas-nb-1">
-          <element-citation publication-type="book">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Crawford</surname>
-                <given-names>Kate</given-names>
-              </name>
-            </person-group>
-            <source>The atlas of AI: Power, politics, and the planetary costs of artificial intelligence</source>
-            <publisher-name>Yale University Press</publisher-name>
-            <year iso-8601-date="2021">2021</year>
-          </element-citation>
-        </ref>
-        <ref id="ref-ferraraGenAIHumanityNefarious2024-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Ferrara</surname>
-                <given-names>Emilio</given-names>
-              </name>
-            </person-group>
-            <article-title>GenAI against humanity: Nefarious applications of generative artificial intelligence and large language models</article-title>
-            <source>Journal of Computational Social Science</source>
-            <year iso-8601-date="2024-04">2024</year>
-            <month>04</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-09-17">2025</year>
-              <month>09</month>
-              <day>17</day>
-            </date-in-citation>
-            <volume>7</volume>
-            <issue>1</issue>
-            <issn>2432-2717, 2432-2725</issn>
-            <pub-id pub-id-type="doi">10.1007/s42001-024-00250-1</pub-id>
-            <fpage>549</fpage>
-            <lpage>569</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-grahamHappinessStressAge2017-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Graham</surname>
-                <given-names>Carol</given-names>
-              </name>
-              <name>
-                <surname>Ruiz Pozuelo</surname>
-                <given-names>Julia</given-names>
-              </name>
-            </person-group>
-            <article-title>Happiness, stress, and age: How the U curve varies across people and places</article-title>
-            <source>Journal of Population Economics</source>
-            <year iso-8601-date="2017-01">2017</year>
-            <month>01</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-12-15">2025</year>
-              <month>12</month>
-              <day>15</day>
-            </date-in-citation>
-            <volume>30</volume>
-            <issue>1</issue>
-            <issn>1432-1475</issn>
-            <pub-id pub-id-type="doi">10.1007/s00148-016-0611-2</pub-id>
-            <fpage>225</fpage>
-            <lpage>264</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-joshi2025transformative-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Joshi</surname>
-                <given-names>Satyadhar</given-names>
-              </name>
-            </person-group>
-            <article-title>The transformative role of agentic GenAI in shaping workforce development and education in the US</article-title>
-            <source>Available at SSRN 5133376</source>
-            <year iso-8601-date="2025">2025</year>
-          </element-citation>
-        </ref>
-        <ref id="ref-linExplodingAIPower2024-nb-1">
-          <element-citation publication-type="paper-conference">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Lin</surname>
-                <given-names>Liuzixuan</given-names>
-              </name>
-              <name>
-                <surname>Wijayawardana</surname>
-                <given-names>Rajini</given-names>
-              </name>
-              <name>
-                <surname>Rao</surname>
-                <given-names>Varsha</given-names>
-              </name>
-              <name>
-                <surname>Nguyen</surname>
-                <given-names>Hai</given-names>
-              </name>
-              <name>
-                <surname>Gnibga</surname>
-                <given-names>Emmanuel Wedan</given-names>
-              </name>
-              <name>
-                <surname>Chien</surname>
-                <given-names>Andrew A.</given-names>
-              </name>
-            </person-group>
-            <article-title>Exploding AI Power Use: An Opportunity to Rethink Grid Planning and Management</article-title>
-            <source>The 15th ACM International Conference on Future and Sustainable Energy Systems</source>
-            <publisher-name>ACM</publisher-name>
-            <publisher-loc>Singapore Singapore</publisher-loc>
-            <year iso-8601-date="2024-06">2024</year>
-            <month>06</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-12-15">2025</year>
-              <month>12</month>
-              <day>15</day>
-            </date-in-citation>
-            <isbn>979-8-4007-0480-2</isbn>
-            <pub-id pub-id-type="doi">10.1145/3632775.3661959</pub-id>
-            <fpage>434</fpage>
-            <lpage>441</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-mngomaDistressDesperationDespair2021-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Mngoma</surname>
-                <given-names>Nomusa F.</given-names>
-              </name>
-              <name>
-                <surname>Ayonrinde</surname>
-                <given-names>Oyedeji A.</given-names>
-              </name>
-              <name>
-                <surname>Fergus</surname>
-                <given-names>Stevenson</given-names>
-              </name>
-              <name>
-                <surname>Jeeves</surname>
-                <given-names>Alan H.</given-names>
-              </name>
-              <name>
-                <surname>Jolly</surname>
-                <given-names>Rosemary J.</given-names>
-              </name>
-            </person-group>
-            <article-title>Distress, desperation and despair: Anxiety, depression and suicidality among rural South African youth</article-title>
-            <source>International Review of Psychiatry</source>
-            <year iso-8601-date="2021-02">2021</year>
-            <month>02</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-12-15">2025</year>
-              <month>12</month>
-              <day>15</day>
-            </date-in-citation>
-            <volume>33</volume>
-            <issue>1-2</issue>
-            <issn>0954-0261, 1369-1627</issn>
-            <pub-id pub-id-type="doi">10.1080/09540261.2020.1741846</pub-id>
-            <fpage>64</fpage>
-            <lpage>74</lpage>
-          </element-citation>
-        </ref>
-        <ref id="ref-perifanouCollaborativeUsesGenAI2025-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Perifanou</surname>
-                <given-names>Maria</given-names>
-              </name>
-              <name>
-                <surname>Economides</surname>
-                <given-names>Anastasios A.</given-names>
-              </name>
-            </person-group>
-            <article-title>Collaborative Uses of GenAI Tools in Project-Based Learning</article-title>
-            <source>Education Sciences</source>
-            <publisher-name>Multidisciplinary Digital Publishing Institute</publisher-name>
-            <year iso-8601-date="2025-03">2025</year>
-            <month>03</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-11-11">2025</year>
-              <month>11</month>
-              <day>11</day>
-            </date-in-citation>
-            <volume>15</volume>
-            <issue>3</issue>
-            <issn>2227-7102</issn>
-            <pub-id pub-id-type="doi">10.3390/educsci15030354</pub-id>
-            <fpage>354</fpage>
-            <lpage/>
-          </element-citation>
-        </ref>
-        <ref id="ref-suRightRealityHuman2025-nb-1">
-          <element-citation publication-type="article-journal">
-            <person-group person-group-type="author">
-              <name>
-                <surname>Su</surname>
-                <given-names>Anna</given-names>
-              </name>
-            </person-group>
-            <article-title>A Right to Reality: Human Dignity and Generative AI</article-title>
-            <source>Nordic Journal of Human Rights</source>
-            <year iso-8601-date="2025-12">2025</year>
-            <month>12</month>
-            <date-in-citation content-type="access-date">
-              <year iso-8601-date="2025-12-15">2025</year>
-              <month>12</month>
-              <day>15</day>
-            </date-in-citation>
-            <issn>1891-8131, 1891-814X</issn>
-            <pub-id pub-id-type="doi">10.1080/18918131.2025.2582990</pub-id>
-            <fpage>1</fpage>
-            <lpage>18</lpage>
-          </element-citation>
-        </ref>
-      </ref-list>
-    </back>
-  </sub-article>
 </article>

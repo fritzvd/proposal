@@ -1,5 +1,5 @@
 ---
-title: "Privacy in an age of magical machines: A cross-cultural discovery of patterns of privacy in GenAI"
+title: "Mapping changes in lived realities for today's youth "
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
@@ -7,93 +7,49 @@ authors:
     corresponding: true
 bibliography: references.bib
 # csl: slncs-alphabetical.csl
-keywords: data-capitalism, neocolonialism, genAI
+keywords: genAI, lived realities, privacy
 ---
 
+## Problem
+
+AI developments and specifically GenAI with the likes of ChatGPT have skyrocketed demand for land, power and natural resources as data centers need to expand. Digital solutions have impact in physical realities. The promise of technology is always that x will solve y in numerous cases. Nanotechnology, blockchain, big data analysis all claim the same, but we're increasingly living in a world with bigger divides between the poorest and the richest.
+
+## Gap
+
+Much research has been done on using waste heat [@tereniusMaterialSocialView2023], the impact on the environment the data centers themselves are having [], its construction phase [@nunez-moralesTrueEnvironmentalCost2025] and water use [@hoganDataFlowsWater2015], but the societal influence of reshaping of physical space is unknown. The magnitude of influence is often counterposed with the inevitable excellence this AI will propel us in. Is this justified?
+
+## Hook
+
+In this research I use the hypothesis that the way the digital advances influence physical space through the construction and maintenance of data centers and the resources it requires are bound to have a significant influence in lived realities where these data centers are being built.
+
 ## Introduction
-<!-- opbouw slecht -->
-<!-- Begin met software is eating the world. Ga door naar gevolgen van datafication. -->
-@andreessenWhySoftwareEating2011 said: "Software is eating the world", but today it might be more appropriate to say _Data_ is eating the world. There is no longer a distinction to what can and cannot be captured in data from nature [@walford2018if] to bodies [@van2012body]. This 'datafication' [@cukierRiseBigData2014], tries to capture all things into data, with data being a tradeable commodity [@defranceschiDataTradeableCommodity2015].
-Our daily lives are deeply connected with digital technology that collects the what and when on our interactions as capital [@west2019data]. The tools and distractions social media provides turns us into consumer-workers [@puaschunder2018dignity] collecting data for these companies whilst we enter into license agreements without being able to control the data we produce [@thatcher2016data] and approaching user agreements with a sense of apathy [@gomezortegaSurrenderingPowerlesnessGoverning2025].
 
-Recent developments have seen generative Artificial Intelligence (genAI) being available for the masses with Large Language Models (LLM's) having a much easier interface for non-technical users. Often signified with the moniker: AI or with magical stars (✨) it features in many applications ranging from web search to [@googleGoogleAIMode;@duckduckgoDuckaiDuckDuckGoHelp; @microsoftIntroducingNewBing] personal communication such as Outlook [@ChatCopilotOutlook] or Whatsapp [@metaMetaAIWhatsApp]. genAI is quickly becoming embedded in all sorts of business and applications [@grantham-philipsAIBecomingIngrained2024].
-Even more than in applications beforehand users are encouraged to upload documents and provide more context for the LLM to perform better.
+New ways to use Generative Artifical Intelligence (genAI) for a large scala of applications such as increasing productivity [], berievement [@suRightRealityHuman2025] and even criminal behaviour [@ferraraGenAIHumanityNefarious2024] are coming at us fast. GenAI is rapidly reshaping how we work [@joshi2025transformative], how we sleep [], and how learn [@perifanouCollaborativeUsesGenAI2025].
 
-GenAI has been lauded as tool that can help with productivity, can help out in creative industries such as writing, music, film. But there is a real darkside to it too. Besides the darkpatterns that are emerging and the plausible, but false pictures and text it can produce, there are many concerns about the energy abuse and infrastructure that is needed for it to function. The impact it is having on learning and social relations [@houAllRoadsLead2025]. Then there is the issue of bias by training and the amplification of this bias [@lloydBiasAmplificationArtificial2018]. Jailbreak prompts are a way to subvert the main goals and to misuse LLM's [@perezIgnorePreviousPrompt2022]. Which could lead to the extraction of personally identifiable information [@liMultistepJailbreakingPrivacy2023]. In older models (GPT-2) training data could be even be extracted after an attack [@carliniExtractingTrainingData2021].
+Generative Artifical Intelligence (genAI), a specific form of Artifical Intelligence harnessing the power of Large Language Models to _generate_ new output based on vast and widwes data sources, is rapidly transforming our lives. Ranging from reshaping how we work [@joshi2025transformative] and how learn [@perifanouCollaborativeUsesGenAI2025], to changing criminal behaviour [@ferraraGenAIHumanityNefarious2024] and even influencing democratization [@cupacDemocratizationAgeArtificial2024]
 
-Concerning the use of personal data, this in itself should be alarming. On top of that the terms of service for ChatGPT allow for OpenAI (the company behind the popular chat based LLM) to make use of content provided by users to improve services, and even to train models [@openaiPrivacyPolicy]. The same holds true for Anthropic (Claude) [@anthropicHowYouUse], Google (Gemini) [@googlePrivacyPolicyPrivacy] and X (Grok) [@xTermsServiceConsumer], even in areas with stricter legal restrictions such as the European GDPR.
+Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals for chips to enable the machines to run the models [], the power consumption to drive the machines and then again for cooling is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024].
+The relation we have to work and what kind of tasks can be performed and automated by machines is rapidly changing.
 
-Finally there seems to be an inherent faith and push for Big Tech companies to "spread the good news", to use religious language.
+The impact will be most felt by people where labour and land are cheap and valuable resources, such as metals, are believed to be extracted successfully.
 
-Recent news from Amazon, Microsoft and Google, the three largest companies that provide infrastructure for software around the world, mentions that they are investing in data centers in Uruguay [@googleNewDataCenter2024], Thailand and Malaysia [@onagGoogleUnveils$3B; @browneGoogleInvest$12024; @chiangMicrosoftOpenNew2024], Busan in South Korea [@microsoftCelebratingCompletionNew2024], Brazil [@microsoftMicrosoftDatacentersBrazil] and Chile [@amazonWorksAWSSouth2025; @camberoAmazonSpend$42025]. Who stands to benefit from these transactions?
+The youth of our world will have to deal with the devastation and hopefully also reap its benefits.
 
-The extracting of data and the use of AI have become a powerful tool, but at the same time data and AI "entrench power assymetries and engender new forms of structural violence and new inequities between the Global South and North" [@madianou2024technocolonialism].
-
+Worldwide the largest population group by 85% in 2050 is estimated to be youth between 15-25. This is the same group that seems optimistic about the use of and the benefits of AI [@undpHumanDevelopmentReport2025] (<--- specify with direct citation).
 <!-- 
-Low digital literacy in combination with high connectivity can be dangerous. Multiple studies have seen a combination of reasons why some people are more prone to be a victim of fraud, one of which is low digital literacy [@liDoesDigitalLiteracy2024].  -->
-<!-- 
-With new developments in artificial intelligence (AI) and more specifically generative AI (genAI) this becomes more prevalent as  -->
-<!-- 
+Rural youth in South Africa is suffering from high numbers of emotional distress [@mngomaDistressDesperationDespair2021] despite the general relation U-shape between age and happiness [@grahamHappinessStressAge2017; @blanchflowerHappinessUshapedEverywhere2021].  -->
 
-GenAI literacy research has focused on the increased digital divide [@hendawy2024intensified], learning how to succesfully create prompts [@kee2024generative], how students or teachers can use GenAI in learning [@meli2024empowering; @adarkwah2025genai] and lower barriers to learning [@roeGenAIDigitalPlastic2025]. The importance of increasing digital literacy in this respect is recognized [@shoaibDeepfakesMisinformationDisinformation2023], and proposes mixed models, like human-machine collaboration for detecting deep-fakes [@guptaEyesKnowIt2020]. -->
-
-
-In recent years this phenomenon of data extraction has been described as 'data colonialism', as an exploitative transgression for profit. [@couldryDataColonialismRethinking2019], digital colonialism [@kwetDigitalColonialismUS2019] or 'data extractivism' [@brevini2024critiques, pp 126], or in the case of African nations even a '21st century scramble for africa' [@coleman2018digital].
-
-For this research however I would like to focus on data justice as Jimenez further poses that a focus on justice instead of coloniality would require 'us to go further and actively attempt to eliminate the injustices we observed' [@brevini2024critiques, pp 133]. Instead of only looking at what that coloniality looks like and trying to prove this as 'colonial'.
-
-As @kwetDigitalColonialismUS2019 asks himself in the case of South Africa: 'are cloud centres built by Amazon, Microsoft, and Google good for the country'? Software and the push for GenAI comes with its own agenda and is not free from political or commercial agenda's [@kwetDigitalColonialismUS2019]. Abandoned experiments as part of 'AI for good' have been compared to leaving a Lamborghini in the desert.
-
-What then do we define as progress? Is it the mere evolution of technological tools? Or the more petabytes we can store? Or is it actually making a difference in peoples lives in a profound, meaningful and positive way? And does importing more corporate "Big Tech" technology increase the way of life? Or does it further enrich Global North pockets?
-
-
-<!-- Powerful technicists use a positivist lense to participate in bringing tools of "progress". not a direct quote .. but positivism [@hammersley2019positivism].
-
-Can we break out of the system from within? Can impoverished people rise above their poverty with the tools, or are they stuck within the same system -->
-
-
-<!-- Privacy literacy literature focuses on the understanding of the consequences of participating in platforms which raison d'etre is to collect data, but fails to address the sense of apathy concerning privacy that is accompanied with the signing up for a new platform.
-
-The terms of service for ChatGPT allow for OpenAI (the company behind the popular chat based LLM) to make use of content provided by users to improve services, and even to train models [@openaiPrivacyPolicy]. The same holds true for Anthropic (Claude) [@anthropicHowYouUse], Google (Gemini) [@googlePrivacyPolicyPrivacy] and X (Grok) [@xTermsServiceConsumer]. -->
 
 
 ## Research Questions
 
-What actual gains can we see in productivity when we look at the use genAI tools in the Global South and do they measure up to the costs made towards that gain?
+- How do we harness the accelerated changes GenAI is bringing to foster empowerment, freedom and increased human agency as opposed to oppression and machine driven decision-making?
 
+## Sub questions
 
-### Sub questions
+- What physical changes does the coming of new data centers have on lived realities?
+- What opportunities does this entail?
+- What 
 
-- What are the costs of using genAI?
-- What uses are there?
-- How do costs differ over different types of use?
-- _Who stands to gain?_
-
-
-
-
-## Bonus questions
-
-> Who owns the data?
-
-> What influence can AI for _Social Good_ actually have? What is 
-
-> What is the relation of power and the created social standards
-> In what way is power big tech has exterted in and misused in policies concerning data in lower income countries?
-> - Lead with examples of policies in powerful [@khanalWhyHowPower2025]
-
-> In what ways does GenAI express itself as a neocolonialist hegemonical agent?
-> - How do localized LLM's differ in bias towards policies from commercial models widely available
-
-> How is blind faith in techonological advancement towards "Singularity" influencing optimism towards creating an Artificial General Intelligence?
-> - forces of marketing and opportunities of use
-> - overpromises [@krokowskiOncePromisedForever2025]
-> - 
-
-> What local solutions can we offer for people groups who have a larger gap towards digital accessibility
-
-> - How do people use genAI cross-cultural study?
-> - What patterns exist in the solution realm?
-> - What intrinsic motvation
 
 ## References
