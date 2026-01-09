@@ -35,65 +35,21 @@ youth</article-title>
     </article-meta>
   </front>
   <body>
-    <sec id="problem">
-      <title>Problem</title>
-      <p>AI developments and specifically GenAI with the likes of ChatGPT
-  have skyrocketed demand for land, power and natural resources as data
-  centers need to expand. Digital solutions have impact in physical
-  realities. The promise of technology is always that x will solve y in
-  numerous cases. Nanotechnology, blockchain, big data analysis all
-  claim the same, but we’re increasingly living in a world with bigger
-  divides between the poorest and the richest.</p>
-    </sec>
-    <sec id="gap">
-      <title>Gap</title>
-      <p>Much research has been done on using waste heat
-  (<xref alt="Terenius, Garraghan, and Harper 2023" rid="ref-tereniusMaterialSocialView2023" ref-type="bibr">Terenius,
-  Garraghan, and Harper 2023</xref>), the impact on the environment the
-  data centers themselves are having [], its construction phase
-  (<xref alt="Núñez-Morales, Jung, and Golparvar-Fard 2025" rid="ref-nunez-moralesTrueEnvironmentalCost2025" ref-type="bibr">Núñez-Morales,
-  Jung, and Golparvar-Fard 2025</xref>) and water use
-  (<xref alt="Hogan 2015" rid="ref-hoganDataFlowsWater2015" ref-type="bibr">Hogan
-  2015</xref>), but the societal influence of reshaping of physical
-  space is unknown. The magnitude of influence is often counterposed
-  with the inevitable excellence this AI will propel us in. Is this
-  justified?</p>
-    </sec>
-    <sec id="hook">
-      <title>Hook</title>
-      <p>In this research I use the hypothesis that the way the digital
-  advances influence physical space through the construction and
-  maintenance of data centers and the resources it requires are bound to
-  have a significant influence in lived realities where these data
-  centers are being built.</p>
-    </sec>
     <sec id="introduction">
       <title>Introduction</title>
-      <p>New ways to use Generative Artifical Intelligence (genAI) for a
-  large scala of applications such as increasing productivity [],
-  berievement
-  (<xref alt="Su 2025" rid="ref-suRightRealityHuman2025" ref-type="bibr">Su
-  2025</xref>) and even criminal behaviour
-  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
-  2024</xref>) are coming at us fast. GenAI is rapidly reshaping how we
-  work
-  (<xref alt="Joshi 2025" rid="ref-joshi2025transformative" ref-type="bibr">Joshi
-  2025</xref>), how we sleep [], and how learn
-  (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025" ref-type="bibr">Perifanou
-  and Economides 2025</xref>).</p>
       <p>Generative Artifical Intelligence (genAI), a specific form of
   Artifical Intelligence harnessing the power of Large Language Models
-  to <italic>generate</italic> new output based on vast and widwes data
-  sources, is rapidly transforming our lives. Ranging from reshaping how
-  we work
+  to <italic>generate</italic> new output based on vast and widely
+  generalized data sources, is rapidly transforming our lives. Ranging
+  from reshaping how we work
   (<xref alt="Joshi 2025" rid="ref-joshi2025transformative" ref-type="bibr">Joshi
-  2025</xref>) and how learn
+  2025</xref>) and how we learn
   (<xref alt="Perifanou and Economides 2025" rid="ref-perifanouCollaborativeUsesGenAI2025" ref-type="bibr">Perifanou
   and Economides 2025</xref>), to changing criminal behaviour
   (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
   2024</xref>) and even influencing democratization
   (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
-  Schopmans, and Tuncer-Ebetürk 2024</xref>)</p>
+  Schopmans, and Tuncer-Ebetürk 2024</xref>).</p>
       <p>Life in the age of genAI however, comes at a tremendous physical
   cost for our planet
   (<xref alt="Crawford 2021" rid="ref-crawford2021atlas" ref-type="bibr">Crawford
@@ -102,19 +58,49 @@ youth</article-title>
   machines and then again for cooling is outgrowing the planned
   construction of the power grid at a breakneck speed
   (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
-  et al. 2024</xref>). The relation we have to work and what kind of
-  tasks can be performed and automated by machines is rapidly
-  changing.</p>
-      <p>The impact will be most felt by people where labour and land are
-  cheap and valuable resources, such as metals, are believed to be
-  extracted successfully.</p>
-      <p>The youth of our world will have to deal with the devastation and
-  hopefully also reap its benefits.</p>
-      <p>Worldwide the largest population group by 85% in 2050 is estimated
-  to be youth between 15-25. This is the same group that seems
-  optimistic about the use of and the benefits of AI
-  (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
-  2025</xref>) (&lt;— specify with direct citation). </p>
+  et al. 2024</xref>), outpacing policy and lawmakers.</p>
+      <p>As with all transformative technologies there is firstly a real
+  oppurtunity, in the increased productivity and the access to tools .
+  Secondly a real threat, in the form of misinformation, criminal
+  activity,
+  (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
+  2024</xref>) and the undermining of autonomy
+  (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
+  Schopmans, and Tuncer-Ebetürk 2024</xref>). Thirdly a challenge for
+  the use of resources and electricity that needs new solutions at
+  scale.</p>
+      <p>Technology is not a neutral phenomenon with inherently positive
+  outcomes.</p>
+      <sec id="gap">
+        <title>Gap</title>
+        <p>We do not know how AI will reshape the future of our human
+    development, but there are some guesses we can make and historical
+    lessons we can take into account. In all the major jumps in
+    technological advancement that brought about societal change: steam
+    engine, electricity, communications, digital communication and now
+    the more broadly available statistical models that “converse” with
+    us through chat like ChatGPT, we have seen that regulation and
+    policy fueled by ideology has been the driver for the direction this
+    advancement would take us
+    (<xref alt="Johnson and Acemoglu 2023, 57" rid="ref-johnsonPowerProgressOur2023" ref-type="bibr">Johnson
+    and Acemoglu 2023, 57</xref>).</p>
+        <p>Much of the research regarding AI has been focussing on improving
+    models [], effects for legislation [], impact on education [], but
+    not increasing agency and freedom what the UNDP describes as
+    indicative of improving human development
+    (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
+    2025</xref>).</p>
+        <p>What is lacking then from scientific discourse is a systematic
+    analysis of the factors that have been able to increase agency and
+    in different areas like education, the work place, and at home.</p>
+      </sec>
+      <sec id="hook">
+        <title>Hook</title>
+        <p>The ideological belief that when the models become better our
+    planet will become better are baseless and naive. We need to figure
+    out ways where this powerful technology can become a force with
+    guidance to a better world.</p>
+      </sec>
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
@@ -130,14 +116,15 @@ youth</article-title>
       <title>Sub questions</title>
       <list list-type="bullet">
         <list-item>
-          <p>What physical changes does the coming of new data centers have
-      on lived realities?</p>
+          <p>What challenges arise when deploying GenAI at world scale?</p>
         </list-item>
         <list-item>
-          <p>What opportunities does this entail?</p>
+          <p>What policies and laws have been instrumental in steering
+      technologically driven societal transformation in the past and
+      where has it failed?</p>
         </list-item>
         <list-item>
-          <p>What</p>
+          <p>What opportunities are still open?</p>
         </list-item>
       </list>
     </sec>
@@ -217,30 +204,23 @@ youth</article-title>
           <lpage>569</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-hoganDataFlowsWater2015">
-        <element-citation publication-type="article-journal">
+      <ref id="ref-johnsonPowerProgressOur2023">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
-              <surname>Hogan</surname>
-              <given-names>Mél</given-names>
+              <surname>Johnson</surname>
+              <given-names>Simon</given-names>
+            </name>
+            <name>
+              <surname>Acemoglu</surname>
+              <given-names>Daron</given-names>
             </name>
           </person-group>
-          <article-title>Data flows and water woes: The Utah Data Center</article-title>
-          <source>Big Data &amp; Society</source>
-          <publisher-name>SAGE Publications Ltd</publisher-name>
-          <year iso-8601-date="2015-12">2015</year>
-          <month>12</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-16">2025</year>
-            <month>12</month>
-            <day>16</day>
-          </date-in-citation>
-          <volume>2</volume>
-          <issue>2</issue>
-          <issn>2053-9517</issn>
-          <pub-id pub-id-type="doi">10.1177/2053951715592429</pub-id>
-          <fpage>2053951715592429</fpage>
-          <lpage/>
+          <source>Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity</source>
+          <publisher-name>Hachette UK</publisher-name>
+          <year iso-8601-date="2023-05">2023</year>
+          <month>05</month>
+          <isbn>978-1-3998-0448-6</isbn>
         </element-citation>
       </ref>
       <ref id="ref-joshi2025transformative">
@@ -301,26 +281,6 @@ youth</article-title>
           <lpage>441</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-nunez-moralesTrueEnvironmentalCost2025">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Núñez-Morales</surname>
-              <given-names>Juan D</given-names>
-            </name>
-            <name>
-              <surname>Jung</surname>
-              <given-names>Yoonhwa</given-names>
-            </name>
-            <name>
-              <surname>Golparvar-Fard</surname>
-              <given-names>Mani</given-names>
-            </name>
-          </person-group>
-          <article-title>The True Environmental Cost of Data Centers: An Insight into the Construction Phase of the Era of Artificial Intelligence</article-title>
-          <year iso-8601-date="2025">2025</year>
-        </element-citation>
-      </ref>
       <ref id="ref-perifanouCollaborativeUsesGenAI2025">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
@@ -348,61 +308,6 @@ youth</article-title>
           <issn>2227-7102</issn>
           <pub-id pub-id-type="doi">10.3390/educsci15030354</pub-id>
           <fpage>354</fpage>
-          <lpage/>
-        </element-citation>
-      </ref>
-      <ref id="ref-suRightRealityHuman2025">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Su</surname>
-              <given-names>Anna</given-names>
-            </name>
-          </person-group>
-          <article-title>A Right to Reality: Human Dignity and Generative AI</article-title>
-          <source>Nordic Journal of Human Rights</source>
-          <year iso-8601-date="2025-12">2025</year>
-          <month>12</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-15">2025</year>
-            <month>12</month>
-            <day>15</day>
-          </date-in-citation>
-          <issn>1891-8131, 1891-814X</issn>
-          <pub-id pub-id-type="doi">10.1080/18918131.2025.2582990</pub-id>
-          <fpage>1</fpage>
-          <lpage>18</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-tereniusMaterialSocialView2023">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Terenius</surname>
-              <given-names>Petter</given-names>
-            </name>
-            <name>
-              <surname>Garraghan</surname>
-              <given-names>Peter</given-names>
-            </name>
-            <name>
-              <surname>Harper</surname>
-              <given-names>Richard</given-names>
-            </name>
-          </person-group>
-          <article-title>A material social view on data center waste heat: Novel uses and metrics</article-title>
-          <source>Frontiers in Sustainability</source>
-          <year iso-8601-date="2023-01">2023</year>
-          <month>01</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2025-12-16">2025</year>
-            <month>12</month>
-            <day>16</day>
-          </date-in-citation>
-          <volume>3</volume>
-          <issn>2673-4524</issn>
-          <pub-id pub-id-type="doi">10.3389/frsus.2022.1008583</pub-id>
-          <fpage>1008583</fpage>
           <lpage/>
         </element-citation>
       </ref>
