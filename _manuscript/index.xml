@@ -53,10 +53,14 @@ youth</article-title>
       <p>Life in the age of genAI however, comes at a tremendous physical
   cost for our planet
   (<xref alt="Crawford 2021" rid="ref-crawford2021atlas" ref-type="bibr">Crawford
-  2021</xref>). The physical extraction of metals for chips to enable
-  the machines to run the models [], the power consumption to drive the
-  machines and then again for cooling is outgrowing the planned
-  construction of the power grid at a breakneck speed
+  2021</xref>). The physical extraction of metals (e.g. lithium, coltan)
+  for chips to enable the machines to run the models
+  (<xref alt="Yang et al. 2024" rid="ref-yangLithiumPollutionIts2024" ref-type="bibr">Yang
+  et al. 2024</xref>), the power consumption to drive the machines and
+  then again for cooling Hotkar
+  (<xref alt="n.d." rid="ref-hotkarWhyCoolingCosts" ref-type="bibr">n.d.</xref>)
+  is outgrowing the planned construction of the power grid at a
+  breakneck speed
   (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
   et al. 2024</xref>), outpacing policy and lawmakers.</p>
       <p>As with all transformative technologies there is firstly a real
@@ -69,8 +73,8 @@ youth</article-title>
   Schopmans, and Tuncer-Ebetürk 2024</xref>). Thirdly a challenge for
   the use of resources and electricity that needs new solutions at
   scale.</p>
-      <p>Technology is not a neutral phenomenon with inherently positive
-  outcomes.</p>
+      <p>Technology is not just a neutral phenomenon with inherently
+  positive outcomes.</p>
       <sec id="gap">
         <title>Gap</title>
         <p>We do not know how AI will reshape the future of our human
@@ -91,15 +95,16 @@ youth</article-title>
     (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
     2025</xref>).</p>
         <p>What is lacking then from scientific discourse is a systematic
-    analysis of the factors that have been able to increase agency and
-    in different areas like education, the work place, and at home.</p>
+    analysis of cases where GenAI (or AI in general) has had a positive
+    impact on agency and human freedom to distill which factors are
+    crucial for bringing about such change.</p>
       </sec>
       <sec id="hook">
         <title>Hook</title>
-        <p>The ideological belief that when the models become better our
-    planet will become better are baseless and naive. We need to figure
-    out ways where this powerful technology can become a force with
-    guidance to a better world.</p>
+        <p>The belief that when technology improves our planet will become
+    better are baseless and naive. We need to figure out ways where this
+    powerful technology can become a force with guidance to a better
+    world.</p>
       </sec>
     </sec>
     <sec id="research-questions">
@@ -202,6 +207,23 @@ youth</article-title>
           <pub-id pub-id-type="doi">10.1007/s42001-024-00250-1</pub-id>
           <fpage>549</fpage>
           <lpage>569</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-hotkarWhyCoolingCosts">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hotkar</surname>
+              <given-names>Pranav</given-names>
+            </name>
+          </person-group>
+          <article-title>Why Cooling Costs Are the New Bottleneck in AI Data Centers</article-title>
+          <publisher-name>https://dcpulse.com/article/enterprise-data-center-cooling-cost-ratio-ai</publisher-name>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-01-12">2026</year>
+            <month>01</month>
+            <day>12</day>
+          </date-in-citation>
         </element-citation>
       </ref>
       <ref id="ref-johnsonPowerProgressOur2023">
@@ -322,6 +344,91 @@ youth</article-title>
           <source>UNDP (United Nations Development Programme)</source>
           <publisher-loc>New York</publisher-loc>
           <year iso-8601-date="2025">2025</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-wilsonDataCenterRack2025">
+        <element-citation>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wilson</surname>
+              <given-names>Michael</given-names>
+            </name>
+          </person-group>
+          <article-title>Data Center Rack Power Costs: A Condensed Analysis</article-title>
+          <source>Nlyte</source>
+          <year iso-8601-date="2025-06">2025</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-01-12">2026</year>
+            <month>01</month>
+            <day>12</day>
+          </date-in-citation>
+        </element-citation>
+      </ref>
+      <ref id="ref-yangLithiumPollutionIts2024">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yang</surname>
+              <given-names>Xuezhi</given-names>
+            </name>
+            <name>
+              <surname>Wen</surname>
+              <given-names>Haonan</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Yin</given-names>
+            </name>
+            <name>
+              <surname>Huang</surname>
+              <given-names>Ying</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Qun</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Weichao</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>Haiyan</given-names>
+            </name>
+            <name>
+              <surname>Fu</surname>
+              <given-names>Jianjie</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Gang</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>Qian</given-names>
+            </name>
+            <name>
+              <surname>Jiang</surname>
+              <given-names>Guibin</given-names>
+            </name>
+          </person-group>
+          <article-title>Lithium Pollution and Its Associated Health Risks in the Largest Lithium Extraction Industrial Area in China</article-title>
+          <source>Environmental Science &amp; Technology</source>
+          <publisher-name>American Chemical Society</publisher-name>
+          <year iso-8601-date="2024-07">2024</year>
+          <month>07</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-01-12">2026</year>
+            <month>01</month>
+            <day>12</day>
+          </date-in-citation>
+          <volume>58</volume>
+          <issue>26</issue>
+          <issn>0013-936X</issn>
+          <pub-id pub-id-type="doi">10.1021/acs.est.4c00225</pub-id>
+          <fpage>11637</fpage>
+          <lpage>11648</lpage>
         </element-citation>
       </ref>
     </ref-list>

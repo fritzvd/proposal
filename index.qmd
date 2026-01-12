@@ -26,11 +26,11 @@ In this research I use the hypothesis that the way the digital advances influenc
 
 Generative Artifical Intelligence (genAI), a specific form of Artifical Intelligence harnessing the power of Large Language Models to _generate_ new output based on vast and widely generalized data sources, is rapidly transforming our lives. Ranging from reshaping how we work [@joshi2025transformative] and how we learn [@perifanouCollaborativeUsesGenAI2025], to changing criminal behaviour [@ferraraGenAIHumanityNefarious2024] and even influencing democratization [@cupacDemocratizationAgeArtificial2024].
 
-Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals for chips to enable the machines to run the models [], the power consumption to drive the machines and then again for cooling is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024], outpacing policy and lawmakers.
+Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals (e.g. lithium, coltan) for chips to enable the machines to run the models [@yangLithiumPollutionIts2024], the power consumption to drive the machines and then again for cooling [@wilsonDataCenterRack2025, @hotkarWhyCoolingCosts] is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024], outpacing policy and lawmakers.
 
 As with all transformative technologies there is firstly a real oppurtunity, in the increased productivity and the access to tools . Secondly a real threat, in the form of misinformation, criminal activity, [@ferraraGenAIHumanityNefarious2024] and the undermining of autonomy [@cupacDemocratizationAgeArtificial2024]. Thirdly a challenge for the use of resources and electricity that needs new solutions at scale.
 
-Technology is not a neutral phenomenon with inherently positive outcomes.
+Technology is not just a neutral phenomenon with inherently positive outcomes.
 
 ### Gap
 
@@ -38,16 +38,11 @@ We do not know how AI will reshape the future of our human development, but ther
 
 Much of the research regarding AI has been focussing on improving models [], effects for legislation [], impact on education [], but not increasing agency and freedom what the UNDP describes as indicative of improving human development [@undpHumanDevelopmentReport2025].
 
-What is lacking then from scientific discourse is a systematic analysis of the factors that have been able to increase agency and in different areas like education, the work place, and at home.
-
-<!-- In 1965 @theobaldFreeMenFree1965 already reacted to a scare for the changes automation would bring -->
-
+What is lacking then from scientific discourse is a systematic analysis of cases where GenAI (or AI in general) has had a positive impact on agency and human freedom to distill which factors are crucial for bringing about such change.
+ 
 ### Hook
 
-The ideological belief that when the models become better our planet will become better are baseless and naive. We need to figure out ways where this powerful technology can become a force with guidance to a better world.
-
-<!-- 
-Rural youth in South Africa is suffering from high numbers of emotional distress [@mngomaDistressDesperationDespair2021] despite the general relation U-shape between age and happiness [@grahamHappinessStressAge2017; @blanchflowerHappinessUshapedEverywhere2021].  -->
+The belief that when technology improves our planet will become better are baseless and naive. We need to figure out ways where this powerful technology can become a force with guidance to a better world.
 
 
 
