@@ -1,5 +1,5 @@
 ---
-title: "Mapping changes in lived realities for today's youth "
+title: "Ideology as driver of purpose for technology: a case for GenAI"
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
