@@ -5,8 +5,8 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
   <front>
     <article-meta>
       <title-group>
-        <article-title>Ideology as driver of purpose for technology: a case for
-GenAI</article-title>
+        <article-title>Avoiding the Turing Trap in an age of GenAI for increased
+human agency and freedom</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author" corresp="yes">
@@ -30,7 +30,7 @@ GenAI</article-title>
       </author-notes>
       <history/>
       <kwd-group kwd-group-type="author">
-        <kwd>genAI, lived realities, privacy</kwd>
+        <kwd>genAI, human agency, turing trap</kwd>
       </kwd-group>
     </article-meta>
   </front>

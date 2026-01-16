@@ -16,6 +16,7 @@ Drexler en Kurzweil
 - Mist opbouw. Ga kiezen. Kritisch, waarom global south? Wat is de waarde-relatie.
 
 
+SARAVANAMUTHU - IT politically intrusive role
 
 ```{ojs}
 //| title: revenue for AI companies
