@@ -1,0 +1,48 @@
+---
+bibliography: ../references.bib
+---
+
+- supposed rationality is exercise of control [@habermas1971technology]
+- exposing the "rationality" as dogmatism
+
+Tijdens meeting:
+
+Harm van Lente - beloftes van nieuwe technologie
+
+- belofte van technologie
+
+Drexler en Kurzweil
+
+- Mist opbouw. Ga kiezen. Kritisch, waarom global south? Wat is de waarde-relatie.
+
+
+
+```{ojs}
+//| title: revenue for AI companies
+
+// import { vl } from "@vega/vega-lite-api"
+// vl.lineY()                        // line graph
+//   .data(revenue)                          // Using the cars data (below)
+//   .encode(
+//     vl.x().fieldQ("Date"),       // For x, use the Horsepower field
+//     vl.y().fieldQ("Revenue amount (normalize to annual)"), // For y, use the Miles_per_Gallon field
+//     vl.tooltip().fieldN("Company")        // For tooltips, show the Name field
+//   )
+//   .render() 
+revenue = FileAttachment("./ai_companies/ai_companies_revenue_reports.csv").csv()
+
+// Plot.lineY(revenue, {x:"Date", y: "Revenue amount (normalize to annual)"}).plot({y: {grid:true}})
+Plot.plot({
+  y: {
+    grid: true,
+    label: "↑ Price (%)"
+  },
+  marks: [
+    Plot.ruleY([0]),
+    Plot.lineY(revenue, {x: "Date", y: (d) => d.Date.getUTCMonth() < 3 ? NaN : d["Annualized revenue (USD)"]})
+  ]
+})
+"Annualized revenue (USD)"
+
+  // Inputs.table(cars, {width: 660})
+```

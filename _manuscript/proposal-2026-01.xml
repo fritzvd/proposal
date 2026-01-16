@@ -37,9 +37,18 @@ GenAI</article-title>
   <body>
     <sec id="introduction">
       <title>Introduction</title>
-      <p>Generative Artifical Intelligence (genAI), a specific form of
-  Artifical Intelligence harnessing the power of Large Language Models
-  to <italic>generate</italic> new output based on vast and widely
+      <p>Technological advances that herald and drive societal changes over
+  the last 12,000 years have only benefited ordinary people when
+  “landowning and religious elites were not dominant enough to impose
+  their vision and extract all the surplus from the technologies”
+  (<xref alt="Johnson and Acemoglu 2023, 78" rid="ref-johnsonPowerProgressOur2023" ref-type="bibr">Johnson
+  and Acemoglu 2023, 78</xref>).</p>
+      <p>We are again on the precipice of a big transformation for our
+  society with the wide adoption of Artificial Intelligence in all kinds
+  of sectors and embedded in all kinds of software. Generative
+  Artificial Intelligence (genAI), a specific form of Artificial
+  Intelligence harnessing the power of Large Language Models to
+  <italic>generate</italic> new output based on vast and widely
   generalized data sources, is rapidly transforming our lives. Ranging
   from reshaping how we work
   (<xref alt="Joshi 2025" rid="ref-joshi2025transformative" ref-type="bibr">Joshi
@@ -58,13 +67,13 @@ GenAI</article-title>
   (<xref alt="Yang et al. 2024" rid="ref-yangLithiumPollutionIts2024" ref-type="bibr">Yang
   et al. 2024</xref>), the power consumption to drive the machines and
   then again for cooling Hotkar
-  (<xref alt="n.d." rid="ref-hotkarWhyCoolingCosts" ref-type="bibr">n.d.</xref>)
+  (<xref alt="2025" rid="ref-hotkarWhyCoolingCosts2025" ref-type="bibr">2025</xref>)
   is outgrowing the planned construction of the power grid at a
   breakneck speed
   (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
   et al. 2024</xref>), outpacing policy and lawmakers.</p>
       <p>As with all transformative technologies there is firstly a real
-  oppurtunity, in the increased productivity and the access to tools .
+  opportunity, in the increased productivity and the access to tools.
   Secondly a real threat, in the form of misinformation, criminal
   activity,
   (<xref alt="Ferrara 2024" rid="ref-ferraraGenAIHumanityNefarious2024" ref-type="bibr">Ferrara
@@ -74,7 +83,8 @@ GenAI</article-title>
   the use of resources and electricity that needs new solutions at
   scale.</p>
       <p>Technology is not just a neutral phenomenon with inherently
-  positive outcomes.</p>
+  positive outcomes and there is a great need for finding solutions that
+  benefit us all.</p>
       <sec id="gap">
         <title>Gap</title>
         <p>We do not know how AI will reshape the future of our human
@@ -84,14 +94,19 @@ GenAI</article-title>
     engine, electricity, communications, digital communication and now
     the more broadly available statistical models that “converse” with
     us through chat like ChatGPT, we have seen that regulation and
-    policy fueled by ideology has been the driver for the direction this
-    advancement would take us
+    policy fueled by ideology (both benefiting the few or the many) has
+    been the driver for the direction this advancement would take us
     (<xref alt="Johnson and Acemoglu 2023, 57" rid="ref-johnsonPowerProgressOur2023" ref-type="bibr">Johnson
     and Acemoglu 2023, 57</xref>).</p>
-        <p>Much of the research regarding AI has been focussing on improving
-    models [], effects for legislation [], impact on education [], but
-    not increasing agency and freedom what the UNDP describes as
-    indicative of improving human development
+        <p>In the course of history human development has been argued to
+    increase where agency and liberty increase
+    (<xref alt="Prados de la Escosura 2022" rid="ref-PradosdelaEscosura_2022" ref-type="bibr">Prados
+    de la Escosura 2022</xref>;
+    <xref alt="Sen 1999" rid="ref-senDevelopmentFreedom1999" ref-type="bibr">Sen
+    1999</xref>). Much of the research regarding AI has been focussing
+    on improving models [], effects for legislation [], impact on
+    education [], but not increasing agency and freedom which the UNDP
+    describes as indicative of improving human development
     (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
     2025</xref>).</p>
         <p>What is lacking then from scientific discourse is a systematic
@@ -101,19 +116,21 @@ GenAI</article-title>
       </sec>
       <sec id="hook">
         <title>Hook</title>
-        <p>The belief that when technology improves our planet will become
-    better are baseless and naive. We need to figure out ways where this
-    powerful technology can become a force with guidance to a better
-    world.</p>
+        <p>We need to figure a way out of what Brynjolfsson
+    (<xref alt="2022" rid="ref-brynjolfssonTuringTrapPromise2022" ref-type="bibr">2022</xref>)
+    calls the “Turing Trap” where technological and economic power
+    create a concentration of political power and find solutions,
+    patterns, systems, beyond policy where the benefits of
+    transformational technology like GenAI are available to
+    everyone.</p>
       </sec>
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
       <list list-type="bullet">
         <list-item>
-          <p>How do we harness the accelerated changes GenAI is bringing to
-      foster empowerment, freedom and increased human agency as opposed
-      to oppression and machine driven decision-making?</p>
+          <p>What lessons can we draw from existing of pattterns using GenAI
+      that enable meaningfully increased human agency?</p>
         </list-item>
       </list>
     </sec>
@@ -121,7 +138,9 @@ GenAI</article-title>
       <title>Sub questions</title>
       <list list-type="bullet">
         <list-item>
-          <p>What challenges arise when deploying GenAI at world scale?</p>
+          <p>How do we measure increased human agency and liberty?
+      (<xref alt="Prados de la Escosura 2022, 25" rid="ref-PradosdelaEscosura_2022" ref-type="bibr">Prados
+      de la Escosura 2022, 25</xref>).</p>
         </list-item>
         <list-item>
           <p>What policies and laws have been instrumental in steering
@@ -129,7 +148,8 @@ GenAI</article-title>
       where has it failed?</p>
         </list-item>
         <list-item>
-          <p>What opportunities are still open?</p>
+          <p>Which uses of GenAI defy policy or lack of liberty and
+      empowered people?</p>
         </list-item>
       </list>
     </sec>
@@ -137,6 +157,31 @@ GenAI</article-title>
   <back>
     <ref-list>
       <title>References</title>
+      <ref id="ref-brynjolfssonTuringTrapPromise2022">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brynjolfsson</surname>
+              <given-names>Erik</given-names>
+            </name>
+          </person-group>
+          <article-title>The Turing Trap: The Promise &amp; Peril of Human-Like Artificial Intelligence</article-title>
+          <source>Daedalus</source>
+          <year iso-8601-date="2022-05">2022</year>
+          <month>05</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-01-16">2026</year>
+            <month>01</month>
+            <day>16</day>
+          </date-in-citation>
+          <volume>151</volume>
+          <issue>2</issue>
+          <issn>0011-5266, 1548-6192</issn>
+          <pub-id pub-id-type="doi">10.1162/daed_a_01915</pub-id>
+          <fpage>272</fpage>
+          <lpage>287</lpage>
+        </element-citation>
+      </ref>
       <ref id="ref-crawford2021atlas">
         <element-citation publication-type="book">
           <person-group person-group-type="author">
@@ -209,7 +254,7 @@ GenAI</article-title>
           <lpage>569</lpage>
         </element-citation>
       </ref>
-      <ref id="ref-hotkarWhyCoolingCosts">
+      <ref id="ref-hotkarWhyCoolingCosts2025">
         <element-citation>
           <person-group person-group-type="author">
             <name>
@@ -219,6 +264,8 @@ GenAI</article-title>
           </person-group>
           <article-title>Why Cooling Costs Are the New Bottleneck in AI Data Centers</article-title>
           <publisher-name>https://dcpulse.com/article/enterprise-data-center-cooling-cost-ratio-ai</publisher-name>
+          <year iso-8601-date="2025-06">2025</year>
+          <month>06</month>
           <date-in-citation content-type="access-date">
             <year iso-8601-date="2026-01-12">2026</year>
             <month>01</month>
@@ -331,6 +378,33 @@ GenAI</article-title>
           <pub-id pub-id-type="doi">10.3390/educsci15030354</pub-id>
           <fpage>354</fpage>
           <lpage/>
+        </element-citation>
+      </ref>
+      <ref id="ref-PradosdelaEscosura_2022">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Prados de la Escosura</surname>
+              <given-names>Leandro</given-names>
+            </name>
+          </person-group>
+          <source>Human development and the path to freedom: 1870 to the present</source>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <publisher-loc>Cambridge</publisher-loc>
+          <year iso-8601-date="2022">2022</year>
+        </element-citation>
+      </ref>
+      <ref id="ref-senDevelopmentFreedom1999">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sen</surname>
+              <given-names>Amartya</given-names>
+            </name>
+          </person-group>
+          <source>Development as Freedom</source>
+          <publisher-name>Oxford University Press</publisher-name>
+          <year iso-8601-date="1999">1999</year>
         </element-citation>
       </ref>
       <ref id="ref-undpHumanDevelopmentReport2025">

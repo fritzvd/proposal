@@ -2,7 +2,7 @@ project:
   type: manuscript
 
 manuscript:
-  article: index.qmd
+  article: proposal-2026-01.qmd
 
 preview-mode: raw
 
