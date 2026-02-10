@@ -47,3 +47,6 @@ Plot.plot({
 
   // Inputs.table(cars, {width: 660})
 ```
+
+
+###

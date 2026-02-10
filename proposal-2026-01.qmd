@@ -17,17 +17,17 @@ Technological advances that herald and drive societal changes over the last 12,0
 
 We are again on the precipice of a big transformation for our society with the wide adoption of Artificial Intelligence in all kinds of sectors and embedded in all kinds of software. Generative Artificial Intelligence (genAI), a specific form of Artificial Intelligence harnessing the power of Large Language Models to _generate_ new output based on vast and widely generalized data sources, is rapidly transforming our lives. Ranging from reshaping how we work [@joshi2025transformative] and how we learn [@perifanouCollaborativeUsesGenAI2025], to changing criminal behaviour [@ferraraGenAIHumanityNefarious2024] and even influencing democratization [@cupacDemocratizationAgeArtificial2024].
 
-Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals (e.g. lithium, coltan) for chips to enable the machines to run the models [@yangLithiumPollutionIts2024], the power consumption to drive the machines and then again for cooling [@wilsonDataCenterRack2025, @hotkarWhyCoolingCosts2025] is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024], outpacing policy and lawmakers.
+<!-- Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals (e.g. lithium, coltan) for chips to enable the machines to run the models [@yangLithiumPollutionIts2024], the power consumption to drive the machines and then again for cooling [@wilsonDataCenterRack2025, @hotkarWhyCoolingCosts2025] is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024], outpacing policy and lawmakers. -->
 
-As with all transformative technologies there is firstly a real opportunity, in the increased productivity and the access to tools. Secondly a real threat, in the form of misinformation, criminal activity, [@ferraraGenAIHumanityNefarious2024] and the undermining of autonomy [@cupacDemocratizationAgeArtificial2024]. Thirdly a challenge for the use of resources and electricity that needs new solutions at scale.
+As with all transformative technologies there is however a real opportunity, in the increased productivity and the access to tools. Secondly a real threat, in the form of misinformation, criminal activity, [@ferraraGenAIHumanityNefarious2024] and the undermining of autonomy [@cupacDemocratizationAgeArtificial2024]. Thirdly a challenge for the use of resources and electricity [@wilsonDataCenterRack2025, @hotkarWhyCoolingCosts2025, @linExplodingAIPower2024] that needs new solutions at scale.
 
-Technology is not just a neutral phenomenon with inherently positive outcomes and there is a great need for finding solutions that benefit us all.
+Technology is not merely a neutral phenomenon with inherently positive outcomes and there is a great need for finding solutions that benefit us all.
 
 ### Gap
 
 We do not know how AI will reshape the future of our human development, but there are some guesses we can make and historical lessons we can take into account. In all the major jumps in technological advancement that brought about societal change: steam engine, electricity, communications, digital communication and now the more broadly available statistical models that "converse" with us through chat like ChatGPT, we have seen that regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57].
 
-In the course of history human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. 
+In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. 
 Much of the research regarding AI has been focussing on improving models [], effects for legislation [], impact on education [], but not increasing agency and freedom which the UNDP describes as indicative of improving human development [@undpHumanDevelopmentReport2025].
 
 What is lacking then from scientific discourse is a systematic analysis of cases where GenAI (or AI in general) has had a positive impact on agency and human freedom to distill which factors are crucial for bringing about such change.
@@ -38,7 +38,7 @@ We need to figure a way out of what @brynjolfssonTuringTrapPromise2022 calls the
 
 ## Research Questions
 
-- What lessons can we draw from existing of pattterns using GenAI that enable meaningfully increased human agency?
+- What lessons can we draw from existing of patterns using GenAI that enable meaningfully increased human agency?
 
 ## Sub questions
 

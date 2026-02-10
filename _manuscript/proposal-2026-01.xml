@@ -59,20 +59,7 @@ human agency and freedom</article-title>
   2024</xref>) and even influencing democratization
   (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
   Schopmans, and Tuncer-Ebetürk 2024</xref>).</p>
-      <p>Life in the age of genAI however, comes at a tremendous physical
-  cost for our planet
-  (<xref alt="Crawford 2021" rid="ref-crawford2021atlas" ref-type="bibr">Crawford
-  2021</xref>). The physical extraction of metals (e.g. lithium, coltan)
-  for chips to enable the machines to run the models
-  (<xref alt="Yang et al. 2024" rid="ref-yangLithiumPollutionIts2024" ref-type="bibr">Yang
-  et al. 2024</xref>), the power consumption to drive the machines and
-  then again for cooling Hotkar
-  (<xref alt="2025" rid="ref-hotkarWhyCoolingCosts2025" ref-type="bibr">2025</xref>)
-  is outgrowing the planned construction of the power grid at a
-  breakneck speed
-  (<xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
-  et al. 2024</xref>), outpacing policy and lawmakers.</p>
-      <p>As with all transformative technologies there is firstly a real
+      <p>As with all transformative technologies there is however a real
   opportunity, in the increased productivity and the access to tools.
   Secondly a real threat, in the form of misinformation, criminal
   activity,
@@ -80,9 +67,10 @@ human agency and freedom</article-title>
   2024</xref>) and the undermining of autonomy
   (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
   Schopmans, and Tuncer-Ebetürk 2024</xref>). Thirdly a challenge for
-  the use of resources and electricity that needs new solutions at
-  scale.</p>
-      <p>Technology is not just a neutral phenomenon with inherently
+  the use of resources and electricity Lin et al.
+  (<xref alt="2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">2024</xref>)
+  that needs new solutions at scale.</p>
+      <p>Technology is not merely a neutral phenomenon with inherently
   positive outcomes and there is a great need for finding solutions that
   benefit us all.</p>
       <sec id="gap">
@@ -98,7 +86,7 @@ human agency and freedom</article-title>
     been the driver for the direction this advancement would take us
     (<xref alt="Johnson and Acemoglu 2023, 57" rid="ref-johnsonPowerProgressOur2023" ref-type="bibr">Johnson
     and Acemoglu 2023, 57</xref>).</p>
-        <p>In the course of history human development has been argued to
+        <p>In the course of history, human development has been argued to
     increase where agency and liberty increase
     (<xref alt="Prados de la Escosura 2022" rid="ref-PradosdelaEscosura_2022" ref-type="bibr">Prados
     de la Escosura 2022</xref>;
@@ -129,7 +117,7 @@ human agency and freedom</article-title>
       <title>Research Questions</title>
       <list list-type="bullet">
         <list-item>
-          <p>What lessons can we draw from existing of pattterns using GenAI
+          <p>What lessons can we draw from existing of patterns using GenAI
       that enable meaningfully increased human agency?</p>
         </list-item>
       </list>
@@ -180,19 +168,6 @@ human agency and freedom</article-title>
           <pub-id pub-id-type="doi">10.1162/daed_a_01915</pub-id>
           <fpage>272</fpage>
           <lpage>287</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ref-crawford2021atlas">
-        <element-citation publication-type="book">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Crawford</surname>
-              <given-names>Kate</given-names>
-            </name>
-          </person-group>
-          <source>The atlas of AI: Power, politics, and the planetary costs of artificial intelligence</source>
-          <publisher-name>Yale University Press</publisher-name>
-          <year iso-8601-date="2021">2021</year>
         </element-citation>
       </ref>
       <ref id="ref-cupacDemocratizationAgeArtificial2024">
@@ -437,72 +412,6 @@ human agency and freedom</article-title>
             <month>01</month>
             <day>12</day>
           </date-in-citation>
-        </element-citation>
-      </ref>
-      <ref id="ref-yangLithiumPollutionIts2024">
-        <element-citation publication-type="article-journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Yang</surname>
-              <given-names>Xuezhi</given-names>
-            </name>
-            <name>
-              <surname>Wen</surname>
-              <given-names>Haonan</given-names>
-            </name>
-            <name>
-              <surname>Liu</surname>
-              <given-names>Yin</given-names>
-            </name>
-            <name>
-              <surname>Huang</surname>
-              <given-names>Ying</given-names>
-            </name>
-            <name>
-              <surname>Zhang</surname>
-              <given-names>Qun</given-names>
-            </name>
-            <name>
-              <surname>Wang</surname>
-              <given-names>Weichao</given-names>
-            </name>
-            <name>
-              <surname>Zhang</surname>
-              <given-names>Haiyan</given-names>
-            </name>
-            <name>
-              <surname>Fu</surname>
-              <given-names>Jianjie</given-names>
-            </name>
-            <name>
-              <surname>Li</surname>
-              <given-names>Gang</given-names>
-            </name>
-            <name>
-              <surname>Liu</surname>
-              <given-names>Qian</given-names>
-            </name>
-            <name>
-              <surname>Jiang</surname>
-              <given-names>Guibin</given-names>
-            </name>
-          </person-group>
-          <article-title>Lithium Pollution and Its Associated Health Risks in the Largest Lithium Extraction Industrial Area in China</article-title>
-          <source>Environmental Science &amp; Technology</source>
-          <publisher-name>American Chemical Society</publisher-name>
-          <year iso-8601-date="2024-07">2024</year>
-          <month>07</month>
-          <date-in-citation content-type="access-date">
-            <year iso-8601-date="2026-01-12">2026</year>
-            <month>01</month>
-            <day>12</day>
-          </date-in-citation>
-          <volume>58</volume>
-          <issue>26</issue>
-          <issn>0013-936X</issn>
-          <pub-id pub-id-type="doi">10.1021/acs.est.4c00225</pub-id>
-          <fpage>11637</fpage>
-          <lpage>11648</lpage>
         </element-citation>
       </ref>
     </ref-list>

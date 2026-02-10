@@ -4,3 +4,4 @@
 *.aux
 
 site_libs/
+**/*.quarto_ipynb
