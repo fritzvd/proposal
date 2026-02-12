@@ -67,12 +67,19 @@ human agency and freedom</article-title>
   2024</xref>) and the undermining of autonomy
   (<xref alt="Cupać, Schopmans, and Tuncer-Ebetürk 2024" rid="ref-cupacDemocratizationAgeArtificial2024" ref-type="bibr">Cupać,
   Schopmans, and Tuncer-Ebetürk 2024</xref>). Thirdly a challenge for
-  the use of resources and electricity Lin et al.
-  (<xref alt="2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">2024</xref>)
-  that needs new solutions at scale.</p>
-      <p>Technology is not merely a neutral phenomenon with inherently
-  positive outcomes and there is a great need for finding solutions that
-  benefit us all.</p>
+  the use of resources and electricity
+  (<xref alt="Wilson 2025" rid="ref-wilsonDataCenterRack2025" ref-type="bibr">Wilson
+  2025</xref>;
+  <xref alt="Hotkar 2025" rid="ref-hotkarWhyCoolingCosts2025" ref-type="bibr">Hotkar
+  2025</xref>;
+  <xref alt="Lin et al. 2024" rid="ref-linExplodingAIPower2024" ref-type="bibr">Lin
+  et al. 2024</xref>) that needs new solutions at scale.</p>
+      <p>Technology is not merely a neutral phenomenon
+  (<xref alt="Heyndels 2023" rid="ref-heyndelsTechnologyNeutrality2023" ref-type="bibr">Heyndels
+  2023</xref>;
+  <xref alt="Morrow 2014" rid="ref-morrowWhenTechnologiesMakes2014" ref-type="bibr">Morrow
+  2014</xref>) with inherently positive outcomes and there is a great
+  need for finding solutions that benefit us all.</p>
       <sec id="gap">
         <title>Gap</title>
         <p>We do not know how AI will reshape the future of our human
@@ -85,7 +92,9 @@ human agency and freedom</article-title>
     policy fueled by ideology (both benefiting the few or the many) has
     been the driver for the direction this advancement would take us
     (<xref alt="Johnson and Acemoglu 2023, 57" rid="ref-johnsonPowerProgressOur2023" ref-type="bibr">Johnson
-    and Acemoglu 2023, 57</xref>).</p>
+    and Acemoglu 2023, 57</xref>). Technological deterministic views of
+    AI are suggesting we are moving towards an Artificial General
+    Intelligence or <italic>Singularity</italic>. The</p>
         <p>In the course of history, human development has been argued to
     increase where agency and liberty increase
     (<xref alt="Prados de la Escosura 2022" rid="ref-PradosdelaEscosura_2022" ref-type="bibr">Prados
@@ -97,13 +106,27 @@ human agency and freedom</article-title>
     describes as indicative of improving human development
     (<xref alt="UNDP 2025" rid="ref-undpHumanDevelopmentReport2025" ref-type="bibr">UNDP
     2025</xref>).</p>
-        <p>What is lacking then from scientific discourse is a systematic
-    analysis of cases where GenAI (or AI in general) has had a positive
-    impact on agency and human freedom to distill which factors are
-    crucial for bringing about such change.</p>
+        <p>What seems to be lacking then from scientific discourse is a
+    systematic analysis of the impact GenAI (or AI in general) is having
+    on agency and human freedom. However such a thing is very difficult
+    to quantify or measure by other means without being reductionist as
+    it is a multidimensional construct
+    (<xref alt="Cauce and Gordon, n.d." rid="ref-cauceMeasurementHumanAgency" ref-type="bibr">Cauce
+    and Gordon, n.d.</xref>).</p>
+        <p>The fact that GenAI is having an effect itself is plausible, but
+    whether that effect is positive (e.g. lowering the barrier to entry
+    to be able to write a script in a computer code) or negative
+    (e.g. automation is taking over parts of the work) is uncertain.</p>
       </sec>
       <sec id="hook">
         <title>Hook</title>
+        <p><italic>“Technological development has invested the powers that
+    be with not only more efficient, better and more deadly instruments
+    of coercion but with the instruments of persuasion decidedly more
+    efficient than those hitherto used by the political
+    bosses..”</italic> -
+    (<xref alt="Mathur, n.d." rid="ref-mathurTechnologyFreedom" ref-type="bibr">Mathur,
+    n.d.</xref>)</p>
         <p>We need to figure a way out of what Brynjolfsson
     (<xref alt="2022" rid="ref-brynjolfssonTuringTrapPromise2022" ref-type="bibr">2022</xref>)
     calls the “Turing Trap” where technological and economic power
@@ -111,35 +134,35 @@ human agency and freedom</article-title>
     patterns, systems, beyond policy where the benefits of
     transformational technology like GenAI are available to
     everyone.</p>
+        <p>Students in higher education institutes are often already
+    interacting with tools like ChatGPT
+    (<xref alt="Dai 2025" rid="ref-daiWhyStudentsUse2025" ref-type="bibr">Dai
+    2025</xref>), so this study primarily focuses on that group.</p>
       </sec>
     </sec>
     <sec id="research-questions">
       <title>Research Questions</title>
-      <list list-type="bullet">
-        <list-item>
-          <p>What lessons can we draw from existing of patterns using GenAI
-      that enable meaningfully increased human agency?</p>
-        </list-item>
-      </list>
+      <p>What kind of effects is GenAI having on human agency and freedom
+  among students?</p>
+      <sec id="sub-questions">
+        <title>Sub-questions</title>
+        <list list-type="order">
+          <list-item>
+            <p>How are students interacting with GenAI?</p>
+          </list-item>
+          <list-item>
+            <p>What kind of beliefs do students have about GenAI and its
+        capabilities in relation to their own capabilities?</p>
+          </list-item>
+          <list-item>
+            <p>How is GenAI affecting the execution of tasks for
+        studying?</p>
+          </list-item>
+        </list>
+      </sec>
     </sec>
-    <sec id="sub-questions">
-      <title>Sub questions</title>
-      <list list-type="bullet">
-        <list-item>
-          <p>How do we measure increased human agency and liberty?
-      (<xref alt="Prados de la Escosura 2022, 25" rid="ref-PradosdelaEscosura_2022" ref-type="bibr">Prados
-      de la Escosura 2022, 25</xref>).</p>
-        </list-item>
-        <list-item>
-          <p>What policies and laws have been instrumental in steering
-      technologically driven societal transformation in the past and
-      where has it failed?</p>
-        </list-item>
-        <list-item>
-          <p>Which uses of GenAI defy policy or lack of liberty and
-      empowered people?</p>
-        </list-item>
-      </list>
+    <sec id="methodology">
+      <title>Methodology</title>
     </sec>
   </body>
   <back>
@@ -168,6 +191,21 @@ human agency and freedom</article-title>
           <pub-id pub-id-type="doi">10.1162/daed_a_01915</pub-id>
           <fpage>272</fpage>
           <lpage>287</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-cauceMeasurementHumanAgency">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cauce</surname>
+              <given-names>Ana Marie</given-names>
+            </name>
+            <name>
+              <surname>Gordon</surname>
+              <given-names>Edmund W</given-names>
+            </name>
+          </person-group>
+          <article-title>Toward the Measurement of Human Agency and the Disposition to Express It</article-title>
         </element-citation>
       </ref>
       <ref id="ref-cupacDemocratizationAgeArtificial2024">
@@ -204,6 +242,30 @@ human agency and freedom</article-title>
           <lpage>921</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-daiWhyStudentsUse2025">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dai</surname>
+              <given-names>Yun</given-names>
+            </name>
+          </person-group>
+          <article-title>Why students use or not use generative AI: Student conceptions, concerns, and implications for engineering education</article-title>
+          <source>Digital Engineering</source>
+          <year iso-8601-date="2025-03">2025</year>
+          <month>03</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-02-12">2026</year>
+            <month>02</month>
+            <day>12</day>
+          </date-in-citation>
+          <volume>4</volume>
+          <issn>2950-550X</issn>
+          <pub-id pub-id-type="doi">10.1016/j.dte.2024.100019</pub-id>
+          <fpage>100019</fpage>
+          <lpage/>
+        </element-citation>
+      </ref>
       <ref id="ref-ferraraGenAIHumanityNefarious2024">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
@@ -227,6 +289,31 @@ human agency and freedom</article-title>
           <pub-id pub-id-type="doi">10.1007/s42001-024-00250-1</pub-id>
           <fpage>549</fpage>
           <lpage>569</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-heyndelsTechnologyNeutrality2023">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heyndels</surname>
+              <given-names>Sybren</given-names>
+            </name>
+          </person-group>
+          <article-title>Technology and Neutrality</article-title>
+          <source>Philosophy &amp; Technology</source>
+          <year iso-8601-date="2023-12">2023</year>
+          <month>12</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-02-12">2026</year>
+            <month>02</month>
+            <day>12</day>
+          </date-in-citation>
+          <volume>36</volume>
+          <issue>4</issue>
+          <issn>2210-5433, 2210-5441</issn>
+          <pub-id pub-id-type="doi">10.1007/s13347-023-00672-1</pub-id>
+          <fpage>75</fpage>
+          <lpage/>
         </element-citation>
       </ref>
       <ref id="ref-hotkarWhyCoolingCosts2025">
@@ -323,6 +410,42 @@ human agency and freedom</article-title>
           <pub-id pub-id-type="doi">10.1145/3632775.3661959</pub-id>
           <fpage>434</fpage>
           <lpage>441</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-mathurTechnologyFreedom">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mathur</surname>
+              <given-names>A B</given-names>
+            </name>
+          </person-group>
+          <article-title>Technology and Freedom</article-title>
+        </element-citation>
+      </ref>
+      <ref id="ref-morrowWhenTechnologiesMakes2014">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morrow</surname>
+              <given-names>David R.</given-names>
+            </name>
+          </person-group>
+          <article-title>When Technologies Makes Good People Do Bad Things: Another Argument Against the Value-Neutrality of Technologies</article-title>
+          <source>Science and Engineering Ethics</source>
+          <year iso-8601-date="2014-06">2014</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2026-02-12">2026</year>
+            <month>02</month>
+            <day>12</day>
+          </date-in-citation>
+          <volume>20</volume>
+          <issue>2</issue>
+          <issn>1471-5546</issn>
+          <pub-id pub-id-type="doi">10.1007/s11948-013-9464-1</pub-id>
+          <fpage>329</fpage>
+          <lpage>343</lpage>
         </element-citation>
       </ref>
       <ref id="ref-perifanouCollaborativeUsesGenAI2025">
