@@ -1,8 +1,11 @@
 project:
   type: manuscript
+  preview:
+    port: 7601
 
 manuscript:
   article: proposal-2026-01.qmd
+  meca-bundle: false
 
 preview-mode: raw
 
@@ -11,7 +14,6 @@ format:
     comments:
       hypothesis: true
   docx: default
-  jats: default
 
   # (other formats)
   pdf: default

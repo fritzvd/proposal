@@ -7,7 +7,7 @@ authors:
     corresponding: true
 bibliography: references.bib
 # csl: slncs-alphabetical.csl
-keywords: genAI, human agency, turing trap
+keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy
 ---
 
 
@@ -15,38 +15,52 @@ keywords: genAI, human agency, turing trap
 
 Technological advances that herald and drive societal changes over the last 12,000 years have only benefited ordinary people when "landowning and religious elites were not dominant enough to impose their vision and extract all the surplus from the technologies" [@johnsonPowerProgressOur2023 pp. 78].
 
-We are again on the precipice of a big transformation for our society with the wide adoption of Artificial Intelligence in all kinds of sectors and embedded in all kinds of software. Generative Artificial Intelligence (genAI), a specific form of Artificial Intelligence harnessing the power of Large Language Models to _generate_ new output based on vast and widely generalized data sources, is rapidly transforming our lives. Ranging from reshaping how we work [@joshi2025transformative] and how we learn [@perifanouCollaborativeUsesGenAI2025], to changing criminal behaviour [@ferraraGenAIHumanityNefarious2024] and even influencing democratization [@cupacDemocratizationAgeArtificial2024].
+We are again on the precipice of a big transformation for our society with the wide adoption of Artificial Intelligence in all kinds of sectors and embedded in all kinds of software. The public has never adopted a technological platform so fast as it did with ChatGPT [@milmoChatGPTReaches1002023]. Heralding the Generative Artificial Intelligence (genAI) boom with the text-based models like ChatGPT, Claude and Gemini and image-based products such as Dall-E and Midjourney being available for the public. 
 
-<!-- Life in the age of genAI however, comes at a tremendous physical cost for our planet [@crawford2021atlas]. The physical extraction of metals (e.g. lithium, coltan) for chips to enable the machines to run the models [@yangLithiumPollutionIts2024], the power consumption to drive the machines and then again for cooling [@wilsonDataCenterRack2025, @hotkarWhyCoolingCosts2025] is outgrowing the planned construction of the power grid at a breakneck speed [@linExplodingAIPower2024], outpacing policy and lawmakers. -->
+Only a few years later we are slowly moving towards Agentic AI. Where the Large Language Models (LLMs) that make the likes of Claude and ChatGPT possible, are used to create (semi-)autonomous systems that "reason" and feedback into itself to perform the tasks or solutions that it proposes. This marks a paradigm shift in the use of the web, where not only humans shape its future [@yangAgenticWebWeaving2025]. Because it is so new rules, regulations or benchmarks are not yet in place and it is "hard to distinguish genuine advances from hype" [@kapoorAIAgentsThat2024].
 
-As with all transformative technologies there is however a real opportunity, in the increased productivity and the access to tools. Secondly a real threat, in the form of misinformation, criminal activity, [@ferraraGenAIHumanityNefarious2024] and the undermining of autonomy [@cupacDemocratizationAgeArtificial2024]. Thirdly a challenge for the use of resources and electricity [@wilsonDataCenterRack2025; @hotkarWhyCoolingCosts2025; @linExplodingAIPower2024] that needs new solutions at scale.
+<p style="text-decoration: line-through">
+Generative Artificial Intelligence (genAI), a specific form of Artificial Intelligence harnessing the power of Large Language Models to _generate_ new output based on vast and widely generalized data sources, is rapidly transforming our lives. Ranging from reshaping how we work [@joshi2025transformative] and how we learn [@perifanouCollaborativeUsesGenAI2025], to changing criminal behaviour [@ferraraGenAIHumanityNefarious2024] and even influencing democratization [@cupacDemocratizationAgeArtificial2024].</p>
 
-Technology is not merely a neutral phenomenon [@heyndelsTechnologyNeutrality2023; @morrowWhenTechnologiesMakes2014] with inherently positive outcomes and there is a great need for finding solutions that benefit us all.
+
+<!-- GenAI is becoming more and more a part of our online experience signified with "AI" or ✨ it is usually a form of a Large Language Model that interprets requests and gives human-like answers. -->
+
+With it there is this sense that we are closer to the holy grail of AI: Artificial General Intelligence (AGI) or "human-level intelligence", a "god-term" and even "devil-term", where believers herald a utopia in which AGI is able to solve everything, and on the other hand doomsayers who believe it to become a catastrophe [@HeavenHowAGIBecamea].
+
+What we are seeing is a repetition of the technology industry overpromising new techniques or technologies and packaging them as a panacea for all kinds of problems or General Purpose Tools, while also decreasing emphasis on a large variety of negative consequences that this technology also brings. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide].
+
+Myth and technology have a long history together. Collectively we adhere to the idea that with technology and change we also converge to a better reality, to progress, but believing this is a religious act itself [@burdett2014religion] with more religious overtones in what @winnerCultInnovationIts2018 calls the "Cult of Innovation". We have seen similar rational and "more-than-rational" _truths_ with other technologies such as blockchain [@gloerichReimaginingTruthMachine2025].
+
+Technology is not merely a neutral phenomenon [@heyndelsTechnologyNeutrality2023; @morrowWhenTechnologiesMakes2014] with inherently positive outcomes; there is a great need for finding solutions that benefit us all.
 
 ### Gap
 
 We do not know how AI will reshape the future of our human development, but there are some guesses we can make and historical lessons we can take into account. In all the major jumps in technological advancement that brought about societal change: steam engine, electricity, communications, digital communication and now the more broadly available statistical models that "converse" with us through chat like ChatGPT, we have seen that regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57].
-Technological deterministic views of AI are suggesting we are moving towards an Artificial General Intelligence or _Singularity_. The
 
+Much of the research regarding AI has been focussing on improving models [@duOptimizingTemperatureLanguage2025; @yaoCAReDiOEnhancingCultural2025], effects on policy [@khanalWhyHowPower2025; @leslieFutureShockGenerative2024], impact on education [@daiWhyStudentsUse2025;@hanImpactGenAILearning2025; @udehRoleGenerativeAI2025] on human interactions [@houAllRoadsLead2025], and how it can improve self-advocacy [@registerLearningMachineLearning2020] but not how it affects agency and freedom which both count as indicative of improving human development [@undpHumanDevelopmentReport2025].
+
+Most of the AI Literacy literature agree that AI Literacy education "empowers individuals to achieve humanistic outcomes" [@pinskiAILiteracyUsers2024].
+
+<!-- 
 In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. 
-Much of the research regarding AI has been focussing on improving models [], effects for legislation [], impact on education [], but not increasing agency and freedom which the UNDP describes as indicative of improving human development [@undpHumanDevelopmentReport2025].
+
 
 What seems to be lacking then from scientific discourse is a systematic analysis of the impact GenAI (or AI in general) is having on agency and human freedom. However such a thing is very difficult to quantify or measure by other means without being reductionist as it is a multidimensional construct [@cauceMeasurementHumanAgency].
 
-The fact that GenAI is having an effect itself is plausible, but whether that effect is positive (e.g. lowering the barrier to entry to be able to write a script in a computer code) or negative (e.g. automation is taking over parts of the work) is uncertain.
+The fact that GenAI is having an effect itself is plausible, but whether that effect is positive (e.g. lowering the barrier to entry to be able to write a script in a computer code) or negative (e.g. automation is taking over parts of the work) is uncertain. -->
  
 ### Hook
 
 _"Technological development has invested the powers that be with
 not only more efficient, better and more deadly instruments of coercion but with the instruments of persuasion decidedly more efficient than those hitherto used by the political bosses.."_ - [@mathurTechnologyFreedom]
 
-We need to figure a way out of what @brynjolfssonTuringTrapPromise2022 calls the "Turing Trap" where technological and economic power create a concentration of political power and find solutions, patterns, systems, beyond policy where the benefits of transformational technology like GenAI are available to everyone.
+We need to figure a way out of what @brynjolfssonTuringTrapPromise2022 calls the "Turing Trap" where increasing technological and economic power create a concentration of political power and find solutions, patterns, systems, beyond policy where the benefits of transformational technology like agentic AI are available to everyone.
 
-Students in higher education institutes are often already interacting with tools like ChatGPT [@daiWhyStudentsUse2025], so this study primarily focuses on that group.
+Adolescents such as students in higher education institutes are often already interacting with tools like ChatGPT [@daiWhyStudentsUse2025], so this study primarily focuses on that group.
 
 ## Research Questions
 
-What kind of effects is GenAI having on human agency and freedom among students?
+What kind of effects is GenAI having on human agency and freedom among adolescents?
 
 ### Sub-questions
 
