@@ -5,3 +5,4 @@
 
 site_libs/
 **/*.quarto_ipynb
+!_manuscript/site_libs
