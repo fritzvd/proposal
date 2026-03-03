@@ -6,7 +6,7 @@ authors:
     roles: writing
     corresponding: true
 bibliography: references.bib
-# csl: slncs-alphabetical.csl
+csl: slncs-alphabetical.csl
 keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy
 ---
 
@@ -27,9 +27,11 @@ Generative Artificial Intelligence (genAI), a specific form of Artificial Intell
 
 With it there is this sense that we are closer to the holy grail of AI: Artificial General Intelligence (AGI) or "human-level intelligence", a "god-term" and even "devil-term", where believers herald a utopia in which AGI is able to solve everything, and on the other hand doomsayers who believe it to become a catastrophe [@HeavenHowAGIBecamea].
 
-What we are seeing is a repetition of the technology industry overpromising new techniques or technologies and packaging them as a panacea for all kinds of problems or General Purpose Tools, while also decreasing emphasis on a large variety of negative consequences that this technology also brings. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide].
+The kind of language and claims being made are echoes of the technology industry (over-)promising new techniques or technologies and packaging them as a panacea for all kinds of problems or General Purpose Tools, while also decreasing emphasis on a large variety of negative consequences that this technology also brings. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide].
 
 Myth and technology have a long history together. Collectively we adhere to the idea that with technology and change we also converge to a better reality, to progress, but believing this is a religious act itself [@burdett2014religion] with more religious overtones in what @winnerCultInnovationIts2018 calls the "Cult of Innovation". We have seen similar rational and "more-than-rational" _truths_ with other technologies such as blockchain [@gloerichReimaginingTruthMachine2025].
+
+Most of the AI Literacy literature agree that AI Literacy education "empowers individuals to achieve humanistic outcomes" [@pinskiAILiteracyUsers2024]. Understanding and testing limits of AI works helps reframing AI as being fallible but helpful as opposed to intelligent [@drugaHowChildrensPerceptions2021], thereby breaking through mythical beliefs and anthropomorphisation that surround and clouds attitudes towards AI [@guestUncriticalAdoptionAI2025].
 
 Technology is not merely a neutral phenomenon [@heyndelsTechnologyNeutrality2023; @morrowWhenTechnologiesMakes2014] with inherently positive outcomes; there is a great need for finding solutions that benefit us all.
 
@@ -39,7 +41,6 @@ We do not know how AI will reshape the future of our human development, but ther
 
 Much of the research regarding AI has been focussing on improving models [@duOptimizingTemperatureLanguage2025; @yaoCAReDiOEnhancingCultural2025], effects on policy [@khanalWhyHowPower2025; @leslieFutureShockGenerative2024], impact on education [@daiWhyStudentsUse2025;@hanImpactGenAILearning2025; @udehRoleGenerativeAI2025] on human interactions [@houAllRoadsLead2025], and how it can improve self-advocacy [@registerLearningMachineLearning2020] but not how it affects agency and freedom which both count as indicative of improving human development [@undpHumanDevelopmentReport2025].
 
-Most of the AI Literacy literature agree that AI Literacy education "empowers individuals to achieve humanistic outcomes" [@pinskiAILiteracyUsers2024].
 
 <!-- 
 In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. 
@@ -56,17 +57,20 @@ not only more efficient, better and more deadly instruments of coercion but with
 
 We need to figure a way out of what @brynjolfssonTuringTrapPromise2022 calls the "Turing Trap" where increasing technological and economic power create a concentration of political power and find solutions, patterns, systems, beyond policy where the benefits of transformational technology like agentic AI are available to everyone.
 
-Adolescents such as students in higher education institutes are often already interacting with tools like ChatGPT [@daiWhyStudentsUse2025], so this study primarily focuses on that group.
+One of the ways that has been suggested to make AI benefit us all is to focus on AI Literacy [@UniversalAILiteracy2022].
+
+Adolescents such as students, between 18-25 in higher education institutes are often already interacting with tools like ChatGPT [@daiWhyStudentsUse2025], so this study primarily focuses on that age group.
 
 ## Research Questions
 
-What kind of effects is GenAI having on human agency and freedom among adolescents?
+How can adolescents achieve increased human agency and freedom in a world with agentic AI?
 
 ### Sub-questions
 
-1. How are students interacting with GenAI? 
-2. What kind of beliefs do students have about GenAI and its capabilities in relation to their own capabilities?
-3. How is GenAI affecting the execution of tasks for studying?
+1. How are students interacting with agentic AI or GenAI? 
+2. What kind of beliefs do adolescents have about AI and its capabilities in relation to their own capabilities?
+3. In what ways is AI Literacies affecting these beliefs? 
+4. How is AI affecting the execution of day-to-day tasks (e.g. study, work, household chores)?
 
 ## Methodology
 
