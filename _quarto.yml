@@ -4,7 +4,7 @@ project:
     port: 7601
 
 manuscript:
-  article: proposal-2026-01.qmd
+  article: proposal-2026-03.qmd
   meca-bundle: false
 
 preview-mode: raw

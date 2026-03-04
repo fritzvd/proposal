@@ -1,0 +1,70 @@
+---
+title: "Putting human agency at the forefront in agentic AI"
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+csl: slncs-alphabetical.csl
+keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
+---
+
+## Introduction
+
+A shift in world order, a challenge with climate change, and more potent ways to utilize our data with a resurgence of Artificial Intellegince (AI) in the last few years have us all on the edge of our seat. We are no longer sure what is real or what is generated [@millerAIHyperrealismWhy2023], we are promised that AI will solve climate change [@PrioritisingAIClimate2024] while at the same we are seeing a "AI Gold Rush" where more and more electrical power use is being needed to sustain the growth of AI usage [@linExplodingAIPower2024]. 
+
+The permeation of AI in our daily digital lives is almost inescapable. The biggest communication platforms and work applications have an AI function embedded, for example Copilot throughout Microsoft Office Suite, Meta AI in WhatsApp and Google Search giving Gemini generated results as top result. Signified with "AI" or ✨ it is usually a form of a Large Language Model (LLM) that interprets requests and gives human-like answers. With a new direction called _Agentic AI_ these LLMs (LLMs) that make the likes of Claude and ChatGPT possible, are used to create (semi-)autonomous systems that "reason" and feedback into itself to perform the tasks or solutions that it proposes. This marks a paradigm shift in the use of the web, where not only humans shape its future [@yangAgenticWebWeaving2025]. Because it is so new rules, regulations or benchmarks are not yet in place and it is "hard to distinguish genuine advances from hype" [@kapoorAIAgentsThat2024]. The advances made in AI are hoped to work towards a goal of Artifical General Intelligence (AGI), bringing "human-like intelligence" [@blili-hamelinStopTreatingAGI2025].
+
+Talk of being "falling behind" [@ederFallingAdoptionCurve2025] or a "skill gap" [@vanhaeftenBridgingAISkills2024; @chrisingerSolutionLiesEducation2019] or "losing a race" [@du2025you] fuels anxiety of missing out [@chen2025exploring; @yuFearMissingOut2025]. If AI automates or replaces human labor instead of augmenting it, it creates the risk of concentrating wealth and power, the _Turing Trap_ [@brynjolfssonTuringTrapPromise2022].
+
+Besides the future of labour there are other real and pressing issues for us to contend with. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide].
+
+Young people around the globe are entering a different digital reality than their parents, where AI is playing a big part. Much of the adolescent student population is already using tools like ChatGPT [@daiWhyStudentsUse2025]. How then do we avoid the Turing Trap, and increase agency for (young) humans instead of infringing upon it?
+
+## Gap
+
+Much of the research regarding AI has been focussing on improving models [@duOptimizingTemperatureLanguage2025; @yaoCAReDiOEnhancingCultural2025], improved productivity in writing code [@kumarIntuitionEvidenceMeasuring2025], effects on policy [@khanalWhyHowPower2025; @leslieFutureShockGenerative2024], impact on education [@daiWhyStudentsUse2025;@hanImpactGenAILearning2025; @udehRoleGenerativeAI2025] on human interactions [@houAllRoadsLead2025], and how it can improve self-advocacy [@registerLearningMachineLearning2020].
+
+In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how to increase human agency for humans now.
+
+AI literacy is one field where demystification and explanation are seen to increase people's insight in systems [@pinskiAILiteracyUsers2024] and help to reduce anthropomorphism [@drugaHowChildrensPerceptions2021] which in itself can lead to false perceptions of AI abilities [@guestUncriticalAdoptionAI2025].
+
+## Hook 
+
+_"Technological development has invested the powers that be with
+not only more efficient, better and more deadly instruments of coercion but with the instruments of persuasion decidedly more efficient than those hitherto used by the political bosses.."_ - [@mathurTechnologyFreedom]
+
+If we want to create circumstances for technology where humans can thrive we need to be able to accept a pluralistic view of technology. As technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57].
+
+## Research Questions
+
+How can adolescents achieve increased human agency and freedom in a world with agentic AI?
+
+### Sub-questions
+
+1. How are students interacting with agentic AI or GenAI? 
+2. How is AI affecting the execution of day-to-day tasks (e.g. study, work, household chores)?
+3. What beliefs do adolescents have about AI and its capabilities in relation to their own capabilities?
+4. In what ways are AI Literacies affecting these beliefs? 
+5. How do adolescents discern hype from reality?
+6. In what ways can understanding of these phenomena enhance their freedom of choice?
+
+<!-- ## Methodology
+
+### Thematic analysis
+
+_Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal interview with students. Thematic analysis is a more subjective approach to data, where language is central. It requires a _coding_ process that uses semantic and latent codes to categorize statements and find _themes_ and _subthemes_ of meaning in texts.
+
+###  Critical Discourse Analysis
+
+Through _critical discourse analyis_ (CDA) I will look at what kind of language is constructing narratives, describes relations of power and how it creates or reinforces myths [@blommaertCriticalDiscourseAnalysis2000].
+
+CDA tries to find patterns in power dynamics and social effects in discourse. In this analysis we can take the texts further and analyze context and intertextuality to challenge social inequalities. I will focus mainly on step two: _Identify obstacles to addressing the social wrong_ of this process which consists of three stages [@fairclough2013critical]:
+
+1. Analyse dialectical relations
+2. Select texts
+3. Analyse texts interdiscursively and linguistically  -->
+
+
+## References
