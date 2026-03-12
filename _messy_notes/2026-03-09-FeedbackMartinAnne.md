@@ -1,0 +1,12 @@
+- Structuur van verhaal is nogal rommelig.
+  - worden veel dingen bij gehaald die irrelevant is
+  - doelgroep is niet consistent
+- Toegevoegde wetenschappelijk en maatschappelijk waarde snel duiden
+- Scherpe probleemstelling
+  - Hoe kom je tot het probleem? (Relevantie)
+
+- Wat ben ik aan het problematiseren?
+  - Wat wil ik is niet belangrijk
+  - Wat is relevant
+- Het is een probleem dat de GAP BESTAAt en dat het opgevuld moet worden.
+- Wat gebeurt er als ik mijn onderzoek niet doet?

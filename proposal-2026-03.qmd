@@ -1,12 +1,12 @@
 ---
-title: "Putting human agency at the forefront in agentic AI"
+title: "Putting human agency at the forefront in agentic AI for adolescents"
 authors:
   - name: Frederik J van Deventer
     affiliation: HAN University of Applied Sciences
     roles: writing
     corresponding: true
 bibliography: references.bib
-csl: slncs-alphabetical.csl
+# csl: slncs-alphabetical.csl
 keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
 ---
 
@@ -14,13 +14,31 @@ keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
 
 A shift in world order, a challenge with climate change, and more potent ways to utilize our data with a resurgence of Artificial Intellegince (AI) in the last few years have us all on the edge of our seat. We are no longer sure what is real or what is generated [@millerAIHyperrealismWhy2023], we are promised that AI will solve climate change [@PrioritisingAIClimate2024] while at the same time we are seeing an "AI Gold Rush" where more and more electrical power use is being needed to sustain the growth of AI usage [@linExplodingAIPower2024]. 
 
-The permeation of AI in our daily digital lives is almost inescapable. The biggest communication platforms and work applications have an AI function embedded, for example Copilot throughout Microsoft Office Suite, Meta AI in WhatsApp and Google Search giving Gemini generated results as top result. Signified with "AI" or ✨ it is usually a form of a Large Language Model (LLM) that interprets requests and gives human-like answers. With a new direction called _Agentic AI_ these LLMs (LLMs) that make the likes of Claude and ChatGPT possible, are used to create (semi-)autonomous systems that "reason" and feedback into itself to perform the tasks or solutions that it proposes. This marks a paradigm shift in the use of the web, where not only humans shape its future [@yangAgenticWebWeaving2025]. Because it is so new rules, regulations or benchmarks are not yet in place and it is "hard to distinguish genuine advances from hype" [@kapoorAIAgentsThat2024]. The advances made in AI are hoped to work towards a goal of Artifical General Intelligence (AGI), bringing "human-like intelligence" [@blili-hamelinStopTreatingAGI2025].
+Over the last decade AI has been attributed a _sense of agency_ [@legaspiSyntheticAgencySense2019], with Agentic AI being an emerging paradigm, which, different to previous forms such as LLM's, can operate (semi-)autonomously and pursue complex goals [@acharyaAgentic2025]. This itself questions the nature of human agency as systems can now act with intention and a certain kind of reasoning. In @giddens1984constitution' definition it is the capability to "make a difference", in other words to have and be able to exercise power of a situation.
 
-Talk of being "falling behind" [@ederFallingAdoptionCurve2025] or a "skill gap" [@vanhaeftenBridgingAISkills2024; @chrisingerSolutionLiesEducation2019] or "losing a race" [@du2025you] fuels anxiety of missing out [@chen2025exploring; @yuFearMissingOut2025]. If AI automates or replaces human labor instead of augmenting it, it creates the risk of concentrating wealth and power, the _Turing Trap_ [@brynjolfssonTuringTrapPromise2022].
+Young people around the globe are entering a different digital reality than their parents, where AI is playing a big part. After the "digital natives" of the early 2000's and the debates for evidence that entailed [@bennettDigitalNativesDebate2008], one could argue that we are moving towards a generation of "AI natives" [@poncerojoDigitalNativesAI2025]. A new group of adolescents that spend almost 7 hours and 30 minutes online per day [@kemp2025Digital2025Global2025], on platforms where AI is embedded, e.g. in search algorithms, AI answers, or chat functions often signified with "AI" or ✨.
 
-Besides the future of labour there are other real and pressing issues for us to contend with. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide].
+If Human-like AI (HLAI) or autonomous Artificial General Intelligence is really in the near future, like some believe [@vossWhyWeDont2023; @qureshiThinkingTokensBrainInspired2025], this could have a profound impact on the way our economy is structured and what kind of work is performed by humans and which is performed solely by machines. The already great concentration in economic and political power by technologists is expected to only increase if we focus on replacing human labour by automating tasks instead of augmenting human labour with AI, leading to a situation where those "without power have no way to improve their outcomes", what @brynjolfssonTuringTrapPromise2022 calls the _Turing Trap_.
 
-Young people around the globe are entering a different digital reality than their parents, where AI is playing a big part. Much of the adolescent student population is already using tools like ChatGPT [@daiWhyStudentsUse2025]. How then do we avoid the Turing Trap, and increase agency for (young) humans instead of infringing upon it?
+A situation where power concentrates among the lucky few that are already econonomically and politically powerful and have influence on how HLAI can be deployed is very unlikely to yield larger autonomy, freedom and agency for the majority.
+
+How then do we equip our young people who form half of the world's population [@WorldPopulationProspects]
+
+<!-- AI guises itself as humans [@yangCharacteristicsPrevalenceFake2024], mimics intelligence..  -->
+
+
+
+<!-- mimics agency [@natale2021deceitful] -->
+
+<!-- The permeation of AI in our daily digital lives is almost inescapable. The biggest communication platforms and work applications have an AI function embedded, for example Copilot throughout Microsoft Office Suite, Meta AI in WhatsApp and Google Search giving Gemini generated results as top result. Signified with "AI" or ✨ it is usually a form of a Large Language Model (LLM) that interprets requests and gives human-like answers. With a new direction called _Agentic AI_ these LLMs (LLMs) that make the likes of Claude and ChatGPT possible, are used to create (semi-)autonomous systems that "reason" and feedback into itself to perform the tasks or solutions that it proposes. This marks a paradigm shift in the use of the web, where not only humans shape its future [@yangAgenticWebWeaving2025]. Because it is so new rules, regulations or benchmarks are not yet in place and it is "hard to distinguish genuine advances from hype" [@kapoorAIAgentsThat2024]. The advances made in AI are hoped to work towards a goal of Artifical General Intelligence (AGI), bringing "human-like intelligence" [@blili-hamelinStopTreatingAGI2025]. -->
+
+<!-- Talk of being "falling behind" [@ederFallingAdoptionCurve2025] or a "skill gap" [@vanhaeftenBridgingAISkills2024; @chrisingerSolutionLiesEducation2019] or "losing a race" [@du2025you] fuels anxiety of missing out [@chen2025exploring; @yuFearMissingOut2025]. If AI automates or replaces human labor instead of augmenting it, it creates the risk of concentrating wealth and power, the _Turing Trap_ [@brynjolfssonTuringTrapPromise2022].
+
+Besides the future of labour there are other real and pressing issues for us to that form perils to human agency. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021], nudging political preferences[@cupacDemocratizationAgeArtificial2024], reducing the quality of democracy decision-making and the erosion of trust in legitimate institutions [@miklianNewDigitalDivide]. -->
+
+Much of the adolescent student population is already using tools like ChatGPT [@daiWhyStudentsUse2025].
+
+How then do we avoid the Turing Trap, and increase agency for (young) humans instead of infringing upon it?
 
 ## Gap
 
