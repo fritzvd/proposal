@@ -1,49 +1,138 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="generator" content="quarto-1.8.27">
 
-<meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <meta name="keywords" content="human agency, agentic AI, CAIL, turing trap, AI Literacy, belief">
 
-<meta name="keywords" content="human agency, agentic AI, CAIL, turing trap, AI Literacy, belief">
+    <title>Putting human agency at the forefront in agentic AI for adolescents</title>
+    <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      div.columns{display: flex; gap: min(4vw, 1.5em);}
+      div.column{flex: auto; overflow-x: auto;}
+      div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+      ul.task-list{list-style: none;}
+      ul.task-list li input[type="checkbox"] {
+        width: 0.8em;
+        margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+        vertical-align: middle;
+      }
+      /* CSS for citations */
+      div.csl-bib-body { }
+      div.csl-entry {
+        clear: both;
+        margin-bottom: 0em;
+      }
+      .hanging-indent div.csl-entry {
+        margin-left:2em;
+        text-indent:-2em;
+      }
+      div.csl-left-margin {
+        min-width:2em;
+        float:left;
+      }
+      div.csl-right-inline {
+        margin-left:2em;
+        padding-left:1em;
+      }
+      div.csl-indent {
+        margin-left: 2em;
+      }    </style>
 
-<title>Putting human agency at the forefront in agentic AI for adolescents</title>
-<style>
-code{white-space: pre-wrap;}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
-  vertical-align: middle;
-}
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+    <style>
+      body.hypothesis-enabled #quarto-embed-header {
+        padding-right: 36px;
+      }
 
+      #quarto-embed-header {
+        height: 3em;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: solid 1px;
+      }
 
+      #quarto-embed-header h6 {
+        font-size: 1.1em;
+        padding-top: 0.6em;
+        margin-left: 1em;
+        margin-right: 1em;
+        font-weight: 400;
+      }
+
+      #quarto-embed-header a.quarto-back-link,
+      #quarto-embed-header a.quarto-download-embed {
+        font-size: 0.8em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 1em;
+        margin-right: 1em;
+      }
+
+      .quarto-back-container {
+        padding-left: 0.5em;
+        display: flex;
+      }
+
+      .headroom {
+          will-change: transform;
+          transition: transform 200ms linear;
+      }
+
+      .headroom--pinned {
+          transform: translateY(0%);
+      }
+
+      .headroom--unpinned {
+          transform: translateY(-100%);
+      }      
+    </style>
+
+    <script>
+    window.document.addEventListener("DOMContentLoaded", function () {
+
+      var header = window.document.querySelector("#quarto-embed-header");
+      const titleBannerEl = window.document.querySelector("body > #title-block-header");
+      if (titleBannerEl) {
+        titleBannerEl.style.paddingTop = header.clientHeight + "px";
+      }
+      const contentEl = window.document.getElementById('quarto-content');
+      for (const child of contentEl.children) {
+        child.style.paddingTop = header.clientHeight + "px";
+        child.style.marginTop = "1em";
+      }
+
+      // Use the article root if the `back` call doesn't work. This isn't perfect
+      // but should typically work
+      window.quartoBackToArticle = () => {
+        var currentUrl = window.location.href;
+        window.history.back();
+        setTimeout(() => {
+            // if location was not changed in 100 ms, then there is no history back
+            if(currentUrl === window.location.href){              
+                // redirect to site root
+                window.location.href = "index.html";
+            }
+        }, 100);
+      }
+
+      const headroom = new window.Headroom(header, {
+        tolerance: 5,
+        onPin: function () {
+        },
+        onUnpin: function () {
+        },
+      });
+      headroom.init();
+    });
+    </script>
+
+    
+<script src="site_libs/manuscript-notebook/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -56,18 +145,15 @@ div.csl-indent {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-a74871fe4945b66d259aafc266475145.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script async="" src="https://hypothes.is/embed.js"></script>
+     <script async="" src="https://hypothes.is/embed.js"></script>
 <script>
   window.document.addEventListener("DOMContentLoaded", function (_event) {
     document.body.classList.add('hypothesis-enabled');
   });
-</script>
-<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+</script>  <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
 <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
-
-
-<meta name="citation_title" content="Putting human agency at the forefront in agentic AI for adolescents">
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">  
+      <meta name="citation_title" content="Putting human agency at the forefront in agentic AI for adolescents">
 <meta name="citation_keywords" content="human agency, agentic AI, CAIL, turing trap, AI Literacy, belief">
 <meta name="citation_author" content="Frederik J van Deventer">
 <meta name="citation_language" content="en">
@@ -451,9 +537,16 @@ div.csl-indent {
 <meta name="citation_reference" content="citation_title=Addressing Conceptual Gaps in Big Data Research Ethics: An Application of Contextual Integrity;,citation_abstract=The rise of big data has provided new avenues for researchers to explore, observe, and measure human opinions, activities, and interactions. While scholars, professional societies, and ethical review boards have long-established research ethics frameworks to ensure the rights and welfare of the research subjects are protected, the rapid rise of big data-based research generates new challenges to long-held ethical assumptions and guidelines. This article discloses emerging conceptual gaps in relation to how researchers and ethical review boards think about privacy, anonymity, consent, and harm in the context of big data research. It closes by invoking Nissenbaum’s theory of “privacy as contextual integrity” as a useful heuristic to guide ethical decision-making in big data research projects.;,citation_author=Michael Zimmer;,citation_publication_date=2018-04;,citation_cover_date=2018-04;,citation_year=2018;,citation_issue=2;,citation_doi=10.1177/2056305118768300;,citation_issn=2056-3051, 2056-3051;,citation_volume=4;,citation_language=en-US;,citation_journal_title=Social Media + Society;">
 </head>
 
-<body class="quarto-light">
+  <body class="quarto-notebook quarto-light">
+    <div id="quarto-embed-header" class="headroom fixed-top bg-primary">
+      
+      <a onclick="window.quartoBackToArticle(); return false;" class="btn btn-primary quarto-back-link" href=""><i class="bi bi-caret-left"></i> Back to Article</a>
+      <h6><i class="bi bi-journal-code"></i> Article Notebook</h6>
 
-<header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
+            <a href="./proposal-2026-03.qmd" class="btn btn-primary quarto-download-embed" download="proposal-2026-03.qmd">Download Source</a>
+          </div>
+
+     <header id="title-block-header" class="quarto-title-block default toc-left page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
       <h1 class="title">Putting human agency at the forefront in agentic AI for adolescents</h1>
@@ -484,7 +577,7 @@ div.csl-indent {
               </div>
       </div>
       <div class="quarto-title-meta-column-end quarto-other-formats-target">
-      <div class="quarto-alternate-formats"><div class="quarto-title-meta-heading">Other Formats</div><div class="quarto-title-meta-contents"><p><a href="proposal-2026-03.docx"><i class="bi bi-file-word"></i>MS Word</a></p></div><div class="quarto-title-meta-contents"><p><a href="proposal-2026-03.pdf"><i class="bi bi-file-pdf"></i>PDF</a></p></div></div></div>
+      </div>
     </div>
 
 
@@ -513,18 +606,13 @@ div.csl-indent {
   <li><a href="#theoretical-framework" id="toc-theoretical-framework" class="nav-link" data-scroll-target="#theoretical-framework">Theoretical Framework</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
-<div class="quarto-alternate-notebooks"><h2>Notebooks</h2><ul><li><a href="proposal-2026-03-preview.html"><i class="bi bi-journal-code"></i>Article Notebook</a></li><li><a href="proposal-2026-01-preview.html"><i class="bi bi-journal-code"></i>Avoiding the Turing Trap in an age of GenAI for increased human agency and freedom</a></li></ul></div></nav>
+</nav>
 </div>
 <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
 </div>
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">      
 
-
-
-  
-
-
-<section id="introduction" class="level2">
+       <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>Over the last decade Artificial Intelligence (AI) has been attributed a <em>sense of agency</em> (SoA)<span class="citation" data-cites="legaspiSyntheticAgencySense2019">(<a href="#ref-legaspiSyntheticAgencySense2019" role="doc-biblioref">Legaspi, He, and Toyoizumi 2019</a>)</span>. Even more so with the emerging paradigm Agentic AI, which is different to previous forms of AI such as large language models (LLMs), because it can operate (semi-)autonomously and pursue complex goals with little human intervention <span class="citation" data-cites="acharyaAgentic2025">(<a href="#ref-acharyaAgentic2025" role="doc-biblioref">Acharya, Kuppan, and Divya 2025</a>)</span>. This questions the nature of our human future and of our human agency <span class="citation" data-cites="andersonFutureHumanAgency2023">(<a href="#ref-andersonFutureHumanAgency2023" role="doc-biblioref">Anderson and Rainie 2023</a>)</span>, as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency <span class="citation" data-cites="anscombe1956intention davidsonIntending1978">(<a href="#ref-anscombe1956intention" role="doc-biblioref">Anscombe 1956</a>; <a href="#ref-davidsonIntending1978" role="doc-biblioref">Davidson 1978</a>)</span>. In <span class="citation" data-cites="giddens1984constitution">Giddens (<a href="#ref-giddens1984constitution" role="doc-biblioref">1984</a>)</span>’ definition human agency is the capability to “make a difference”, in other words to have and be able to exercise power over a situation.</p>
 <p>Young people around the globe are growing up in a different digital reality than their parents, where AI is playing a big part. After the “digital natives” of the early 2000’s and the debates for evidence that entailed <span class="citation" data-cites="bennettDigitalNativesDebate2008">(<a href="#ref-bennettDigitalNativesDebate2008" role="doc-biblioref">Bennett, Maton, and Kervin 2008</a>)</span>, one could argue that we are moving towards a generation of “AI natives” <span class="citation" data-cites="poncerojoDigitalNativesAI2025">(<a href="#ref-poncerojoDigitalNativesAI2025" role="doc-biblioref">Ponce Rojo et al. 2025</a>)</span>. A new group of adolescents that spend almost 7 hours and 30 minutes online per day <span class="citation" data-cites="kemp2025Digital2025Global2025">(<a href="#ref-kemp2025Digital2025Global2025" role="doc-biblioref">Kemp 2025</a>)</span>, on platforms where AI is embedded, e.g.&nbsp;in search algorithms, AI answers, or chat functions often signified with “AI” or ✨.</p>
@@ -563,7 +651,7 @@ div.csl-indent {
 <p><span class="citation" data-cites="habermas1971technology">Habermas (<a href="#ref-habermas1971technology" role="doc-biblioref">1971</a>)</span> describes the rationaliy of technology as ideological. The ideology that technological progress is inevitable and oppressive is in direct opposition to the hegemony of Silicon Valley that believes in Innovation at all costs, which <span class="citation" data-cites="winnerCultInnovationIts2018">Winner (<a href="#ref-winnerCultInnovationIts2018" role="doc-biblioref">2018</a>)</span> calls “Cult of Innovation”. Resulting in an almost religious approach to AI and AGI among others <span class="citation" data-cites="epsteinSiliconValleysObsession2024">(<a href="#ref-epsteinSiliconValleysObsession2024" role="doc-biblioref">Epstein 2024</a>)</span>.</p>
 <p>Hegelian <em>Rationality</em> should leads towards freedom and cannot be seen separate from the societal boundaries [<span class="citation" data-cites="Pippin_2008">Pippin (<a href="#ref-Pippin_2008" role="doc-biblioref">2008</a>)</span> p.&nbsp;122;], where there might be roles one fits instead of actually performing an action by one’s own beliefss. The concepts of agency put forward by <span class="citation" data-cites="giddens1984constitution">Giddens (<a href="#ref-giddens1984constitution" role="doc-biblioref">1984</a>)</span> and <span class="citation" data-cites="bandura2001social">Bandura (<a href="#ref-bandura2001social" role="doc-biblioref">2001</a>)</span> emphasise different dimensions. Where Giddens focuses on the social structure, “making a difference”, Bandura focuses on aspects that make up individual agency, <em>intentionality, forethought, self-reactiveness and self-reflectiveness</em>.</p>
 <p>Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill.</p>
-<div class="cell" data-layout-align="default">
+<div class="cell-container"><div class="cell-decorator"><pre>In [1]:</pre></div><div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
 <p></p><figure class="figure"><p></p>
@@ -595,7 +683,7 @@ div.csl-indent {
 <p></p></figure><p></p>
 </div>
 </div>
-<a class="quarto-notebook-link" id="nblink-1" href="proposal-2026-03-preview.html">Source: Article Notebook</a></div>
+</div></div>
 <!-- ## Methodology
 
 ### Thematic analysis
@@ -613,11 +701,8 @@ CDA tries to find patterns in power dynamics and social effects in discourse. In
 3. Analyse texts interdiscursively and linguistically  -->
 </section>
 <section id="references" class="level2 unnumbered">
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<h2 class="unnumbered anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-acharyaAgentic2025" class="csl-entry" role="listitem">
 Acharya, Deepak Bhaskar, Karthigeyan Kuppan, and B. Divya. 2025. <span>“Agentic <span>AI</span>: <span>Autonomous</span> Intelligence for Complex Goals—a Comprehensive Survey.”</span> <em>IEEE Access : Practical Innovations, Open Solutions</em> 13: 18912–36. <a href="https://doi.org/10.1109/ACCESS.2025.3532853">https://doi.org/10.1109/ACCESS.2025.3532853</a>.
 </div>
@@ -705,9 +790,10 @@ Voss, Peter, and Mladjan Jovanovic. 2023. <span>“Why <span>We Don</span>’t <
 <div id="ref-winnerCultInnovationIts2018" class="csl-entry" role="listitem">
 Winner, Langdon. 2018. <span>“The <span>Cult</span> of <span>Innovation</span>: <span>Its Myths</span> and <span>Rituals</span>.”</span> In <em>Engineering a <span>Better Future</span>: <span>Interplay</span> Between <span>Engineering</span>, <span>Social Sciences</span>, and <span>Innovation</span></em>, edited by Eswaran Subrahmanian, Toluwalogo Odumosu, and Jeffrey Y. Tsao, 61–73. Cham: Springer International Publishing. <a href="https://doi.org/10.1007/978-3-319-91134-2_8">https://doi.org/10.1007/978-3-319-91134-2_8</a>.
 </div>
-</div></section></div></main>
-<!-- /main column -->
-<script id="quarto-html-after-body" type="application/javascript">
+</div>
+</section>
+     </main>
+<!-- /main column -->  <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
     const anchorJS = new window.AnchorJS();
@@ -1106,10 +1192,6 @@ Winner, Langdon. 2018. <span>“The <span>Cult</span> of <span>Innovation</span>
       }
     }
   });
-  </script>
-</div> <!-- /content -->
-
-
-
-
+  </script>  </div> <!-- /content --> 
+  
 </body></html>

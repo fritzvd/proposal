@@ -1,5 +1,5 @@
 - Structuur van verhaal is nogal rommelig.
-  - worden veel dingen bij gehaald die irrelevant is
+  - worden veel dingen bij gehaald die irrelevant zijn
   - doelgroep is niet consistent
 - Toegevoegde wetenschappelijk en maatschappelijk waarde snel duiden
 - Scherpe probleemstelling
