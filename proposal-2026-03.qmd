@@ -61,7 +61,10 @@ The concepts of agency put forward by @giddens1984constitution and @bandura2001s
 Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill. 
 
 ```{mermaid}
+
+
 graph TD
+classDef Amber fill:#FFDEAD;
     soa[Sense of Agency among Youth]
     soc[Societal Beliefs] --> AGENCY
     ideology[Technocratic Ideologies] -. drive .-> tec
@@ -74,6 +77,9 @@ graph TD
     Gid[Giddens: Social Structure] --> soa
     Ban[Bandura: Individual] --> soa
     end
+
+class AGENCY Amber;
+
     %% Sci[Scientific Community] -- Discovers --> Inno((Innovations))
     %% Com[Tech Companies] -. Develop .-> Inno
     %% Inno --> Com

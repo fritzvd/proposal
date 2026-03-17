@@ -656,7 +656,9 @@
 <div>
 <p></p><figure class="figure"><p></p>
 <div>
-<pre class="mermaid mermaid-js">graph TD
+<pre class="mermaid mermaid-js">
+graph TD
+classDef Amber fill:#FFDEAD;
     soa[Sense of Agency among Youth]
     soc[Societal Beliefs] --&gt; AGENCY
     ideology[Technocratic Ideologies] -. drive .-&gt; tec
@@ -669,6 +671,9 @@
     Gid[Giddens: Social Structure] --&gt; soa
     Ban[Bandura: Individual] --&gt; soa
     end
+
+class AGENCY Amber;
+
     %% Sci[Scientific Community] -- Discovers --&gt; Inno((Innovations))
     %% Com[Tech Companies] -. Develop .-&gt; Inno
     %% Inno --&gt; Com
