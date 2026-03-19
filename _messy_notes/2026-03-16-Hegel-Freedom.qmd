@@ -1,7 +1,29 @@
+---
+bibliogaphy: ../references.bib
+---
 Hegel and the notion of work in his Arbeit see work as an effort towards freedom. His idea of freedom largely overlaps with modern notions of human agency: conscious rational self-determination [@bockTechnologyFreedomMechanization2021].
+
+Freedom as fulfilling yourself as "rational" individual. The system nudges and changes what you want. How can you be a rational self within a totalitarian and "actualise yourself".
 
 A recent meta study by @pengEmpowermentDependencySystematic shows AI systems can strenghen self-reactiveness, helping music students to monitor and to react to their learning.
 
 Interaction of humans with AI is said to influence moral decision-making, another big aspect of agency [@salatinoInfluenceAIBehavior2025]. @finzeLosingControlRole2024 .. nudging and loss of SoA
 
 A scale of SoA has been established by @tapalsenseofagencyscale2017. @legaspiMultidimensionalAnalysisSense2022 used AI to analyze agency in goal pursuit. 
+
+
+# What if I don't?
+
+## Giddens structuration
+
+1. Signification
+2. Domination
+3. Legitimation
+
+Social structures enable and constrain social actions as well as individuality @fuchs2002Giddens
+
+Hegel: “Becoming is an unstable unrest which settles into a stable result” (Hegel, 1812: §180).
+
+Hegel, Georg Wilhelm Friedrich (1812) The Science of Logic, trans. A. V. Miller, London: Allen & Unwin.
+
+Marcuse, Herbert (1941) Reason and Revolution. Hegel and the Rise of Social Theory, London: Routledge & Kegan Paul.

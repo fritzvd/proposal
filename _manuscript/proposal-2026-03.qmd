@@ -12,7 +12,11 @@ keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
 
 ## Introduction
 
-Over the last decade Artificial Intelligence (AI) has been attributed a _sense of agency_  (SoA)[@legaspiSyntheticAgencySense2019]. Even more so with the emerging paradigm Agentic AI, which is different to previous forms of AI such as large language models (LLMs), because it can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025]. This questions the nature of our human future and of our human agency [@andersonFutureHumanAgency2023], as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency [@anscombe1956intention; @davidsonIntending1978]. In @giddens1984constitution' definition human agency is the capability to "make a difference", in other words to have and be able to exercise power over a situation.
+Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. If yes, then perhaps not agency "arising from beliefs, desires and reasons" [@dattathraniConceptAgencyEra2023].
+
+This distinction between human and technological agency becomes more blurred with the emerging paradigm of Agentic AI , which is different to previous forms of AI such as large language models (LLMs), because it can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025].
+
+This questions the nature of our human future and of our human agency [@andersonFutureHumanAgency2023], as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency [@anscombe1956intention; @davidsonIntending1978]. In @giddens1984constitution' structuralist definition of human agency, placed within society, it is the capability to "make a difference", in other words to have and be able to exercise power over a situation in certain context.
 
 Young people around the globe are growing up in a different digital reality than their parents, where AI is playing a big part. After the "digital natives" of the early 2000's and the debates for evidence that entailed [@bennettDigitalNativesDebate2008], one could argue that we are moving towards a generation of "AI natives" [@poncerojoDigitalNativesAI2025]. A new group of adolescents that spend almost 7 hours and 30 minutes online per day [@kemp2025Digital2025Global2025], on platforms where AI is embedded, e.g. in search algorithms, AI answers, or chat functions often signified with "AI" or ✨.
 
@@ -24,11 +28,14 @@ How then do we avoid the Turing Trap for our young people, who form half of the 
 
 ## Gap
 
-In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in conjunction with AI in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how to increase human agency for humans now.
+In the course of history, human development has been argued to increase where agency and liberty increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. 
+The role technology plays in society and the way it interacts with our human agency has been a topic of much debate [], with 
 
+Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in conjunction with AI in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how to increase human agency for humans now. Or what the effect is of Agentic AI on Sense of Agency (SoA).
 
+One area of study related to increasing human agency surrounding AI is _AI Literacies_. Learning about AI systems explains how they perform, this demystifies and increases people's insight in these systems [@pinskiAILiteracyUsers2024] which helps to reduce anthropomorphism [@drugaHowChildrensPerceptions2021]. Anthropomorphism is one of the things that can lead to false perceptions and misunderstanding of AI abilities[@barrowAnthropomorphismAIHype2024].
 
-One area of study related to increasing human agency surrounding AI is _AI Literacies_. Learning about AI systems explains how they perform, this demystifies and increases people's insight in these systems [@pinskiAILiteracyUsers2024] which helps to reduce anthropomorphism [@drugaHowChildrensPerceptions2021]. Anthropomorphism is one of the things that can lead to false perceptions and misunderstanding of AI abilities[@barrowAnthropomorphismAIHype2024]. 
+The way Agentic AI or AI in general is influencing agency in adolescents has not been studied, apart from the influence it has on critical thinking [@surianoStudentInteractionChatGPT2025], and why and how they use it for studying [@daiWhyStudentsUse2025; @silvennoinenStudentsUsageGenAI2025; @suonpaaStudentsPerceptionsGenerative2024]
 
 ## Hook 
 
@@ -45,7 +52,7 @@ How can adolescents achieve increased human agency and freedom in a world with a
 
 1. How are students interacting with agentic AI or GenAI? 
 2. How is AI affecting the execution of day-to-day tasks (e.g. study, work, household chores)?
-3. How do adolescents rate their sense of agency?
+3. How do adolescents rate their sense of agency on the Scale of Sense of Agency [@tapalsenseofagencyscale2017]?
 4. What beliefs do adolescents have about AI and its capabilities in relation to their own capabilities?
 5. In what ways are AI Literacies affecting these beliefs? 
 6. How do adolescents discern hype from reality?
@@ -53,10 +60,10 @@ How can adolescents achieve increased human agency and freedom in a world with a
 
 ## Theoretical Framework
 
-@habermas1971technology describes the rationaliy of technology as ideological. The ideology that technological progress is inevitable and oppressive is in direct opposition to the hegemony of Silicon Valley that believes in Innovation at all costs, which @winnerCultInnovationIts2018 calls "Cult of Innovation". Resulting in an almost religious approach to AI and AGI among others [@epsteinSiliconValleysObsession2024]. 
+@habermas1971technology describes the rationality of technology as ideological. His ideology that technological progress is inevitable and oppressive [@habermas1971technology pp.] is in direct opposition to the hegemony of Silicon Valley that believes in Innovation at all costs, which @winnerCultInnovationIts2018 calls "Cult of Innovation". Resulting in an almost religious approach to AI and AGI among others [@epsteinSiliconValleysObsession2024]. 
 
-Hegelian _Rationality_ should leads towards freedom and cannot be seen separate from the societal boundaries [@Pippin_2008 p. 122;], where there might be roles one fits instead of actually performing an action by one's own beliefss. 
-The concepts of agency put forward by @giddens1984constitution and @bandura2001social emphasise different dimensions. Where Giddens focuses on the social structure, "making a difference", Bandura focuses on aspects that make up individual agency, _intentionality, forethought, self-reactiveness and self-reflectiveness_.
+Hegelian _Rationality_ should leads towards freedom and cannot be seen separate from the societal boundaries [@Pippin_2008 p. 122;], where there might be roles one fits instead of actually performing an action by one's own beliefs. 
+The concepts of agency put forward by @giddens1984constitution and @bandura2001social emphasise different dimensions. Where Giddens focuses on the social structure and its society: "making a difference", Bandura focuses on aspects that make up individual agency, _intentionality, forethought, self-reactiveness and self-reflectiveness_.
 
 Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill. 
 
@@ -64,32 +71,36 @@ Sense of Agency in relation to Agentic AI or AI in general, is under pressure fr
 
 
 graph TD
-classDef Amber fill:#FFDEAD;
-    soa[Sense of Agency among Youth]
-    soc[Societal Beliefs] --> AGENCY
-    ideology[Technocratic Ideologies] -. drive .-> tec
-    tec[Technological Innovations]
-    pers[Personal Beliefs about AI] -. shape .->AGENCY
+classDef Amber fill:#FFDEEF;
+    soa(Sense of Agency among Youth)
+    soc(Societal Beliefs) --> AGENCY
+    ideology(Technocratic Ideologies) -. drive .-> tec
+    tec(Technological Innovations)
+    pers(Personal Beliefs about AI) -. shape .->AGENCY
     tec -. influence .-> AGENCY
 
     subgraph AGENCY["Sense of Agency"]
     direction TB
-    Gid[Giddens: Social Structure] --> soa
-    Ban[Bandura: Individual] --> soa
+    Gid(Giddens: Social Structure) --> soa
+    Ban(Bandura: Individual) --> soa
     end
 
 class AGENCY Amber;
-
-    %% Sci[Scientific Community] -- Discovers --> Inno((Innovations))
-    %% Com[Tech Companies] -. Develop .-> Inno
-    %% Inno --> Com
-    %% Com -. Fund .-> Sci
-    %% Inno -. Lead to .-> Products
-    %% Com -- Develop --> Products(New Products)
-    %% Products -- Marketed to --> Cu{Customers}
-    %% Com -- influence --> Media
-    %% Media -. inflates importance .-> Cu
 ```
+
+<!-- ## Planning
+
+```{mermaid}
+gantt
+    title Planning PhD
+    dateFormat YYYY
+    section Literary Framework
+        A task          :a1, 2027-01-01, 240d
+        Another task    :a2, 2027-08-01, 365d
+    section Another
+        Task in Another :b1, 2028-01-01, 365d
+        another task    :after b1, 365d
+``` -->
 
 <!-- ## Methodology
 
