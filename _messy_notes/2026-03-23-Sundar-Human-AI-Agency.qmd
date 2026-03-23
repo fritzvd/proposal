@@ -1,0 +1,23 @@
+---
+title: notes 2026-02-12
+bibliography: ../references.bib
+mainfont: Palatino
+# mainfont: Latin Modern Roman
+sansfont: Palatino
+---
+
+@sundarRiseMachineAgency2020 uses the concept of proxy agency by @bandura2001social to say: "personal agency gains in  magnitude when individuals influence others in desirable and self-fulfilling ways (proxy agency)."
+
+- "We seem to be heading toward a future where autonomous bots are taskted with limiting the self-agency of bad human actors". [@sundarRiseMachineAgency2020]
+- "Going forth, instead of simply documenting gain or loss of human agency, it would be fruitful for
+researchanddesigntounderstandthetrade-offs,andfocusonstrategiesfornegotiatingagencybetween
+the human user and the intelligent machine." [@sundarRiseMachineAgency2020]
+
+## Freedom dimensions (Danaher)
+
+- Intelligibility/Rationality
+- Manipulation
+- Domination
+
+_"Technological development has invested the powers that be with
+not only more efficient, better and more deadly instruments of coercion but with the instruments of persuasion decidedly more efficient than those hitherto used by the political bosses.."_ - [@mathurTechnologyFreedom]
