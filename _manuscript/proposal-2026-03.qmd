@@ -63,33 +63,33 @@ How can adolescents excercise increased  human agency and freedom in a with agen
 7. How do adolescents discern hype from reality?
 8. In what ways can understanding of these phenomena enhance their freedom of choice?
 
-<!-- ## Theoretical Framework
+## Theoretical Framework
 
 @habermas1971technology describes the rationality of technology as ideological. His ideology that technological progress is inevitable and oppressive [@habermas1971technology] is in direct opposition to the hegemony of Silicon Valley that believes in Innovation at all costs, which @winnerCultInnovationIts2018 calls "Cult of Innovation". Resulting in an almost religious approach to AI and AGI among others [@epsteinSiliconValleysObsession2024]. 
 
 Hegelian _Rationality_ should leads towards freedom and cannot be seen separate from the societal boundaries [@Pippin_2008 p. 122;], where there might be roles one fits instead of actually performing an action by one's own beliefs. 
 
-Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill.  -->
+Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill. 
 
 ```{mermaid}
 
 
-%% graph TD
-%% classDef Amber fill:#FFDEEF;
-%%     soa(Sense of Agency among Youth)
-%%     soc(Societal Beliefs) --> AGENCY
-%%     ideology(Technocratic Ideologies) -. drive .-> tec
-%%     tec(Technological Innovations)
-%%     pers(Personal Beliefs about AI) -. shape .->AGENCY
-%%     tec -. influence .-> AGENCY
+graph TD
+classDef Amber fill:#FFDEEF;
+    soa(Sense of Agency among Youth)
+    soc(Societal Beliefs) --> AGENCY
+    ideology(Technocratic Ideologies) -. drive .-> tec
+    tec(Technological Innovations)
+    pers(Personal Beliefs about AI) -. shape .->AGENCY
+    tec -. influence .-> AGENCY
 
-%%     subgraph AGENCY["Sense of Agency"]
-%%     direction TB
-%%     Gid(Giddens: Social Structure) --> soa
-%%     Ban(Bandura: Individual) --> soa
-%%     end
+    subgraph AGENCY["Sense of Agency"]
+    direction TB
+    Gid(Giddens: Social Structure) --> soa
+    Ban(Bandura: Individual) --> soa
+    end
 
-%% class AGENCY Amber;
+class AGENCY Amber;
 ```
 
 <!-- ## Planning
