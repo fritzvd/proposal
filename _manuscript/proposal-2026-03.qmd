@@ -44,13 +44,15 @@ In goal attainment and AI assisted coaching, there is a real opportunity for an 
 
 ## Hook 
 
-If we want to create circumstances for technology where humans can thrive we need to be able to accept a pluralistic view of technology. As technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57].
+If we want to create circumstances for technology where humans can thrive we need to be able to accept a pluralistic view of technology. As technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57]. 
+
+_(Feenberg 10 paradoxes of technology, equal and opposed reaction, of Adorno Instrumental Rationality)_
 
 It is therefore imperative to understand how and why agency is being threatened and how agency can be increased in the context of Agentic AI. That firstly means understanding how we can assess agency is being influenced. I propose using and translating the Sense of Agency Scale [@tapalsenseofagencyscale2017] to the context of Agentic AI. Secondly what kind of influence AI Literacy can have on understanding Agentic AI.
 
 ## Research Questions
 
-How can adolescents excercise increased  human agency and freedom in a with agentic AI?
+How is technological ideology, which manifests itself as Agentic AI, impacting capabilities for adolescent human agency and how can its negative impacts be mitigated?
 
 ### Sub-questions
 
@@ -65,11 +67,9 @@ How can adolescents excercise increased  human agency and freedom in a with agen
 
 ## Theoretical Framework
 
-@habermas1971technology describes the rationality of technology as ideological. His ideology that technological progress is inevitable and oppressive [@habermas1971technology] is in direct opposition to the hegemony of Silicon Valley that believes in Innovation at all costs, which @winnerCultInnovationIts2018 calls "Cult of Innovation". Resulting in an almost religious approach to AI and AGI among others [@epsteinSiliconValleysObsession2024]. 
+@habermas1971technology describes the rationality of technology as ideological. His ideology that technological progress is inevitable and oppressive [@habermas1971technology] is in direct opposition to the techno-optimistic hegemony of Silicon Valley that believes in Innovation at all costs with determinist and positivist view of its results, which @winnerCultInnovationIts2018 calls "Cult of Innovation". Resulting in an almost religious approach to AI and AGI among others [@epsteinSiliconValleysObsession2024].
 
-Hegelian _Rationality_ should leads towards freedom and cannot be seen separate from the societal boundaries [@Pippin_2008 p. 122;], where there might be roles one fits instead of actually performing an action by one's own beliefs. 
-
-Sense of Agency in relation to Agentic AI or AI in general, is under pressure from societal beliefs and expectations that we have that technology will fullfill. 
+The acceptance of society of this belief in progress by technological means influences and steers decision-making. @feenberg2009technology social factors and technical override technological deternimism. We do not have to blindly follow technology where it leads. There is no inevitability for the course technology takes society.
 
 ```{mermaid}
 
