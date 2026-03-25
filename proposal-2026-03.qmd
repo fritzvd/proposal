@@ -12,7 +12,7 @@ keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
 
 ## Introduction
 
-Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. If they do exhibit, then perhaps not agency "arising from beliefs, desires and reasons" [@dattathraniConceptAgencyEra2023].
+Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. If they do, then perhaps not agency "arising from beliefs, desires and reasons" [@dattathraniConceptAgencyEra2023], but a more technical view with limited or no mental representations [@cibralicMachineAgencyRepresentation2024].
 
 This distinction between human and technological agency becomes more blurred with the emerging paradigm of Agentic AI, which is different to previous forms of AI such as large language models (LLMs), because it can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025].
 
@@ -72,7 +72,6 @@ How is technological ideology, which manifests itself as Agentic AI, impacting c
 The acceptance of society of this belief in progress by technological means influences and steers decision-making. @feenberg2009technology social factors and technical override technological deternimism. We do not have to blindly follow technology where it leads. There is no inevitability for the course technology takes society.
 
 ```{mermaid}
-
 
 graph TD
 classDef Amber fill:#FFDEEF;
