@@ -1,0 +1,168 @@
+---
+author: Fritz Van Deventer
+bibliography: ../references.bib
+date: 2026-04-08
+title: agency teacher
+---
+
+
+[T]his concept of agency highlights that actors always act by means of their environment
+rather than simply in their environment [so that] the achievement of agency will always
+result from the interplay of individual efforts, available resources and contextual and
+structural factors as they come together in particular and, in a sense, always unique
+situations. @biestaAgencyLearningLifecourse2007
+
+
+Good. That’s a **clean empirical entry point**. I’ll translate it into a **theory‑coherent study frame** tied to **Foucault / Sen / Emirbayer‑Mische**, with **measurable dimensions** and **sharp pitfalls**.
+
+I’ll be blunt where designs usually fail.
+
+***
+
+# Study focus (rephrased precisely)
+
+**Context**: Adolescents performing school work in environments where AI systems materially affect performance **under partial prohibition**.
+
+**Core question**:  
+How do students *actually exercise agency* when AI is present, regulated, or forbidden?
+
+Not ethics. Not attitudes. **Practices under constraint.**
+
+***
+
+# 1. “How do students operationalize working with AI systems (especially when not allowed)?”
+
+### What this really asks (theoretically)
+
+*   **Foucault**: How power rules are navigated, bent, internalized.
+*   **Emirbayer & Mische**: How habitual, improvised, and future‑oriented action reorganizes itself.
+*   **Sen**: How students convert AI access into effective functioning despite restrictions.
+
+### Measurable aspects (do not dilute)
+
+| Dimension                       | What to observe                                        | Method                                         |
+| ------------------------------- | ------------------------------------------------------ | ---------------------------------------------- |
+| **Task decomposition**          | Which parts students delegate to AI vs retain          | Artifact analysis (drafts, prompts, revisions) |
+| **Covert workarounds**          | Use of paraphrasing, secondary tools to mask AI use    | Process tracing, think‑alouds                  |
+| **Temporal placement**          | At what stage AI is used (ideation, execution, repair) | Log reconstruction, timelines                  |
+| **Normalization through peers** | Shared tactics, signals, tacit norms                   | Group interviews, network analysis             |
+| **Risk calibration**            | How much students push boundaries                      | Scenario probes                                |
+
+### Interpretation (important)
+
+*   This is **agency-through-adaptation**, not cheating behavior.
+*   You are measuring **practical‑evaluative agency**, not morality.
+
+**Design failure to avoid**:  
+Self‑report surveys about “AI use.” You’ll get lies or ideology.
+
+***
+
+# 2. “What penalization is known to them?”
+
+This is not about rules. It’s about **expected consequences**.
+
+### Theoretical grounding
+
+*   **Foucault**: Discipline works via *anticipation* of surveillance.
+*   **Emirbayer & Mische**: Anticipated futures shape present action.
+*   **Sen**: High penalty lowers feasible capability even if technically allowed.
+
+### Measurable aspects
+
+| Dimension                      | What to measure                               | Why                                |
+| ------------------------------ | --------------------------------------------- | ---------------------------------- |
+| **Penalty clarity**            | Can students articulate sanctions accurately? | Uncertainty is itself disciplinary |
+| **Perceived enforcement**      | Likelihood of being caught vs punished        | Power ≠ rulebook                   |
+| **Sanction gradient**          | Informal (teacher trust loss) vs formal       | Informal penalties deter more      |
+| **Inequality of enforcement**  | Who gets punished in practice                 | Reveals structural bias            |
+| **Moralization vs pragmatism** | Is AI framed as wrong or risky?               | Different subject formations       |
+
+### Methods
+
+*   Vignette experiments (same act, different detection probability)
+*   Comparative interviews across tracks / schools
+*   Case analysis of actual sanctions
+
+**Hard critique**:  
+Most institutions think penalties deter. They mostly **teach concealment skills**.
+
+***
+
+# 3. “What do institutes prescribe and restrict?”
+
+This is a **structural conditions map**, not policy analysis.
+
+### Theoretical grounding
+
+*   **Foucault**: Institutions define the field of possible action.
+*   **Sen**: Prescriptions shape conversion factors.
+*   **E\&M**: Institutional time pressures compress evaluative agency.
+
+### What to document (precisely)
+
+| Layer                    | What to collect                    | Why                 |
+| ------------------------ | ---------------------------------- | ------------------- |
+| **Formal policy**        | AI rules, syllabi statements       | Official discourse  |
+| **Local interpretation** | Teacher practices and deviations   | Real governance     |
+| **Assessment design**    | What counts as performance         | Incentive structure |
+| **Detection regimes**    | Tools, audits, suspicion practices | Visibility & fear   |
+| **Temporal constraints** | Deadlines, workload peaks          | Drives AI reliance  |
+
+### Key analytic move
+
+Compare:
+
+*   **What is forbidden**
+    vs
+*   **What is practically necessary to succeed**
+
+That gap is where agency happens.
+
+***
+
+# Cross-cutting indicators (usable across theories)
+
+If you want **one clean analytic backbone**, track:
+
+1.  **Constraint density** (rules × enforcement × time pressure)
+2.  **Workarounds per task**
+3.  **Outcome dependency on AI**
+4.  **Peer diffusion speed of tactics**
+5.  **Penalty asymmetry across students**
+
+This lets you move between micro practice and structure **without psychologizing**.
+
+***
+
+# What not to pretend
+
+*   This is **not** about autonomy.
+*   This is **not** primarily about learning outcomes.
+*   This is **not** solved by “AI literacy” interventions.
+
+It is about **how institutions train students to manage power asymmetrically with machines**.
+
+***
+
+# Sharp criticisms (since you asked)
+
+*   Many studies will moralize AI use and miss agency entirely.
+*   Asking “is AI allowed” is irrelevant; *enforcement* matters.
+*   Adolescents are treated as rule‑followers; empirically false.
+*   Most AI policy is symbolic compliance theater.
+
+***
+
+# Two questions you must answer before proceeding
+
+1.  Are you studying **student adaptation** or **institutional hypocrisy**?  
+    You can’t do both cleanly in one paper.
+
+2.  Will your data allow you to reconstruct **process**, not just outcomes?  
+    If no, stop—your claims will be weak.
+
+If you want, I can:
+
+*   turn this into a **study design matrix**, or
+*   help you **kill weak research questions before ethics review**.

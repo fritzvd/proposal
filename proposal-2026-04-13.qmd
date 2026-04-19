@@ -1,0 +1,18 @@
+---
+title: "What is agency according to other disciplines?"
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+# csl: slncs-alphabetical.csl
+keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
+---
+
+## Introduction
+
+Agency is an ambiguous term used differently in psychology, sociology and philosophy usually pointing towards to ability to act towards ones intentions effectively.
+The sociologist perspective is that agency does not happen in a void but is part of a structure [@giddens1984constitution], that is part of a temporal reality [@emirbayerWhatAgency1998] or is dependent on its _"ecology"_ [@biestaAgencyLearningLifecourse2007]. The way these intentions and goals are formed are often explained by psychologists as part of the action-theory framework []. Both accounts are a result philosophy that 
+
+These terms are however very much related. The psychological notion of agency, does not exist without the structure an actor has to exercise its agency in. The notion of free will

@@ -1,0 +1,87 @@
+---
+author: Fritz Van Deventer
+bibliography: ../references.bib
+date: 2026-04-08
+title: Patterns of myths in technology
+---
+
+
+
+Digital Habitus imaginaries [@romele2023digital]
+
+The third is the idea that the effectiveness
+of these machines does not depend exclusively on their concrete capacities
+but also on the imaginaries (representations charged with feelings such as
+fear and hope) that people have toward them and that are crystallized in
+cultural productions like online images representing AI as white robots,
+blue skies, and so on.
+
+Digital Habitus and Future Imaginaries..?
+
+## Chordal Triad
+- _the temporally constructed engagement by actors of different structural environments—the temporal-relational contexts of action—which, through the interplay of habit, imagination, and judgment, both reproduces and transforms those structures in interactive response to the problems posed by changing historical situations._ [@emirbayerWhatAgency1998]
+
+
+Agency over time
+
+- iterational (past)
+  - changes and reinforces structures
+- projective (future)
+  - imagined outcomes, fears hopes
+- practical-evaluative (now)
+  - practical normative judgments for action
+
+Consciencousness towards something (Husserl) --> Agency is agency towards _something_
+
+The self is not a metaphysical substance or entity such as soul or will. Dialogical structure, able to converse with oneself.
+
+_The Semiotic Self_ Norbert Wiley (1994): the interpretive process [taking place
+within it] is, within limits, open and free,” and that this “in turn allows
+humans to create as well as to pursue goals.
+
+### Iterational
+
+Consists of:
+- selective attention
+- recognition of types
+- categorical location
+
+In Empirical research:
+
+
+### Projectivity
+
+Consists of:
+- Anticipatory identification
+- Narrative construction
+- Symbolic recomposition
+- Hypothetical resolution
+- Experimental enactment
+
+In Empirical research:
+
+_We argue that projectivity needs to be rescued from the subjectivist ghetto and put to use in empirical research as an essential element in understanding processes of social reproduction and change._
+
+- Time perspectives
+- Prophetic movements
+- Framing processes
+- Institutional innovation
+
+
+## Practical-evaluative
+
+- problematization
+- decision
+- execution
+  
+
+
+## For my research
+
+The chordal triad of agency, while approaching agency more holistically becomes enormous to research. To dissect a number of aspects of it, I would like to focus on:
+
+- situatedness or circumstance, structure
+  - capabilities in a temporal and societal structure
+- self-reflective negotiation
+- consequences of action, disclosed effects, actional disclosure
+- 

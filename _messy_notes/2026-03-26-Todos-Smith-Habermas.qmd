@@ -1,0 +1,35 @@
+---
+title: notes 2026-03-26
+bibliography: ../references.bib
+mainfont: Palatino
+# mainfont: Latin Modern Roman
+sansfont: Palatino
+---
+
+## Todo
+
+- Re-read proposal
+  - the gap is just a summation of gaps, not a clear "vision"
+  - hook describes societal stuff the intro too, the gap doesn't really, nor do the research questions
+  - the difficulty lies in connecting the macro (societal with the micro (personal agency)
+    - Is this a good direction to take, or does it distract and needlessly complicate?
+  - noting really AGENTIC specific, but more AI in general..
+- expand AI literacies
+- Cleanup mess in Downloads
+- Organize and structure work for coming weeks
+- Expand mixed methods part
+- Discuss: intervention or exploration
+- Define: which groups, which adolescents
+- Ethical Commission
+
+
+Digital Habitus imaginaries [@romele2023digital]
+
+The third is the idea that the effectiveness
+of these machines does not depend exclusively on their concrete capacities
+but also on the imaginaries (representations charged with feelings such as
+fear and hope) that people have toward them and that are crystallized in
+cultural productions like online images representing AI as white robots,
+blue skies, and so on.
+
+Digital Habitus and Future Imaginaries..?

@@ -1,0 +1,7 @@
+---
+author: Fritz Van Deventer
+bibliography: ../references.bib
+date: 2026-04-08
+title: Patterns of myths in technology
+---
+

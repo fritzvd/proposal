@@ -1,0 +1,15 @@
+---
+title: notes 2026-03-30
+bibliography: ../references.bib
+mainfont: Palatino
+# mainfont: Latin Modern Roman
+sansfont: Palatino
+---
+
+# Pre-promotie-klas
+
+1e aanvraag: 
+    - duidelijke aanleiding van probleem
+    - duidelijke theoretische verankering: Community Psychologyu
+    - overzicht van fasen en methoden (en wie / aantal deelnemers)
+

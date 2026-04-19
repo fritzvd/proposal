@@ -1,0 +1,29 @@
+---
+format: hugo-md
+author: fritzvd
+draft: true
+type: post
+bibliography: ../references.bib
+tags:
+  - philosophy
+date: 2026-04-02T17:04:23Z
+title: What is freedom?
+---
+_And in thus willing freedom, we discover that it depends entirely upon the freedom of others and that the freedom of others depends upon our own._ [@ExistentialismHumanismJeanPaul]
+
+To be free, to experience individual freedom, is to be able to will something and go out and do it. To be a self that deliberates within one self and be determinate to see the goal of volition achieved. This presupposes a number of things:
+
+1. I am a self
+2. I am a self that can observe and relate to myself
+3. I am able to discern my will, to have an intention 
+4. I can act towards this will, or to realise this intention.
+
+However as we experience, freedom is not so one-dimensional and simple.
+
+First of all, we are not alone in this world. We could say that the freedom we experience is only freedom until it comes up against the freedom of others. If an adjacent other, exerts their own freedom, they are bound to come up against our freedom at some point. For example, I want eat the apple in front of me, but another person, or even a goat    next to me wants to eat the same apple.
+
+Secondly we do not just encounter another outside of us, but within us there are other forces too. In ourselves we find we are being overruled by passions, addictions, needs that seem more urgent than the goals we set for ourselves rationally.
+
+In order to be free, I might for the moment push away freedom and be subservient to the laws and tasks I am to perform to gain more freedom.
+
+Much of my life is governed by mere chance. Into what circumstances am I born? What kind of choices are made for me by my legal guardians. All of this opens a realm of possibility.
