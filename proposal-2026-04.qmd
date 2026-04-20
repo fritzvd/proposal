@@ -20,17 +20,9 @@ Over the last decade the question whether Artificial Intelligence (AI) itself ex
 
 This questions the notion of human agency [@andersonFutureHumanAgency2023], as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency [@anscombe1956intention; @davidsonIntending1978]. The chordal triad of @emirbayerWhatAgency1998 suggests placing agency within not just a structure [@giddens1984constitution] but in what @mead1932philosophy calls the _temporal_ dimension of sociality, using past, present and imagined futures as 3 dimensions on which agency is performed: _iterational_, _practical-evaluative_ and _prospective_. Most of these theories are individual and describe the action of an agency up to a certain point: that of acting itself and the effect it causes. @biestaAgencyLearningLifecourse2007 engages with the chordal triad of agency by focussing on the notion of _agency achieved_ in an _"ecological understanding"_ of agency [@biestaHowAgencyPossible]; it is here that the effect of action becomes realized and experienced.
 
-The _iterational_ aspect is exposed in structure and collective beliefs expressed in instruments such as policies, or punitive action or attitudes of individuals. Beliefs about "inevitability of technology" and the cult of innovation [@winnerCultInnovationIts2018] pervade, while at the same time mistrust and weariness keeps AI out of universities [@guestUncriticalAdoptionAI2025].
+The _iterational_ aspect is exposed in structure and collective beliefs or ideology expressed in instruments such as policies, or punitive action or attitudes of individuals. Beliefs about "inevitability of technology" and the cult of innovation [@winnerCultInnovationIts2018] pervade, while at the same time mistrust and weariness tries to keeps AI out of universities [@guestUncriticalAdoptionAI2025]. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is be assistive to our human needs [@arora2024pessimism p. 32]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57]. 
 
-Students navigate these punitive faculties, policies and teacher narratives as ecology in which they need to realize goals. Their agency changing from situation to situation. Are they seeing their volitions realized as _achieved agency_?
-
-
-<!-- The already great concentration in economic and political power by technologists is expected to only increase if we focus on replacing human labour by automating tasks instead of augmenting human labour with AI, leading to a situation where those "without power have no way to improve their outcomes", what @brynjolfssonTuringTrapPromise2022 calls the _Turing Trap_, concerning Human-Like AI which is closely related to AAI. Or in terms closer related to this research a situation where those without power have no way to realise achieved agency. -->
-
-<!-- Systems of control coercion, foucault. -->
-<!-- how is action, autonomy and agency threatened -->
-<!-- 
-How then do we avoid the Turing Trap for our young people, who form half of the world's population [@WorldPopulationProspects], and increase their efficacy to see their volitions realized as _achieved agency_? -->
+Students navigate these punitive faculties, policies and teacher narratives as ecology in which they need to realize goals, their agency changing from situation to situation. Are they seeing their volitions realized as _achieved agency_?
 
 ## Knowledge Gap
 
@@ -52,9 +44,10 @@ Then temporal aspect of agency as suggested in the above mentioned _chordal tria
 
 ## Contribution to scientific discourse 
 
-The threats and opportunities for the achieved agency of adoloscents are unclear in the context of Agentic AI. First of all collecting work on how AAI and GenAI are shaping agency needs to be reviewed.
-Secondly I want to research the _iterational_ dimension [@emirbayerWhatAgency1998 p. 975] by uncovering what beliefs and habits belie the day-to-day tasks that interact with AAI.
-Thirdly I will investigate how students enact their intentions within their temporal-relational context of action and how their achieving of agency shapes their context. This means looking into the _prospective_ dimension of the chordal triad [@emirbayerWhatAgency1998 p. 984], where goals or aspirations are set and then actualized through the _practical-evaluative_ dimension.
+The threats and opportunities for the achieved agency of students are unclear in the context of Agentic AI. First of all collecting work on how AAI and GenAI are shaping agency needs to be reviewed.
+Secondly I want to research the _iterational_ dimension [@emirbayerWhatAgency1998 p. 975] by uncovering what beliefs or ideology is encapsulated in teacher narratives, rules and policy surrounding (A)AI.
+Thirdly I want to 
+Lastly I will investigate how students enact their intentions within their temporal-relational context of action and how their achieving of agency feedbacks into shaping their context, by looking at how students react to changing policies. This means looking into the _prospective_ dimension of the chordal triad [@emirbayerWhatAgency1998 p. 984], where goals or aspirations are set and then actualized through the _practical-evaluative_ dimension.
 
 ## Research Questions
 
@@ -63,9 +56,8 @@ In what way is _agency achieved_ impacted for students as a result of changing c
 ### Sub-questions
 
 1. How can we categorize known effects of GenAI and Agentic AI on agency systematically?
-2. How are prevalent beliefs disclosed in policy and teacher narratives?
-3. In what way is the ecology in which action is performed changing because of AAI?
-4. In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions?
+2. How are prevalent beliefs disclosed in the ecology of achieved agency changing policy and teacher narratives because of AAI?
+3. In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions?
 
 ## Methodology
 
@@ -75,8 +67,7 @@ In the following section I will elaborate on how I will conduct the research des
 |-|-------------------|----|
 | RQ1 | How can we categorize known effects of GenAI and Agentic AI on agency systematically? | Systematic Literature Review |
 | RQ2 | How are prevalent beliefs disclosed in policy and teacher narratives? | Critical Discourse Analyis | 
-| RQ3 | In what way is the ecology in which action is performed changing because of AAI? | Longitudinal study
-| RQ4 | In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions? | Mixed-Method
+| RQ3 | In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions? | Mixed-Method
 
 : Research Questions and how they relate to methods {.striped} 
 
@@ -95,16 +86,12 @@ CDA tries to find patterns in power dynamics and social effects in discourse. In
 2. Select texts
 3. Analyse texts interdiscursively and linguistically 
 
-### RQ3: Experiment
-
-This is where an intervention like AI Literacies will take center stage to see if this can help understand Agentic AI better to find out if a better way to deal and cope with these technologies helps students to use these more properly. The survey used for RQ2 could then again be used to see if this changes anything.
-
-### RQ4: Mixed-method
+### RQ3: Mixed-method
 
 _Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students. Thematic analysis is a more subjective approach to data, where language is central. It requires a _coding_ process that uses semantic and latent codes to categorize statements and find _themes_ and _subthemes_ of meaning in texts.
 
 After the initial analysis and recognized larger themes questions will be formulated to be able to use a more quantitative approach in the form of a survey.
-
+<!-- 
 ## Theoretical Framework
 
 As @biestaAgencyLearningLifecourse2007 interacts with @emirbayerWhatAgency1998 we get a
@@ -118,7 +105,7 @@ classDef Amber fill:#FFDEEF;
     prospective(Prospective) --> practeval
     practeval -.agency.-> Action
 
-```
+``` -->
 
 
 ## References
