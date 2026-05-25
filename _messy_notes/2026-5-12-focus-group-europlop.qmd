@@ -1,0 +1,23 @@
+---
+author: Fritz Van Deventer
+bibliography: ../references.bib
+date: 2026-04-08
+title: Patterns of beliefs
+---
+
+1. A summary of the topic
+2. Outcomes you envision
+3. A brief description of how you will organize the session
+4. Time budget
+5. The required number of participants (min/max/both)
+6. Some focus groups may also require prior knowledge about certain concepts or technologies. In this case please specify briefly what is expected from attendees
+7. The Focus Groups should not function as just means of "cheap labor" for your work, thus try to think of any way in which the Focus Group would benefit the participants
+
+
+## Summary
+
+_"I think in many ways GPT-5 is already smarter than me and many other people,"_ says Sam Altman when interviewed by Die Welt [@burgardOpenAIChefSamAltman2025]. Anthromorphisation, mystification and hype currently have surrounded Artificial Intelligence since the late 1950s [@guestUncriticalAdoptionAI2025]. AI is not alone in being communicated in a "hyped" fashion, that can involve "exaggerations about the significance or certainty of research findings [@intemannUnderstandingProblemHype2022]. This has been the case for a lot of topics such as but not limited to: neuroimaging, stem cell research, nanotechnology, genomics, and artifical intelligence.
+
+But what we are seeing is not new. Firstly we have seen this before with the exact same term in different guises since the 1950s: AI [@guestUncriticalAdoptionAI2025]. What we are seeing is a repetition of technology industry overpromising new techniques or technologies and packaging them as a panacea for all kinds of problems or General Purpose Tools, while also decreasing emphasis on a large variety of negative consequences that this technology also brings. For example the profound physical impact these new technologies are having on our environment [@crawford2021atlas p. 49], the security issues of models with jailbreak attempts [@perezIgnorePreviousPrompt2022, @liMultistepJailbreakingPrivacy2023, @carliniExtractingTrainingData2021]. Technologies are not neutral by nature, and do not automatically point toward "progress".
+
+Underneath our actions lie beliefs about our capability to act according to our own volition [@skinne

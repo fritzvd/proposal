@@ -6,7 +6,7 @@ type: post
 bibliography: ../references.bib
 tags:
   - philosophy
-date: 2026-04-02T17:04:23Z
+date: 2026-05-07T17:04:23Z
 title: What is freedom?
 ---
 _And in thus willing freedom, we discover that it depends entirely upon the freedom of others and that the freedom of others depends upon our own._ [@ExistentialismHumanismJeanPaul]
@@ -20,10 +20,14 @@ To be free, to experience individual freedom, is to be able to will something an
 
 However as we experience, freedom is not so one-dimensional and simple.
 
-First of all, we are not alone in this world. We could say that the freedom we experience is only freedom until it comes up against the freedom of others. If an adjacent other, exerts their own freedom, they are bound to come up against our freedom at some point. For example, I want eat the apple in front of me, but another person, or even a goat    next to me wants to eat the same apple.
+First of all, we are not alone in this world. We could say that the freedom we experience is only freedom until it comes up against the freedom of others. If an adjacent other, exerts their own freedom, they are bound to come up against our freedom at some point. For example, I want eat the apple in front of me, but another person, or being such as a goat, next to me wants to eat the same apple.
 
-Secondly we do not just encounter another outside of us, but within us there are other forces too. In ourselves we find we are being overruled by passions, addictions, needs that seem more urgent than the goals we set for ourselves rationally.
+Secondly we do not just encounter another outside of us, but within us there are other forces too. In ourselves we find we are being overruled by passions, addictions, needs that seem more urgent than the goals we set for ourselves rationally. 
 
-In order to be free, I might for the moment push away freedom and be subservient to the laws and tasks I am to perform to gain more freedom.
+If I can muster up the courage to overcome my impulses and addictions I might rationally conceive that I want to sacrfice a part of my absolute freedom to be subservient to the laws, rules and tasks I am to perform to gain more freedom. For example I can decide not to exercise my freedom to go for a swim, but instead tend to my garden where I grow tomatoes, so that later I will have better or more tomatoes. In another example, I can submit myself to buying a ticket for the journey I am to make with the train. While I am free to choose not to buy a ticket, I choose to do so. The reason might be two-fold: a) for fear of getting a fine or b) because I believe in the institution of the train company and want to see that prolonged. Although in truth, we mostly do things out of habit, we feel like we _ought_ to have bought a ticket.
 
-Much of my life is governed by mere chance. Into what circumstances am I born? What kind of choices are made for me by my legal guardians. All of this opens a realm of possibility.
+Mostly we subscribe to the idea that to exercise prolonged freedom we must also obey rules that are not just setup by nature (e.g. although we also must obey the law of gravity we cannot choose not to), but by fellow human beings.
+
+Freedom is thus actualized not only by my wants, but also by respecting other free wills and societies restrictions. While these restrictions perhaps momentarily restrict our direct freedom, they grant us larger freedom for the society as a whole.
+
+<!-- Much of my life is governed by mere chance. Into what circumstances am I born? What kind of choices are made for me by my legal guardians. All of this opens a realm of possibility while at the same time constricting and negating other options. -->

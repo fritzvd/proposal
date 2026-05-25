@@ -1,0 +1,80 @@
+---
+title: "Agency loops for students in an age of Agentic AI"
+authors:
+  - name: Frederik J van Deventer
+    affiliation: HAN University of Applied Sciences
+    roles: writing
+    corresponding: true
+bibliography: references.bib
+# csl: slncs-alphabetical.csl
+keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
+---
+
+## Introduction
+
+_"But Chat said this was a good solution"_ is something I hear in a number of variations from my students, where Chat means ChatGPT or another chat-based LLM project. Students are learning to work with these systems more and more [@kumarGuidingStudentsUsing2024] as AI is playing a bigger part in student's academic work, school projects and school policy. 
+
+The freedom to act according to one's own intention and volition is often described as agency, or a level of control [@skinnerGuideConstructsControl]. It is this freedom that is described as _achieved agency_ by @biestaAgencyLearningLifecourse2007 when it is **realised** "through the active engagement of individuals with aspects of their contexts-for-action", that always exists in an temporal-relational _ecology_ [@biestaHowAgencyPossible]. This _achieved agency_ is under pressure when systems become more important in decision making and can even influence personal decision-making with "hypernudging" [@yeungHypernudgeBigData2017]. With systems with AI responsibility circulates among human and non-human actors, creating "agency loops" [@leonardiHomoAgenticusAge2025].
+@ExistentialismHumanismJeanPaul said that our freedom "depends entirely upon the freedom of others and that the freedom of others depends upon our own". If systems themselves are displaying agency are they then infringing on our human agency?
+
+Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. This distinction between human and technological agency becomes more blurred with the emerging paradigm of Agentic AI (AAI), which is different to previous forms of AI such as Generative AI (GenAI), which we encounter in platforms like ChatGPT, Claude or Co-pilot [@naikChatGPTAllYou2024], because AAI can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025]. Both GenAI and AAI largely depend on recent developments in Large Language Models (LLMs). With AAI multiple instances of these GenAI-bots run in the background interfacing each other creating seemingly autonomous and agentic systems, as a evolutionary next step from the GenAI chat-platforms widely in use among students already [@silvennoinenStudentsUsageGenAI2025; @daiWhyStudentsUse2025].
+
+The _iterational_ aspect of @emirbayerWhatAgency1998's agency upon which @biestaAgencyLearningLifecourse2007 based the _achieved agency_ is exposed in structure and collective beliefs, as truth expressed in instruments such as policies or punitive action [@Foucault1980TruthPower p.131], or as expressed by teachers in their narratives or dispositions [@nesporRoleBeliefsPractice1987]. Beliefs about "inevitability of technology" and the cult of innovation [@winnerCultInnovationIts2018] pervade, while at the same time mistrust and weariness tries to keeps AI out of universities [@guestUncriticalAdoptionAI2025]. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is there to be assistive to our human needs [@arora2024pessimism p. 32], and changes us just as much as we change it [@bruno1994technical, p.33]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57].
+
+Students navigate these punitive faculties, policies and teacher narratives as ecology in which they need to realize goals, their agency changing from situation to situation. Is Agentic AI infringing on their intentional volitions realized as _achieved agency_?
+
+## Knowledge Gap
+
+Most literature focusing on AI is not (yet) mentioning AAI, but using GenAI, which is closely related as precursor to AAI paradigm that also utilizes LLMs. This firstly shows the need to further examine the phenomenon of AAI in relation to students. Secondly where GenAI is used in studies we can use as corollary for the type of results AAI.
+
+The way AAI or GenAI is influencing agency in students seems not to have been studied, apart from the influence it has on critical thinking [@surianoStudentInteractionChatGPT2025], and why and how they use it for studying [@daiWhyStudentsUse2025; @silvennoinenStudentsUsageGenAI2025; @suonpaaStudentsPerceptionsGenerative2024]. The Human AI - Interaction framework suggested by @sundarRiseMachineAgency2020 incorporates agency, but mostly highlights interesting avenues to pursue rather than diving into topics such as: human and AI collaboration, the seeming either/or thinking of machine vs human agency; agency is seen as a "mediating variable" in the machine/human interaction [@sundarRiseMachineAgency2020].
+
+Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in conjunction with AI in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how achieved agency for humans now. Or how AAI is changing realized intentions.
+
+Theorizations of agency by @biestaAgencyLearningLifecourse2007 clarify that action flows from the values and beliefs of a person. This study will try to deepen understanding on this interplay of beliefs and agency realised in the context of Agentic AI among students.
+
+## Research Questions
+
+### Main research question
+
+How is Agentic AI influencing beliefs among students and impacting agency as achieved?
+
+#### Sub Questions
+
+1. How are values and beliefs impacting agency as achieved?
+2. How are prevalent beliefs disclosed within the ecology of achieved agency changing policy and teacher narratives because of AAI?
+3. In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions?
+
+## Methodology
+
+|  | Question | Method| minimum number of participants
+|-|-------------------|----|--|
+| RQ1 | How are values and beliefs impacting agency as achieved? | Systematic Literature Review | not applicable
+| RQ2 | How are prevalent beliefs disclosed within the ecology of achieved agency changing policy and teacher narratives because of AAI?| Critical Discourse Analyis |  n = 5-8
+| RQ3 | In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions? | Mixed-Method | n = 5-8 for interviews n ~ 200 for surveys
+
+: Research Questions and how they relate to methods {.striped} 
+
+### RQ1: Systematic Literature Review
+
+To find out what studies related to agency a systematic literature will be conducted that searches for studies that relate to agency..
+
+
+### RQ2: Critical Discourse Analyis
+
+Through _critical discourse analyis_ (CDA) I will look at what kind of language is constructing narratives, describes relations of power and how it creates or reinforces beliefs [@blommaertCriticalDiscourseAnalysis2000].
+
+CDA tries to find patterns in power dynamics and social effects in discourse. In this analysis we can take the texts further and analyze context and intertextuality to challenge social inequalities. I will focus mainly on step two: _Identify obstacles to addressing the social wrong_ of this process which consists of three stages [@fairclough2013critical]:
+
+1. Analyse dialectical relations
+2. Select texts
+3. Analyse texts interdiscursively and linguistically
+
+To assist in the Critical Discourse analysis I will use the @Cui2023 package for R to help quantify some aspects of it.
+
+### RQ3: Mixed-method
+
+_Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students. Thematic analysis is a more subjective approach to data, where language is central. It requires a _coding_ process that uses semantic and latent codes to categorize statements and find _themes_ and _subthemes_ of meaning in texts. The coding will be assisted by the @rqda package 
+
+After the initial analysis and recognized larger themes questions will be formulated to be able to use a more quantitative approach in the form of a survey.
+

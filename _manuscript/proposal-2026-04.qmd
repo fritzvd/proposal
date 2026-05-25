@@ -7,46 +7,39 @@ authors:
     corresponding: true
 bibliography: references.bib
 # csl: slncs-alphabetical.csl
-keywords: social psychology, sociology, human agency, agentic AI, turing trap, AI Literacy, beliefs
+keywords: sociology, human agency, agentic AI, turing trap, AI Literacy, beliefs
 ---
 
 ## Introduction
 
 Young people around the globe are growing up in a different digital reality than their parents, where Artificial Intelligence (AI) is playing a big part.
-Regardless of whether the term of "AI natives" bares truth, there is a new group of students that spend almost 7 hours and 30 minutes online per day [@kemp2025Digital2025Global2025], on platforms where AI is embedded, e.g. in search algorithms, AI answers, or chat functions often signified with "AI" or ✨. 
-However, this does not mean that these students have an innate skill or that they can see "behind the curtain" of these technologies just as we expected them to in the debunked "digital natives" narrative of the 2000s [@selwynDigitalNativeMyth2009].
+Regardless of whether the term of "AI natives" bares truth, there is a new group of adolescents that spend almost 7 hours and 30 minutes online per day [@kemp2025Digital2025Global2025], on platforms where AI is embedded, e.g. in search algorithms, AI answers, or chat functions often signified with "AI" or ✨. 
+However, this does not mean that these adolescents have an innate skill or that they can see "behind the curtain" of these technologies just as we expected them to in the debunked "digital natives" narrative of the 2000s [@selwynDigitalNativeMyth2009].
 
-Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. This distinction between human and technological agency becomes more blurred with the emerging paradigm of Agentic AI (AAI), which is different to previous forms of AI such as Generative AI (GenAI), which we encounter in platforms lik ChatGPT, Claude or Co-pilot [@naikChatGPTAllYou2024], because AAI can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025]. Both GenAI and AAI largely depend on recent developments in Large Language Models (LLMs). With AAI multiple instances of these GenAI-bots run in the background interfacing each other creating seemingly autonomous and agentic systems, as a evolutionary next step from the GenAI chat-platforms widely in use among students [@silvennoinenStudentsUsageGenAI2025; @daiWhyStudentsUse2025].
+Over the last decade the question whether Artificial Intelligence (AI) itself exhibits agency has been debated [@legaspiSyntheticAgencySense2019; @swanepoelDoesArtificialIntelligence2021]. This distinction between human and technological agency becomes more blurred with the emerging paradigm of Agentic AI (AAI), which is different to previous forms of AI such as Generative AI (GenAI), which we encounter in platforms like ChatGPT, Claude or Co-pilot [@naikChatGPTAllYou2024], because AAI can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025]. Both GenAI and AAI largely depend on recent developments in Large Language Models (LLMs). With AAI multiple instances of these GenAI-bots run in the background interfacing each other creating seemingly autonomous and agentic systems, as a evolutionary next step from the GenAI chat-platforms widely in use among students already [@silvennoinenStudentsUsageGenAI2025; @daiWhyStudentsUse2025].
 
-This questions the notion of human agency [@andersonFutureHumanAgency2023], as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency [@anscombe1956intention; @davidsonIntending1978]. The chordal triad of @emirbayerWhatAgency1998 suggests placing agency within not just a structure [@giddens1984constitution] but in what @mead1932philosophy calls the _temporal_ dimension of sociality, using past, present and imagined futures as 3 dimensions on which agency is performed: _iterational_, _practical-evaluative_ and _prospective_. Most of these theories are individual and describe the action of an agency up to a certain point: that of acting itself and the effect it causes. @biestaAgencyLearningLifecourse2007 engages with the chordal triad of agency by focussing on the notion of _agency achieved_ in an _"ecological understanding"_ of agency [@biestaHowAgencyPossible]; it is here that the effect of action becomes realized and experienced.
+This questions the notion of human agency [@andersonFutureHumanAgency2023], as systems now also seem to (1) act with (2) intention and a certain kind of (3) reasoning, three aspects often associated with agency [@anscombe1956intention; @davidsonIntending1978]. The chordal triad of @emirbayerWhatAgency1998 suggests placing agency within not just a structure [@giddens1984constitution] but in what @mead1932philosophy calls the _temporal_ dimension of sociality, using past, present and imagined futures as 3 dimensions on which agency is performed: _iterational_, _practical-evaluative_ and _prospective_. Most of these theories are individual and describe the action of an agency up to a certain point: that of acting itself and the effect it causes. @biestaAgencyLearningLifecourse2007 enhances the chordal triad of agency by focussing on the notion of _agency achieved_ in an _"ecological understanding"_ of agency [@biestaHowAgencyPossible]; it is here that the effect of action becomes realized and experienced.
 
-The _iterational_ aspect is exposed in structure and collective beliefs or ideology expressed in instruments such as policies, or punitive action or attitudes of individuals. Beliefs about "inevitability of technology" and the cult of innovation [@winnerCultInnovationIts2018] pervade, while at the same time mistrust and weariness tries to keeps AI out of universities [@guestUncriticalAdoptionAI2025]. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is be assistive to our human needs [@arora2024pessimism p. 32]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57]. 
+The _iterational_ aspect is exposed in structure and collective beliefs, as truth expressed in instruments such as policies or punitive action [@Foucault1980TruthPower p.131]. Beliefs about "inevitability of technology" and the cult of innovation [@winnerCultInnovationIts2018] pervade, while at the same time mistrust and weariness tries to keeps AI out of universities [@guestUncriticalAdoptionAI2025]. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is there to be assistive to our human needs [@arora2024pessimism p. 32], and changes us just as much as we change it [@bruno1994technical, p.33]. Regulation and policy fueled by ideology (both benefiting the few or the many) has been the driver for the direction this advancement would take us [@johnsonPowerProgressOur2023 pp. 57]. 
 
-Students navigate these punitive faculties, policies and teacher narratives as ecology in which they need to realize goals, their agency changing from situation to situation. Are they seeing their volitions realized as _achieved agency_?
+Students navigate these punitive faculties, policies and teacher narratives as ecology in which they need to realize goals, their agency changing from situation to situation. Is Agentic AI affecting their intentional volitions realized as _achieved agency_?
 
 ## Knowledge Gap
 
 Most literature focusing on AI is not (yet) mentioning agentic AI, but using GenAI, which is closely related as precursor to Agentic AI paradigm that also utilizes LLMs. So a number of the studies mentioned below are chosen from that context.
 
-In the course of history, human development has been argued to increase where agency and freedom increase [@PradosdelaEscosura_2022; @senDevelopmentFreedom1999]. Agency is however a bloated term that can mean a number of things in different domains, such as psychology where it focuses on individual human agency [@bandura2001social] or sociology where it focuses on the structures in which an actor operates [@giddens1984constitution]. Agency is a term closely related to and with overlaps to terms such as autonomy and freedom. To be clear in this context, "agency" means for an actor to be free to act true to that same actor's intentions, considering their circumstance (structure),their beliefs (iterational aspect of @emirbayerWhatAgency1998).
-
-This in itself is impossible to measure cleanly, being dependent on so many factors. But some attempts have been made to measure how people perceive their _sense of agency_ [@tapalsenseofagencyscale2017] or how Trust in Automation (TiA) influences there autonomy [@kohnMeasurementTrustAutomation2021]. There are also different models that propose "measures of agency" [@grunbaumMeasuresAgency2020] or how concepts like autonomy and ability contribute to agency or measuring proxies for agency [@alkire2008concepts].
-
-Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in conjunction with AI in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how to increase human agency for humans now. Or what the effect is of Agentic AI on agency or Sense of Agency (SoA).
-
 The way Agentic AI or GenAI is influencing agency in students seems not to have been studied, apart from the influence it has on critical thinking [@surianoStudentInteractionChatGPT2025], and why and how they use it for studying [@daiWhyStudentsUse2025; @silvennoinenStudentsUsageGenAI2025; @suonpaaStudentsPerceptionsGenerative2024]. The Human AI - Interaction framework suggested by @sundarRiseMachineAgency2020 incorporates agency, but mostly highlights interesting avenues to pursue rather than diving into topics such as: human and AI collaboration, the seeming either/or thinking of machine vs human agency; agency is seen as a "mediating variable" in the machine/human interaction [@sundarRiseMachineAgency2020].
 
-One area of study related to increasing human agency surrounding AI is _AI Literacies_. Learning about AI systems explains how they perform, this demystifies and increases people's insight in these systems [@pinskiAILiteracyUsers2024] which helps to reduce anthropomorphism [@drugaHowChildrensPerceptions2021]. Anthropomorphism is one of the things that can lead to false perceptions and misunderstanding of AI abilities[@barrowAnthropomorphismAIHype2024]. AI Literacies among students has not been studied in relation to neither human agency, their sense of agency, nor other similar approaches such as a capabilities approach.
+Agentic AI and AI goals in general, largely seem to focus on increasing abilities for models or replacing tedious tasks performed by humans. While research has been done about future projections of human agency in conjunction with AI in decision making [@pewFutureHuman2023] and in education [@moutaWhereAgencyMoving2025] it does not deal with how achieved agency for humans now. Or how AAI is changing realized intentions.
 
-In goal attainment and AI assisted coaching, there is a real opportunity for an AI to participate in the process this then is suggested to increase agency [@plotkinaUnearthingAICoaching2024]. A review collecting these kinds of studies, that are influential to agency could not be found.
+Some attempts have been made to measure how people perceive their _sense of agency_ [@tapalsenseofagencyscale2017] or how Trust in Automation (TiA) influences there autonomy [@kohnMeasurementTrustAutomation2021]. But these are usually very individual and psychological, rather than structural or power relation studies. There are also different models that propose "measures of agency" [@grunbaumMeasuresAgency2020] or how concepts like autonomy and ability contribute to agency or measuring proxies for agency [@alkire2008concepts].
 
 Then temporal aspect of agency as suggested in the above mentioned _chordal triad of agency_ seems not have been used at all towards agentic AI or GenAI.
 
 ## Contribution to scientific discourse 
 
-The threats and opportunities for the achieved agency of students are unclear in the context of Agentic AI. First of all collecting work on how AAI and GenAI are shaping agency needs to be reviewed.
+The threats and opportunities for the achieved agency of students are unclear in the context of Agentic AI. First of all collecting work on how AAI and GenAI are affecting agency needs to be reviewed.
 Secondly I want to research the _iterational_ dimension [@emirbayerWhatAgency1998 p. 975] by uncovering what beliefs or ideology is encapsulated in teacher narratives, rules and policy surrounding (A)AI.
-Thirdly I want to 
 Lastly I will investigate how students enact their intentions within their temporal-relational context of action and how their achieving of agency feedbacks into shaping their context, by looking at how students react to changing policies. This means looking into the _prospective_ dimension of the chordal triad [@emirbayerWhatAgency1998 p. 984], where goals or aspirations are set and then actualized through the _practical-evaluative_ dimension.
 
 ## Research Questions
@@ -63,11 +56,12 @@ In what way is _agency achieved_ impacted for students as a result of changing c
 
 In the following section I will elaborate on how I will conduct the research described in the above mentioned research questions.
 
-|  | Question | Method|
-|-|-------------------|----|
-| RQ1 | How can we categorize known effects of GenAI and Agentic AI on agency systematically? | Systematic Literature Review |
-| RQ2 | How are prevalent beliefs disclosed in policy and teacher narratives? | Critical Discourse Analyis | 
-| RQ3 | In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions? | Mixed-Method
+
+|  | Question | Method| minimum number of participants
+|-|-------------------|----|--|
+| RQ1 | How can we categorize known effects of GenAI and Agentic AI on agency systematically? | Systematic Literature Review | not applicable
+| RQ2 | How are prevalent beliefs disclosed in policy and teacher narratives? | Critical Discourse Analyis |  n = 5-8
+| RQ3 | In what ways are students performing day-to-day tasks, by either conforming or subverting rules and restrictions? | Mixed-Method | n = 5-8 for interviews n ~ 200 for surveys
 
 : Research Questions and how they relate to methods {.striped} 
 
@@ -78,19 +72,23 @@ To find out what studies related to agency a systematic literature will be condu
 
 ### RQ2: Critical Discourse Analyis
 
-Through _critical discourse analyis_ (CDA) I will look at what kind of language is constructing narratives, describes relations of power and how it creates or reinforces myths [@blommaertCriticalDiscourseAnalysis2000].
+Through _critical discourse analyis_ (CDA) I will look at what kind of language is constructing narratives, describes relations of power and how it creates or reinforces beliefs [@blommaertCriticalDiscourseAnalysis2000].
 
 CDA tries to find patterns in power dynamics and social effects in discourse. In this analysis we can take the texts further and analyze context and intertextuality to challenge social inequalities. I will focus mainly on step two: _Identify obstacles to addressing the social wrong_ of this process which consists of three stages [@fairclough2013critical]:
 
 1. Analyse dialectical relations
 2. Select texts
-3. Analyse texts interdiscursively and linguistically 
+3. Analyse texts interdiscursively and linguistically
+
+To assist in the Critical Discourse analysis I will use the @Cui2023 package for R to help quantify some aspects of it.
 
 ### RQ3: Mixed-method
 
-_Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students. Thematic analysis is a more subjective approach to data, where language is central. It requires a _coding_ process that uses semantic and latent codes to categorize statements and find _themes_ and _subthemes_ of meaning in texts.
+_Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students. Thematic analysis is a more subjective approach to data, where language is central. It requires a _coding_ process that uses semantic and latent codes to categorize statements and find _themes_ and _subthemes_ of meaning in texts. The coding will be assisted by the @rqda package 
 
 After the initial analysis and recognized larger themes questions will be formulated to be able to use a more quantitative approach in the form of a survey.
+
+
 <!-- 
 ## Theoretical Framework
 

@@ -1,0 +1,210 @@
+---
+author: Fritz Van Deventer
+bibliography: ../references.bib
+date: 2026-04-08
+title: Patterns of belief in policy surrounding Agentic AI
+---
+
+Below is a **tight workshop setup** for **one activity: Scenario Walkthrough**, with **3 concrete scenarios** aligned to *achieved agency, beliefs, rules, and subversion*. No fluff.
+
+***
+
+## Workshop Activity: Scenario Walkthrough (Agency Lens)
+
+**Duration:** 45–60 min  
+**Participants:** Educators *or* developers (not mixed unless you want power noise)  
+**Output:** Agency gains/losses, beliefs, rule effects
+
+### Instructions (same for all scenarios)
+
+For each scenario, ask participants to answer **only these questions**:
+
+1.  Who decides *what* and *when*?
+2.  Where is student agency reduced or extended?
+3.  What belief or rule is doing the real work here?
+
+Document answers on a shared board.
+
+***
+
+## Scenario 1 — Delegated Planning
+
+**Setup**  
+A secondary school allows an agentic study-planning assistant.  
+The system:
+
+*   Breaks down assignments
+*   Schedules study time
+*   Adapts plans based on performance  
+    Students can override, but rarely do.
+
+**Prompt**
+
+*   Is planning still a student act?
+*   Is compliance mistaken for agency?
+
+**Agency tension**
+
+*   Practical‑evaluative vs outsourced decision-making
+*   Quiet loss of achieved agency
+
+***
+
+## Scenario 2 — Policy-Constrained Use
+
+**Setup**  
+University policy bans AI for “substantive cognitive work” but allows it for “support.”  
+An agentic AI checks drafts and flags “AI overuse.”  
+Students learn how to work *around* detection.
+
+**Prompt**
+
+*   Is rule‑subversion agency or erosion?
+*   Who defines “substantive”?
+
+**Agency tension**
+
+*   Iterational beliefs (control, distrust)
+*   Ecology shaping action
+
+***
+
+## Scenario 3 — Coaching Toward Goals
+
+**Setup**  
+An agentic AI acts as a goal coach.  
+It asks reflective questions, suggests strategies, but never executes tasks.  
+Students report higher motivation and clarity.
+
+**Prompt**
+
+*   Is agency scaffolded or manufactured?
+*   What happens if the coach disappears?
+
+**Agency tension**
+
+*   Prospective dimension
+*   Dependency risk vs achieved agency
+
+***
+
+## Closing Synthesis (10 min max)
+
+Ask participants:
+
+*   Which scenario most threatens *achieved agency*?
+*   Which belief should be challenged first?
+
+***
+
+### Criticism
+
+*   If participants struggle to identify agency shifts, your concepts are still too abstract.
+
+### Question
+
+Do you want this to surface **normative judgments** or **design constraints**? You can’t optimize for both.
+
+
+Here is a **scientific conference focus‑group format** for the **Scenario Walkthrough**, adjusted for senior researchers, short time, and analytical output.
+
+***
+
+## Conference Focus Group: Scenario Walkthrough (Agency & Agentic AI)
+
+**Session type:** Structured focus group / interactive panel  
+**Duration:** 60–75 min  
+**Participants:** Researchers + senior educators *or* AI researchers (max 15)  
+**Goal:** Expose assumptions, theoretical tensions, and research gaps — not consensus
+
+***
+
+### Structure
+
+#### 1. Framing (5 min)
+
+*   One slide: *Agency ≠ autonomy ≠ agency attribution*
+*   Define **achieved agency** and **agentic AI** in 3 sentences.
+*   State rule: *respond analytically, not normatively*.
+
+***
+
+#### 2. Scenario Walkthrough (3 × 15 min)
+
+Each scenario runs the same way.
+
+**Step A – Silent reading (2 min)**  
+Participants read scenario text individually.
+
+**Step B – Individual annotation (3 min)**  
+Each participant notes:
+
+*   Agent(s)
+*   Decision locus
+*   Temporal dimension (iterational / practical‑evaluative / prospective)
+
+**Step C – Moderated discussion (10 min)**  
+Moderator asks **only**:
+
+1.  Where does achieved agency increase or collapse?
+2.  What implicit theory of agency is being assumed?
+3.  What is under‑theorized here?
+
+No solutions. No design talk.
+
+***
+
+### Scenarios (shortened for conference)
+
+#### Scenario 1 — Delegated Planning
+
+Agentic AI plans, schedules, adapts. Students comply.
+
+*Focus:* erosion via convenience  
+*Theory stress‑test:* planning as agency vs execution as agency
+
+***
+
+#### Scenario 2 — Policy and Subversion
+
+AI rules restrict use; students route around them.
+
+*Focus:* agency as resistance  
+*Theory stress‑test:* compliance vs subversion in agency theory
+
+***
+
+#### Scenario 3 — Reflective Coach
+
+AI scaffolds goal‑setting but never acts.
+
+*Focus:* achieved agency vs dependency  
+*Theory stress‑test:* prospective agency without execution
+
+***
+
+#### 3. Cross‑Scenario Synthesis (15 min)
+
+Participants respond to **one prompt**:
+
+> Which scenario exposes the biggest *theoretical blind spot* in current AI‑agency research?
+
+Cluster responses live (board or slide).
+
+***
+
+### Data Capture
+
+*   Audio recording (discussion only)
+*   Collected annotations (index cards or digital)
+*   Moderator memo per scenario
+
+***
+
+### Criticism
+
+*   This is theory‑heavy; if participants drift to ethics or policy, you failed to frame it tightly.
+
+### Question
+
+Is this focus group meant to **generate theory** or **justify your model choice (Emirbayer/Biesta)**? Decide now.
