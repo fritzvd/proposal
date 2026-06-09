@@ -24,11 +24,11 @@ Executive functions like cognitive flexibility, working memory, or inihibition a
 
 ## Research Questions
 
-How can students still able to develop in order to be able to act towards their volitions in a world where the ecology for goal-oriented behaviour is changing because of Agentic AI?
+How can students still develop in order to be able to act towards their volitions in a world where the ecology for goal-oriented behaviour is changing because of Agentic AI?
 
 #### Sub Questions
 
-1. What values and beliefs are prevalent among students concerning Agentic AI?
+1. How do values and beliefs shape attitudes and adoption of Agentic AI among students?
 2. In what way is Agentic AI entering academic and non-academic tasks and changing the lives of students?
 3. How can students focus on the development of executive functions with Agentic AI?
 
@@ -36,7 +36,7 @@ How can students still able to develop in order to be able to act towards their 
 
 |  | Question | Method| minimum number of participants
 |-|-------------------|----|--|
-| RQ1 | What values and beliefs are prevalent among students concerning Agentic AI? | Thematic Analysis / UMT | n = 6 / n ~ 200
+| RQ1 | How do values and beliefs shape adoption of Agentic AI among students? | Thematic Analysis / UMT | n = 6 / n ~ 200
 | RQ2 | In what way is Agentic AI entering academic and non-academic tasks and changing the lives of students? | Mixed-Method | n = 5-8 for interviews n ~ 40 for self-report cards
 | RQ3 | How can students focus on the development of executive functions with Agentic AI? | Scenario Development and focus groups |  n = 20-40
 
@@ -46,11 +46,16 @@ How can students still able to develop in order to be able to act towards their 
 
 As clarified in the Knowledge Gap, there is a close relation between action and belief, however in the context of Agentic AI the values and beliefs among students. In @kramerTeachersBeliefsComponent2019 the word _worldview_ is used to describe this belief, which in @biestaHowAgencyPossible's definition would contribute to the _ecology_. The way this is investigated in @kramerTeachersBeliefsComponent2019 is through the use of @leontievApproachingWorldviewStructure2007's Ultimate Meanings Technique (UMT). 
 
-Where @kramerTeachersBeliefsComponent2019 used UMT to discover worldview among teachers I will investigate among a small group of students.
+Where @kramerTeachersBeliefsComponent2019 used UMT to discover worldview among teachers I will investigate among a small group of students. The Ultimate Meanings Technique is a form of structured interview, that allows for easily being recorded on paper while conducting it. By starting out with a general "why"-question, the interviewer notes the answer(s) and continues of questioning line until an 'ultimate explainable meaning' is reached. The answers to the questions can be structured hierarchically in a nodal structure, like a "mind map", which in UMT terms is called the _meaning tree_.
 
-_Thematic analysis_ will be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students concerning these worldviews.
+To analyse this the interviews will be analysed:
+1. Structurally by looking at the structure of a meaning tree. In the structural analysis repetition, negative statements and categories are identified.
+2. With content analysis that focuses on the way a subject is using both negative and positive language to display connectedness with people in the direct environment and society at large, concerning one with oneself at the cost of goal-directed activity, and self-restriction and what one does not allow oneself to do. To give an example to the question: "Why do people go to school?" -> "To _not_ fall behind", "To be able to find a job". Etc. 
+3. Phenomenologically to describe how the person projects worldview on things in the word to be, rather than how they are. By doing this finding more subjective meanings.
 
-After the initial analysis and recognized larger themes questions will be formulated to be able to use a more quantitative approach in the form of a survey.
+The results of a UMT can then be used to discuss with students to further investigate if what they believe to give meaning and is important to them also corresponds to how they interact and adopt Agentic AI. _Thematic analysis_ can be used as @naeemStepbyStepProcessThematic2023 and @braun2021thematic describe it to find common themes and topics in personal qualitative interview with students to concerning these worldviews and beliefs.
+
+After the initial analysis, when larger themes are recognized questions will be formulated to be able to use a more quantitative approach in the form of a survey.
 
 ### RQ2: Mixed-method
 
