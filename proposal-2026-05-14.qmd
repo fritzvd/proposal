@@ -7,7 +7,8 @@ authors:
     corresponding: true
 bibliography: references.bib
 # csl: slncs-alphabetical.csl
-keywords: human agency, agentic AI, CAIL, turing trap, AI Literacy, belief
+absract: Agentic AI is a new form of AI which can seemingly act and think semi-autonomously, being able to perform tasks linked to executive functions such as planning, problem-solving and reasoning. These are also areas where we expect students to grow during their studies. This research seeks to uncover how values and beliefs of both students and their environment are changing and the way students encounter Agentic AI, by using the Ultimate Meanings Technique, and mixed-method techniques. To explore what this means for the future the Manoa Scenario technique will be used in focus groups.
+keywords: human agency, agentic AI, CAIL, AI Literacy, belief
 ---
 
 ## Introduction
@@ -19,7 +20,7 @@ This _achieved agency_ is under pressure when systems circulate responsibility a
 
 The distinction between human and technological agency blurs with Agentic AI (AAI), as AAI can operate (semi-)autonomously and pursue complex goals with little human intervention [@acharyaAgentic2025]. AAI uses instances of Generative AI (GenAI) interfacing with eachother creating seemingly autonomous and agentic systems, as a next step from the GenAI chat-platforms widely in use among students already [@silvennoinenStudentsUsageGenAI2025]. A more concrete example is OpenClaw, which attempts to be a somewhat more AAI consumer-friendly tool, it "sends emails, manages your calendar, checks you in for flights. All from [...] any chat app you already use" [@OpenClawPersonalAI]. This is a remarkable departure from how GenAI is being used. AAI at the moment has already taken hold of the Software Engineering on a large scale, where agents are running in the background to not only write code, but also to write up specifications, documentation, plan tasks, review and evaluate the work, largely leaving humans to manage "software teams" that consist of AI agents.
 
-Executive functions like cognitive flexibility, working memory, or inihibition are shown to strongly relate to study success [@serpellDevelopmentExecutiveFunctions]. These tasks include goal-oriented behaviours and planning, but also reasoning and problem-solving. AAI seems to step into exactly these areas where students need to grow during there time at a higher education institute. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is there to be assistive to our human needs [@arora2024pessimism p. 32], and changes us just as much as we change it [@bruno1994technical, p.33]. In what direction are we then changing with it, are we changing towards a society where agency increases? If the ecology for agency for students includes systems that are able to handle so many of their executive functioning what opportunities do they have to develop these?
+Executive functions like cognitive flexibility, working memory, or inihibition are shown to strongly relate to study success [@serpellDevelopmentExecutiveFunctions]. These tasks include goal-oriented behaviours and planning, but also reasoning and problem-solving [@diamondExecutiveFunctions2013]. AAI seems to step into exactly these areas where students need to grow during there time at a higher education institute. Technology is never just neutral nor is it inherently good or bad [@morrowWhenTechnologiesMakes2014; @heyndelsTechnologyNeutrality2023] it is there to be assistive to our human needs [@arora2024pessimism p. 32], and changes us just as much as we change it [@bruno1994technical, p.33]. In what direction are we then changing with it, are we changing towards a society where agency increases? If the ecology for agency for students includes systems that are able to handle so many of their executive functioning what opportunities do they have to develop these?
 
 
 ## Research Questions
@@ -49,6 +50,7 @@ As clarified in the Knowledge Gap, there is a close relation between action and 
 Where @kramerTeachersBeliefsComponent2019 used UMT to discover worldview among teachers I will investigate among a small group of students. The Ultimate Meanings Technique is a form of structured interview, that allows for easily being recorded on paper while conducting it. By starting out with a general "why"-question, the interviewer notes the answer(s) and continues of questioning line until an 'ultimate explainable meaning' is reached. The answers to the questions can be structured hierarchically in a nodal structure, like a "mind map", which in UMT terms is called the _meaning tree_.
 
 To analyse this the interviews will be analysed:
+
 1. Structurally by looking at the structure of a meaning tree. In the structural analysis repetition, negative statements and categories are identified.
 2. With content analysis that focuses on the way a subject is using both negative and positive language to display connectedness with people in the direct environment and society at large, concerning one with oneself at the cost of goal-directed activity, and self-restriction and what one does not allow oneself to do. To give an example to the question: "Why do people go to school?" -> "To _not_ fall behind", "To be able to find a job". Etc. 
 3. Phenomenologically to describe how the person projects worldview on things in the word to be, rather than how they are. By doing this finding more subjective meanings.
@@ -72,15 +74,16 @@ Before doing this I would like to interview a small group of students to determi
 We can not predict the future, nor can we extrapolate from current events with certainty. The Manoa Technique by @schultzManoaFutureNot2015 is a scenario development technique that exists to help us explore possible futures. For this study it seems suited as you it allows you to inquire after a number of dimensions and create a cross-impact matrix where the changes that intersect can be identified.
 
 For this to work I will work through almost all of the steps as @schultzManoaFutureNot2015 puts them forward:
-1. sketch out a future wheel that poses the emerging issue of Agentic AI in different ways: 
+
+1. Sketch out a future wheel that poses the emerging issue of Agentic AI in different ways: 
    1. as one that infringes upon student goal-orientation
    2. as one that is compatible with student goal-orientation
    3. as one where student goal-orientation are largely dependent on the use of AAI
 2. With a group I will create a setting where we can map influences and interconnections
 3. Probe more deeply to cover different aspects of student reality (e.g. how student life connects with family life, behaviour as consumer, social relations, as a citizen etc.)
-4. characterize my scenario
-5. build an emerging narrative
-6. stretch the narrative
+4. Characterize the scenario
+5. Build an emerging narrative
+6. Stretch the narrative
 
 The main goal is to creatively diverge and find a lot of different outcomes.
 
@@ -114,6 +117,8 @@ This both pushes the body of scientific knowledge, but also helps to adjust or a
 The Inclusive AI Lab in Utrecht which is part of the Utrecht University seeks to incorporate research findings in real world AI applications that are sustainable and inclusive. This opens the societal impact to a much wider audience.
 
 Within the group of Interaction Technology of which promotor Prof dr. ir. Masthoff is a part of there is a great need for exploring future implications of Agentic AI.
+
+Second supervisor Dr. Herder is part of the ACM Technology Policy Council, so the findings of this research could dictate on a larger scale how policy can be shaped.
 
 The impact for science will be increased by publishing the findings as separate papers and not a complete booklet at the end of the PhD-program. So findings can be used quickly.
 
